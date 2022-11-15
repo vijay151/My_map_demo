@@ -1,0 +1,671 @@
+--------- beginning of main
+08-25 17:13:09.433  2866  6593 E memtrack: Couldn't load memtrack module
+08-25 17:13:09.433  2866  6593 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:13:48.483  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:13:49.517  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:13:57.959  5835  6599 E memtrack: Couldn't load memtrack module
+08-25 17:13:57.960  5835  6599 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:14:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:14:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:14:00.004  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:14:00.007  2154  2154 D KeyguardClockSwitch: Updating clock: 514
+08-25 17:14:07.550  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:14:07.551  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:14:22.567  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:14:22.567  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:14:22.573  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:14:22.573  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:14:27.713  2010  2981 D WificondControl: Scan result ready event
+08-25 17:14:48.534  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:14:49.567  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:15:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for QUARTER_HOUR because the period ended
+08-25 17:15:00.003  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:15:00.010  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:15:00.011  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:15:00.019  2154  2154 D KeyguardClockSwitch: Updating clock: 515
+08-25 17:15:48.539  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:15:49.625  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:16:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:16:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:16:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:16:00.012  2154  2154 D KeyguardClockSwitch: Updating clock: 516
+08-25 17:16:48.573  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:16:49.680  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:17:00.000  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:17:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:17:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:17:00.009  2154  2154 D KeyguardClockSwitch: Updating clock: 517
+08-25 17:17:03.019  2641  4117 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.instantapps.routing.DomainFilterUpdateService started execution. cause:2 exec_start_elapsed_seconds: 3264 [CONTEXT service_id=218 ]
+--------- beginning of system
+08-25 17:17:03.023  2010  2981 W ActivityManager: Unable to start service Intent { act=com.android.vending.contentfilters.IContentFiltersService.BIND pkg=com.android.vending } U=0: not found
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: Exception thrown while unbinding
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: java.lang.IllegalArgumentException: Service not registered: rga@bc4ec07
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1751)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1776)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at slx.c(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at slx.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):6)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at adku.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):14)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at adkd.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at adkk.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  4117 W ConnectionTracker: 	at java.lang.Thread.run(Thread.java:919)
+08-25 17:17:03.024  2641  6059 E InstantApps: DomainFilterImpl: Error while reading domain filter from WHAPI
+08-25 17:17:03.024  2641  6059 E InstantApps: java.util.concurrent.ExecutionException: adks: Unable to read Finsky Content Filter settings
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.util.concurrent.FutureTask.report(FutureTask.java:123)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.util.concurrent.FutureTask.get(FutureTask.java:193)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adkm.get(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adpp.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adpp.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adpi.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at com.google.android.gms.instantapps.routing.DomainFilterUpdateChimeraService.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):28)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at aeme.call(Unknown Source:0)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at java.lang.Thread.run(Thread.java:919)
+08-25 17:17:03.024  2641  6059 E InstantApps: Caused by: adks: Unable to read Finsky Content Filter settings
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adku.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adkd.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	at adkk.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:17:03.024  2641  6059 E InstantApps: 	... 7 more
+08-25 17:17:03.024  2641  6059 W InstantApps: DomainFilterUpdateChimeraService: Retry later
+08-25 17:17:03.033  2641  4117 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.instantapps.routing.DomainFilterUpdateService finished executing. cause:2 result: 3 elapsed_millis: 61 uptime_millis: 61 exec_start_elapsed_seconds: 3264 [CONTEXT service_id=218 ]
+08-25 17:17:28.315  2010  2981 D WificondControl: Scan result ready event
+08-25 17:17:38.583  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:17:38.583  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:17:44.616  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:17:44.617  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:17:44.624  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:17:44.624  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:17:48.614  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:17:49.726  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:18:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:18:00.008  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:18:00.013  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:18:00.023  2154  2154 D KeyguardClockSwitch: Updating clock: 518
+08-25 17:18:01.698  2641  6609 E memtrack: Couldn't load memtrack module
+08-25 17:18:01.698  2641  6609 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:18:02.957  2010  2981 E memtrack: Couldn't load memtrack module
+08-25 17:18:02.957  2010  2981 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:18:09.494  2866  6610 E memtrack: Couldn't load memtrack module
+08-25 17:18:09.494  2866  6610 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:18:48.675  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:18:49.782  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:18:56.581  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:18:56.582  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:18:57.996  5835  6611 E memtrack: Couldn't load memtrack module
+08-25 17:18:57.996  5835  6611 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:19:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:19:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:19:00.008  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:19:00.015  2154  2154 D KeyguardClockSwitch: Updating clock: 519
+08-25 17:19:48.680  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:19:49.844  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:20:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:20:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:20:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:20:00.010  2154  2154 D KeyguardClockSwitch: Updating clock: 520
+08-25 17:20:28.895  2010  2433 D WificondControl: Scan result ready event
+08-25 17:20:48.739  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:20:49.903  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:21:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:21:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:21:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:21:00.014  2154  2154 D KeyguardClockSwitch: Updating clock: 521
+08-25 17:21:15.609  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:21:15.609  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:21:15.616  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:21:15.616  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:21:15.627  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:21:15.627  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:21:48.785  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:21:49.955  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:22:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:22:00.009  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:22:00.011  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:22:00.017  2154  2154 D KeyguardClockSwitch: Updating clock: 522
+08-25 17:22:38.105  2010  2054 E BluetoothAdapter: Bluetooth binder is null
+08-25 17:22:38.173  1744  2208 I netd    : trafficSwapActiveStatsMap() <43.78ms>
+08-25 17:22:38.180  1744  2208 I netd    : tetherGetStats() <2.77ms>
+08-25 17:22:48.800  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:22:50.001  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:23:00.003  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:23:00.008  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:23:00.009  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:23:00.021  2154  2154 D KeyguardClockSwitch: Updating clock: 523
+08-25 17:23:01.783  2641  6624 E memtrack: Couldn't load memtrack module
+08-25 17:23:01.783  2641  6624 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:23:03.317  2010  2981 E memtrack: Couldn't load memtrack module
+08-25 17:23:03.318  2010  2981 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:23:09.543  2866  6625 E memtrack: Couldn't load memtrack module
+08-25 17:23:09.543  2866  6625 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:23:11.493  2010  2048 I UsageStatsService: User[0] Flushing usage stats to disk
+08-25 17:23:11.523  2010  2048 E AppIdleHistory: Error writing app idle file for user 0
+08-25 17:23:20.685  3120  3147 W ocess.gservice: Reducing the number of considered missed Gc histogram windows from 144 to 100
+08-25 17:23:34.830  3134  3134 I BgTaskExecutorImpl: Starting PERIODIC background task RESTORE_SPEAKER_MODEL.
+08-25 17:23:34.834  3134  3134 I BgTaskExecutorImpl: Starting PERIODIC background task REFRESH_SEARCH_HISTORY.
+08-25 17:23:34.834  1745  1745 D Zygote  : Forked child process 6629
+08-25 17:23:34.840  2010  2050 I ActivityManager: Start proc 6629:com.google.android.partnersetup/u0a114 for service {com.google.android.partnersetup/com.google.android.partnersetup.InstalledAppJobService}
+08-25 17:23:34.840  6629  6629 W id.partnersetu: Unexpected CPU variant for X86 using defaults: x86
+08-25 17:23:34.853  3134  3348 W SearchServiceCore: Abort, client detached.
+08-25 17:23:34.863  1744  2208 I netd    : trafficSwapActiveStatsMap() <49.13ms>
+08-25 17:23:34.865  1744  2208 I netd    : tetherGetStats() <0.46ms>
+08-25 17:23:34.871  3134  6647 W LocationOracle: getBestLocation(): no location is available
+08-25 17:23:34.873  1744  2208 I netd    : bandwidthSetGlobalAlert(2097152) <0.19ms>
+08-25 17:23:34.888  6629  6629 I id.partnersetu: The ClassLoaderContext is a special shared library.
+08-25 17:23:34.889  6629  6629 I id.partnersetu: The ClassLoaderContext is a special shared library.
+08-25 17:23:34.896  5720  5749 I ConfigUpdater: Update started
+08-25 17:23:34.897  3134  6647 W LocationOracle: getBestLocation(): no location is available
+08-25 17:23:34.897  3134  6647 W CDHeaderDataHandler: Invalid integer value "" in experiments IDs.
+08-25 17:23:34.921  3051  3079 V DownloadManager: Deleting /data/data/com.android.providers.downloads/cache/en.model.metadata via provider delete
+08-25 17:23:34.934  3134  6661 I WebViewFactory: Loading com.google.android.webview version 74.0.3729.185 (code 373018518)
+08-25 17:23:34.936  3134  6661 I earchbox:searc: The ClassLoaderContext is a special shared library.
+08-25 17:23:34.939  3134  6661 I earchbox:searc: The ClassLoaderContext is a special shared library.
+08-25 17:23:34.977  3051  6671 D DownloadManager: [17] Starting
+08-25 17:23:34.983  5720  5733 W d.configupdate: Reducing the number of considered missed Gc histogram windows from 359 to 100
+08-25 17:23:34.999  3051  3071 W d.process.medi: Reducing the number of considered missed Gc histogram windows from 346 to 100
+08-25 17:23:35.000  3051  6671 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-25 17:23:35.001  3051  6671 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-25 17:23:35.044  3134  6661 I cr_LibraryLoader: Time to load native libraries: 1 ms (timestamps 6981-6982)
+08-25 17:23:35.055  3134  6661 I chromium: [INFO:library_loader_hooks.cc(50)] Chromium logging enabled: level = 0, default verbosity = 0
+08-25 17:23:35.056  3134  6661 I cr_LibraryLoader: Expected native library version number "74.0.3729.185", actual native library version number "74.0.3729.185"
+08-25 17:23:35.066  1745  1745 D Zygote  : Forked child process 6680
+08-25 17:23:35.074  2010  2050 I ActivityManager: Start proc 6680:com.google.android.webview:webview_service/u0a139 for service {com.google.android.webview/org.chromium.android_webview.services.VariationsSeedServer}
+08-25 17:23:35.075  6680  6680 W webview_servic: Unexpected CPU variant for X86 using defaults: x86
+08-25 17:23:35.114  6680  6680 I webview_servic: The ClassLoaderContext is a special shared library.
+08-25 17:23:35.115  6680  6680 I webview_servic: The ClassLoaderContext is a special shared library.
+08-25 17:23:35.125  6680  6680 I LoadedApk: No resource references to update in package com.google.android.webview
+08-25 17:23:35.125  6680  6680 I LoadedApk: No resource references to update in package com.google.android.trichromelibrary
+08-25 17:23:35.458  3051  6671 D DownloadManager: [17] Finished with status SUCCESS
+08-25 17:23:35.630  3051  6717 D DownloadManager: [18] Starting
+08-25 17:23:35.647  3051  6717 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-25 17:23:35.708  2010  2319 I ActivityManager: Killing 5835:com.google.android.gms:car/u0a116 (adj 995): empty for 3578s
+08-25 17:23:35.648  3051  6717 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-25 17:23:35.764  1745  1745 I Zygote  : Process 5835 exited due to signal 9 (Killed)
+08-25 17:23:35.796  2010  2051 I libprocessgroup: Successfully killed process cgroup uid 10116 pid 5835 in 87ms
+08-25 17:23:37.134  3051  6717 W DownloadManager: [18] Stop requested with status HTTP_DATA_ERROR: Failed reading response: javax.net.ssl.SSLProtocolException: Read error: ssl=0xdd846708: Failure in SSL library, usually a protocol error
+08-25 17:23:37.134  3051  6717 W DownloadManager: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT (external/boringssl/src/crypto/fipsmodule/cipher/e_aes.c:998 0xd7d02543:0x00000000)
+08-25 17:23:37.134  3051  6717 W DownloadManager: error:1000008b:SSL routines:OPENSSL_internal:DECRYPTION_FAILED_OR_BAD_RECORD_MAC (external/boringssl/src/ssl/tls_record.cc:298 0xd7d02543:0x00000000)
+08-25 17:23:37.135  3051  6717 D DownloadManager: [18] Finished with status CANNOT_RESUME
+08-25 17:23:37.178  5720  5720 I ConfigUpdater: Download failed, retrying...
+08-25 17:23:37.182  2010  2974 I ActivityManager: Killing 4036:com.google.android.apps.messaging/u0a130 (adj 995): empty for 3536s
+08-25 17:23:37.246  1745  1745 I Zygote  : Process 4036 exited due to signal 9 (Killed)
+08-25 17:23:37.262  2010  2051 I libprocessgroup: Successfully killed process cgroup uid 10130 pid 4036 in 79ms
+08-25 17:23:38.794  2010  6720 D WificondControl: Scan result ready event
+08-25 17:23:45.711  3134  3348 I WorkerManager: dispose()
+08-25 17:23:45.776  3134  3164 W earchbox:searc: Reducing the number of considered missed Gc histogram windows from 347 to 100
+08-25 17:23:48.814  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:23:50.043  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:24:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:24:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:24:00.004  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:24:00.014  2154  2154 D KeyguardClockSwitch: Updating clock: 524
+08-25 17:24:32.625  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:24:32.625  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:24:32.628  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:24:32.629  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:24:48.835  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:24:50.085  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:25:00.000  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:25:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:25:00.006  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:25:00.043  2154  2154 D KeyguardClockSwitch: Updating clock: 525
+08-25 17:25:38.654  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:25:38.654  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:25:38.657  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:25:38.657  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:25:48.868  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:25:50.135  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:26:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:26:00.003  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:26:00.003  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:26:00.009  2154  2154 D KeyguardClockSwitch: Updating clock: 526
+08-25 17:26:35.528  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:26:35.529  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:26:36.242  2641  2654 I .gms.persisten: Background concurrent copying GC freed 183991(6145KB) AllocSpace objects, 5(536KB) LOS objects, 44% free, 7555KB/13MB, paused 1.390ms total 155.085ms
+08-25 17:26:39.465  2010  2028 D WificondControl: Scan result ready event
+08-25 17:26:48.884  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:26:50.184  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:27:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:27:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:27:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:27:00.015  2154  2154 D KeyguardClockSwitch: Updating clock: 527
+08-25 17:27:03.655  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:27:03.655  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:27:48.946  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:27:50.245  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:28:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:28:00.003  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:28:00.004  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:28:00.012  2154  2154 D KeyguardClockSwitch: Updating clock: 528
+08-25 17:28:01.764  2641  6736 E memtrack: Couldn't load memtrack module
+08-25 17:28:01.764  2641  6736 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:28:03.659  2010  2981 E memtrack: Couldn't load memtrack module
+08-25 17:28:03.659  2010  2981 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:28:09.541  2866  6738 E memtrack: Couldn't load memtrack module
+08-25 17:28:09.541  2866  6738 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:28:48.951  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:28:50.285  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:29:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:29:00.010  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:29:00.012  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:29:00.066  2154  2154 D KeyguardClockSwitch: Updating clock: 529
+08-25 17:29:36.271  2641  4117 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService started execution. cause:4 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.366  2641  4118 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService started execution. cause:4 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.389  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService finished executing. cause:4 result: 1 elapsed_millis: 172 uptime_millis: 172 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.392  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService finished executing. cause:4 result: 1 elapsed_millis: 70 uptime_millis: 70 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.506  2866  3673 I Checkin : [EventLogChimeraService] Opted in for usage reporting: false
+08-25 17:29:36.506  2866  3673 I Checkin : [EventLogChimeraService] Aggregate from 1661426961064 (log), 1661426961064 (data)
+08-25 17:29:36.511  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.checkin.EventLogService started execution. cause:5 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.536  1745  1745 D Zygote  : Forked child process 6743
+08-25 17:29:36.543  6743  6743 W .android.video: Unexpected CPU variant for X86 using defaults: x86
+08-25 17:29:36.544  2010  2050 I ActivityManager: Start proc 6743:com.google.android.videos/u0a129 for service {com.google.android.videos/com.google.android.apps.play.movies.common.service.drm.RefreshLicenseTaskService}
+08-25 17:29:36.569  2010  2981 I DropBoxManagerService: add tag=event_data isTagEnabled=true flags=0x2
+08-25 17:29:36.575  2010  2049 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-25 17:29:36.576  2010  2049 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-25 17:29:36.586  6743  6743 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-25 17:29:36.586  6743  6743 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-25 17:29:36.586  6743  6743 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-25 17:29:36.587  6743  6743 I .android.video: The ClassLoaderContext is a special shared library.
+08-25 17:29:36.602  6743  6743 I .android.video: The ClassLoaderContext is a special shared library.
+08-25 17:29:36.618  2641  4118 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.checkin.EventLogService finished executing. cause:5 result: 1 elapsed_millis: 165 uptime_millis: 165 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.784  2641  4118 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:5 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.809  2010  6720 W ActivityManager: Unable to start service Intent { act=com.android.vending.contentfilters.IContentFiltersService.BIND pkg=com.android.vending } U=0: not found
+08-25 17:29:36.829  6743  6743 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+08-25 17:29:36.838  6743  6743 W MediaSessionCompat: Couldn't find a unique registered media button receiver in the given context.
+08-25 17:29:36.897  6743  6743 W PrimesInit: Primes instant initialization
+08-25 17:29:36.899  6743  6798 W Primes  : background initialization
+08-25 17:29:36.903  6743  6743 W PlayMovies: VideosInitializer.initializeApp:31 Installer Package: null
+08-25 17:29:36.903  6743  6743 W PlayMovies: 
+08-25 17:29:36.920  6743  6743 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+08-25 17:29:36.920  6743  6798 I PrimesTesting: GserviceFlagsSupplier.get()
+08-25 17:29:36.921  2641  4118 I NetworkScheduler.Stats: Task com.google.android.videos/ started execution. cause:5 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:36.929  2010  6720 I WifiService: acquireWifiLock uid=10129 lockMode=3
+08-25 17:29:36.933  2010  6720 I WifiService: releaseWifiLock uid=10129
+08-25 17:29:36.938  2010  2119 E SupplicantStaIfaceHal: ISupplicantStaIface.setPowerSave failed: {.code = FAILURE_UNKNOWN, .debugMessage = }
+08-25 17:29:37.026  2010  2135 W ProcessStats: Tracking association SourceState{b0bd931 com.google.android.gms.persistent/10116 ImpFg #5662} whose proc state 2 is better than process ProcessState{d1e9816 com.google.android.gms/10116 pkg=com.google.android.gms} proc state 3 (0 skipped)
+08-25 17:29:37.026  6743  6806 I VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+08-25 17:29:37.196  2641  3928 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 17:29:37.196  2641  3928 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-25 17:29:37.196  2641  3928 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:29:37.314  2641  3928 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-25 17:29:37.314  2641  3928 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-25 17:29:37.315  2641  3928 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:29:37.745  2641  4118 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:5 result: 1 elapsed_millis: 1025 uptime_millis: 1025 exec_start_elapsed_seconds: 4018 [CONTEXT service_id=218 ]
+08-25 17:29:40.096  2010  2981 D WificondControl: Scan result ready event
+08-25 17:29:42.672  2866  2879 W gle.android.gm: Reducing the number of considered missed Gc histogram windows from 347 to 100
+08-25 17:29:48.965  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:29:50.322  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:30:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for QUARTER_HOUR because the period ended
+08-25 17:30:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:30:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:30:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:30:00.016  2154  2154 D KeyguardClockSwitch: Updating clock: 530
+08-25 17:30:09.675  2010  2028 I ActivityManager: Killing 2758:android.process.acore/u0a55 (adj 995): empty for 3682s
+08-25 17:30:09.682  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:30:09.682  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:30:09.724  2010  6720 D CountryDetector: No listener is left
+08-25 17:30:09.727  1745  1745 I Zygote  : Process 2758 exited due to signal 9 (Killed)
+08-25 17:30:09.762  2010  2051 I libprocessgroup: Successfully killed process cgroup uid 10055 pid 2758 in 85ms
+08-25 17:30:35.678  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:30:35.678  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:30:48.997  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:30:50.380  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:31:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:31:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:31:00.004  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:31:00.010  2154  2154 D KeyguardClockSwitch: Updating clock: 531
+08-25 17:31:48.998  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:31:50.440  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:32:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:32:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:32:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:32:00.013  2154  2154 D KeyguardClockSwitch: Updating clock: 532
+08-25 17:32:40.663  2010  4237 D WificondControl: Scan result ready event
+08-25 17:32:49.060  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:32:50.492  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:33:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:33:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:33:00.006  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:33:00.015  2154  2154 D KeyguardClockSwitch: Updating clock: 533
+08-25 17:33:01.795  2641  6826 E memtrack: Couldn't load memtrack module
+08-25 17:33:01.795  2641  6826 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:33:03.743  2010  4237 E memtrack: Couldn't load memtrack module
+08-25 17:33:03.743  2010  4237 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:33:09.555  2866  6827 E memtrack: Couldn't load memtrack module
+08-25 17:33:09.555  2866  6827 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:33:49.068  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:33:50.554  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:34:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:34:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:34:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:34:00.073  2154  2154 D KeyguardClockSwitch: Updating clock: 534
+08-25 17:34:36.840  6743  6794 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+08-25 17:34:49.083  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:34:50.601  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:35:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:35:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:35:00.009  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:35:00.037  2154  2154 D KeyguardClockSwitch: Updating clock: 535
+08-25 17:35:41.244  2010  4542 D WificondControl: Scan result ready event
+08-25 17:35:46.714  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:35:46.714  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:35:46.718  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:35:46.718  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:35:49.146  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:35:50.711  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:36:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:36:00.008  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:36:00.010  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:36:00.029  2154  2154 D KeyguardClockSwitch: Updating clock: 536
+08-25 17:36:49.202  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:36:50.761  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:36:55.720  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:36:55.721  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:37:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:37:00.010  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:37:00.011  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:37:00.062  2154  2154 D KeyguardClockSwitch: Updating clock: 537
+08-25 17:37:49.264  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:37:50.813  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:38:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:38:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:38:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:38:00.089  2154  2154 D KeyguardClockSwitch: Updating clock: 538
+08-25 17:38:01.882  2641  6845 E memtrack: Couldn't load memtrack module
+08-25 17:38:01.882  2641  6845 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:38:03.929  2010  5586 E memtrack: Couldn't load memtrack module
+08-25 17:38:03.930  2010  5586 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:38:09.654  2866  6846 E memtrack: Couldn't load memtrack module
+08-25 17:38:09.655  2866  6846 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:38:41.924  2010  5586 D WificondControl: Scan result ready event
+08-25 17:38:49.301  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:38:50.834  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:39:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:39:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:39:00.008  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:39:00.039  2154  2154 D KeyguardClockSwitch: Updating clock: 539
+08-25 17:39:49.302  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:39:50.868  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:40:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:40:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:40:00.008  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:40:00.064  2154  2154 D KeyguardClockSwitch: Updating clock: 540
+08-25 17:40:36.738  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:40:36.738  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:40:49.318  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:40:50.904  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:41:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:41:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:41:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:41:00.059  2154  2154 D KeyguardClockSwitch: Updating clock: 541
+08-25 17:41:42.463  2010  4542 D WificondControl: Scan result ready event
+08-25 17:41:49.334  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:41:50.951  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:42:00.003  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:42:00.009  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:42:00.010  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:42:00.070  2154  2154 D KeyguardClockSwitch: Updating clock: 542
+08-25 17:42:49.351  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:42:50.968  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:43:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:43:00.004  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:43:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:43:00.013  2154  2154 D KeyguardClockSwitch: Updating clock: 543
+08-25 17:43:01.893  2641  6864 E memtrack: Couldn't load memtrack module
+08-25 17:43:01.893  2641  6864 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:43:04.021  2010  4542 E memtrack: Couldn't load memtrack module
+08-25 17:43:04.021  2010  4542 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:43:09.663  2866  6865 E memtrack: Couldn't load memtrack module
+08-25 17:43:09.663  2866  6865 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:43:12.051  2010  2048 I UsageStatsService: User[0] Flushing usage stats to disk
+08-25 17:43:12.090  2010  2048 E AppIdleHistory: Error writing app idle file for user 0
+08-25 17:43:49.367  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:43:51.001  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:43:59.762  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:43:59.763  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:44:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:44:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:44:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:44:00.029  2154  2154 D KeyguardClockSwitch: Updating clock: 544
+08-25 17:44:43.044  2010  4542 D WificondControl: Scan result ready event
+08-25 17:44:43.164  2641  4118 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:2 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.257  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.instantapps.routing.DomainFilterUpdateService started execution. cause:2 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.262  2010  5586 W ActivityManager: Unable to start service Intent { act=com.android.vending.contentfilters.IContentFiltersService.BIND pkg=com.android.vending } U=0: not found
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: Exception thrown while unbinding
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: java.lang.IllegalArgumentException: Service not registered: rga@35fe00b
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1751)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1776)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at slx.c(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at slx.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):6)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at adku.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):14)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at adkd.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at adkk.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.263  2641  6059 W ConnectionTracker: 	at java.lang.Thread.run(Thread.java:919)
+08-25 17:44:43.264  2641  3928 E InstantApps: DomainFilterImpl: Error while reading domain filter from WHAPI
+08-25 17:44:43.264  2641  3928 E InstantApps: java.util.concurrent.ExecutionException: adks: Unable to read Finsky Content Filter settings
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.util.concurrent.FutureTask.report(FutureTask.java:123)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.util.concurrent.FutureTask.get(FutureTask.java:193)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adkm.get(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adpp.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adpp.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adpi.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at com.google.android.gms.instantapps.routing.DomainFilterUpdateChimeraService.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):28)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at aeme.call(Unknown Source:0)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at java.lang.Thread.run(Thread.java:919)
+08-25 17:44:43.264  2641  3928 E InstantApps: Caused by: adks: Unable to read Finsky Content Filter settings
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adku.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adkd.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	at adkk.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 17:44:43.264  2641  3928 E InstantApps: 	... 7 more
+08-25 17:44:43.264  2641  3928 W InstantApps: DomainFilterUpdateChimeraService: Retry later
+08-25 17:44:43.270  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:2 result: 1 elapsed_millis: 180 uptime_millis: 180 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.281  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.instantapps.routing.DomainFilterUpdateService finished executing. cause:2 result: 3 elapsed_millis: 61 uptime_millis: 61 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.407  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.stats.PlatformStatsCollectorService started execution. cause:5 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.446  1745  1745 D Zygote  : Forked child process 6870
+08-25 17:44:43.448  2641  6059 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.stats.PlatformStatsCollectorService finished executing. cause:5 result: 1 elapsed_millis: 108 uptime_millis: 108 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.453  6870  6870 W ndroid.calenda: Unexpected CPU variant for X86 using defaults: x86
+08-25 17:44:43.458  2010  2050 I ActivityManager: Start proc 6870:com.google.android.calendar/u0a144 for service {com.google.android.calendar/com.firebase.jobdispatcher.GooglePlayReceiver}
+08-25 17:44:43.491  6870  6870 I ndroid.calenda: The ClassLoaderContext is a special shared library.
+08-25 17:44:43.493  6870  6870 I ndroid.calenda: The ClassLoaderContext is a special shared library.
+08-25 17:44:43.575  1745  1745 D Zygote  : Forked child process 6905
+08-25 17:44:43.577  6905  6905 W viders.calenda: Unexpected CPU variant for X86 using defaults: x86
+08-25 17:44:43.583  2010  2050 I ActivityManager: Start proc 6905:com.android.providers.calendar/u0a56 for content provider {com.android.providers.calendar/com.android.providers.calendar.CalendarProvider2}
+08-25 17:44:43.643  6870  6870 W Primes  : Primes not initialized, returning default (no-op) Primes instance which will ignore all calls. Please call Primes.initialize(...) before using any Primes API.
+08-25 17:44:43.647  6905  6905 I viders.calenda: The ClassLoaderContext is a special shared library.
+08-25 17:44:43.678  6905  6905 I CalendarProvider2: Created com.android.providers.calendar.CalendarAlarmManager@37484e9(com.android.providers.calendar.CalendarProvider2@e51c56e)
+08-25 17:44:43.695  2641  3928 I NetworkScheduler.Stats: Task com.google.android.calendar/ started execution. cause:5 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.703  6870  6870 W GrowthKit: Failed to initialize SyncGcoreGcmTaskService
+08-25 17:44:43.703  6870  6870 W GrowthKit: java.lang.NullPointerException: Unable to get GrowthKit Component from host app.
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.inject.GrowthKit.get(GrowthKit.java:43)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.internal.jobs.impl.GrowthKitJobService.onCreate(GrowthKitJobService.java:66)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:3953)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.app.ActivityThread.access$1500(ActivityThread.java:219)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1875)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.os.Looper.loop(Looper.java:214)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at java.lang.reflect.Method.invoke(Native Method)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-25 17:44:43.703  6870  6870 W GrowthKit: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-25 17:44:43.714  2641  6059 I NetworkScheduler.Stats: Task com.google.android.calendar/ finished executing. cause:5 result: 1 elapsed_millis: 284 uptime_millis: 284 exec_start_elapsed_seconds: 4925 [CONTEXT service_id=218 ]
+08-25 17:44:43.787  6870  6870 W GrowthKit: Failed to get phenotypeManager in PhenotypeBroadcastReceiver
+08-25 17:44:43.787  6870  6870 W GrowthKit: java.lang.NullPointerException: Unable to get GrowthKit Component from host app.
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.inject.GrowthKit.get(GrowthKit.java:43)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.internal.experiments.impl.PhenotypeBroadcastReceiver.onReceive(PhenotypeBroadcastReceiver.java:25)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:3788)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.app.ActivityThread.access$1400(ActivityThread.java:219)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1870)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.os.Looper.loop(Looper.java:214)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at java.lang.reflect.Method.invoke(Native Method)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-25 17:44:43.787  6870  6870 W GrowthKit: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-25 17:44:43.789  2010  4237 I ActivityManager: Killing 5440:com.android.dialer/u0a120 (adj 985): empty for 4551s
+08-25 17:44:43.833  1745  1745 I Zygote  : Process 5440 exited due to signal 9 (Killed)
+08-25 17:44:43.836  2010  2051 I libprocessgroup: Successfully killed process cgroup uid 10120 pid 5440 in 45ms
+08-25 17:44:49.375  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:44:51.051  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:45:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for QUARTER_HOUR because the period ended
+08-25 17:45:00.003  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:45:00.008  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:45:00.010  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:45:00.049  2154  2154 D KeyguardClockSwitch: Updating clock: 545
+08-25 17:45:12.770  2010  2538 I ActivityManager: Killing 6247:com.android.chrome/u0a127 (adj 995): empty for 4395s
+08-25 17:45:12.781  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.781  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.786  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.786  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.790  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.790  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.796  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.796  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.798  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.798  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.802  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.802  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.804  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.804  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.806  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.806  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.810  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:12.810  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:12.814  1745  1745 I Zygote  : Process 6247 exited due to signal 9 (Killed)
+08-25 17:45:12.815  2010  2135 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(NetworkRequest [ TRACK_DEFAULT id=25, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10127] ], android.os.BinderProxy@48f8c14)
+08-25 17:45:12.815  2010  4237 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(NetworkRequest [ LISTEN id=26, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&FOREGROUND Uid: 10127] ], android.os.BinderProxy@944ecbd)
+08-25 17:45:12.815  2010  2981 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(NetworkRequest [ TRACK_DEFAULT id=27, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10127] ], android.os.BinderProxy@9a892b2)
+08-25 17:45:12.815  2010  2285 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(NetworkRequest [ LISTEN id=28, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&FOREGROUND Uid: 10127] ], android.os.BinderProxy@124e203)
+08-25 17:45:12.815  2010  2123 D ConnectivityService: releasing NetworkRequest [ TRACK_DEFAULT id=25, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10127] ] (release request)
+08-25 17:45:12.819  2010  2123 D ConnectivityService: releasing NetworkRequest [ TRACK_DEFAULT id=27, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10127] ] (release request)
+08-25 17:45:12.821  2010  2051 I libprocessgroup: Successfully killed process cgroup uid 10127 pid 6247 in 45ms
+08-25 17:45:39.777  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:39.777  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:39.793  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:39.793  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:49.385  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:45:51.101  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:45:59.784  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:59.784  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:59.794  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:59.795  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:45:59.805  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:45:59.805  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:46:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:46:00.005  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:46:00.005  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:46:00.013  2154  2154 D KeyguardClockSwitch: Updating clock: 546
+08-25 17:46:09.781  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:46:09.781  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:46:49.403  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:46:51.151  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:47:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:47:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:47:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:47:00.042  2154  2154 D KeyguardClockSwitch: Updating clock: 547
+08-25 17:47:43.665  2010  2974 D WificondControl: Scan result ready event
+08-25 17:47:49.465  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:47:51.179  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:47:55.289  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:47:55.289  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:48:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:48:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:48:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:48:00.047  2154  2154 D KeyguardClockSwitch: Updating clock: 548
+08-25 17:48:01.877  2641  6962 E memtrack: Couldn't load memtrack module
+08-25 17:48:01.877  2641  6962 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:48:04.138  2010  2980 E memtrack: Couldn't load memtrack module
+08-25 17:48:04.138  2010  2980 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:48:09.697  2866  6963 E memtrack: Couldn't load memtrack module
+08-25 17:48:09.698  2866  6963 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:48:49.468  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:48:51.218  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:49:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:49:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:49:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:49:00.036  2154  2154 D KeyguardClockSwitch: Updating clock: 549
+08-25 17:49:49.476  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:49:51.261  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:50:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:50:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:50:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:50:00.044  2154  2154 D KeyguardClockSwitch: Updating clock: 550
+08-25 17:50:44.245  2010  2980 D WificondControl: Scan result ready event
+08-25 17:50:49.484  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:50:51.301  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:50:52.806  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:50:52.806  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:50:52.813  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:50:52.813  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:51:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:51:00.006  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:51:00.008  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:51:00.048  2154  2154 D KeyguardClockSwitch: Updating clock: 551
+08-25 17:51:49.546  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:51:51.352  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:52:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:52:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:52:00.008  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:52:00.025  2154  2154 D KeyguardClockSwitch: Updating clock: 552
+08-25 17:52:38.097  2010  2054 E BluetoothAdapter: Bluetooth binder is null
+08-25 17:52:38.152  1744  2208 I netd    : trafficSwapActiveStatsMap() <47.60ms>
+08-25 17:52:38.157  1744  2208 I netd    : tetherGetStats() <1.31ms>
+08-25 17:52:49.607  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:52:51.407  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:53:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:53:00.010  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:53:00.011  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:53:00.038  2154  2154 D KeyguardClockSwitch: Updating clock: 553
+08-25 17:53:01.911  2641  6969 E memtrack: Couldn't load memtrack module
+08-25 17:53:01.911  2641  6969 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:53:04.265  2010  2980 E memtrack: Couldn't load memtrack module
+08-25 17:53:04.265  2010  2980 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:53:08.819  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:53:08.819  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:53:09.734  2866  6970 E memtrack: Couldn't load memtrack module
+08-25 17:53:09.734  2866  6970 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:53:40.923  1744  2208 I netd    : trafficSwapActiveStatsMap() <47.41ms>
+08-25 17:53:40.927  1744  2208 I netd    : tetherGetStats() <1.65ms>
+08-25 17:53:40.980  1744  2208 I netd    : bandwidthSetGlobalAlert(2097152) <0.16ms>
+08-25 17:53:44.845  2010  2974 D WificondControl: Scan result ready event
+08-25 17:53:49.614  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:53:51.450  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:54:00.002  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:54:00.012  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:54:00.013  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:54:00.048  2154  2154 D KeyguardClockSwitch: Updating clock: 554
+08-25 17:54:49.673  1921  1921 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 17:54:51.498  1923  1923 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 17:54:57.855  2154  2167 I ndroid.systemu: Background young concurrent copying GC freed 185140(4229KB) AllocSpace objects, 0(0B) LOS objects, 34% free, 8306KB/12MB, paused 5.252ms total 36.951ms
+08-25 17:55:00.001  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:55:00.007  5999  5999 I chatty  : uid=10131(com.google.android.deskclock) identical 6 lines
+08-25 17:55:00.007  5999  5999 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 17:55:00.040  2154  2154 D KeyguardClockSwitch: Updating clock: 555
+08-25 17:55:06.824  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:55:06.824  2010  2048 W android.os.Debug: failed to get memory consumption info: -1
+08-25 17:55:06.831  2010  2048 E memtrack: Couldn't load memtrack module
+08-25 17:55:06.832  2010  2048 W android.os.Debug: failed to get memory consumption info: -1

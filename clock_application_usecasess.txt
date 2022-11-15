@@ -1,0 +1,61 @@
+Clock Application
+ I. open clock app 
+	 1. trun ON your emulator or smart phone After that Swipe up from the bottom of your screen to the top. If you get All Apps , tap it.
+	 2.Tap the  clock app then you will see at the top 4 opstions
+	   A. Alarm 
+	   B. Clock
+	   C. Timer 
+	   D . Stopwatch 
+	 3.pick an alarm.
+   I. Set an alarm 
+    1. To add an alarm,tap Add button 
+	2.set the alarm time.
+	  a.on the analog clock: slide the hand to the hour you want.then slide the hand to the minutes you want.
+    3.With the 12-hour format :select the AM or PM. 
+	4.tap Ok 
+   II. Turn  Alarm ON/OFF
+	  1. On the alarm you want,tap the ON/OFF switch.
+	  2. if the alarm is set repeat,
+		a. every day you want.
+		b. every sunday.
+		c. every monday.
+		d. every tuesday.
+		e. every wednesday.
+		f. every thursday.
+		g. every friday.
+		h. every saturday.
+	  3. tap any opstion you want to repeat.
+	  4 tap save.
+	
+   III.Change Alarm Sound or Song
+     1. On the alarm you want,tap the down arrow 
+     2. Tap the current sounds name 
+     3. Choose a sound:
+		a. Pick a sound from the list: tap it.
+		b. Use your own sound file: if you have downloaded a sound file to  your phnone.
+		c. Tap Add new > your sound file tap it.
+     4. Tap ok bottom.
+   IV. Cancel or Delete alarm
+    1. On the alarm you want, tap down arrow
+    2. Cancel: to cancel an alarm scheduled to go off in the next 2 hours, tap Dismiss.
+    3. Delete: To permanently delete the alarm, tap Delete.
+   
+    V. Change alarm name, repetition,or Vibration
+	 1. Tap alarm ,on the alarm you want,tap the down arrow.
+	 2. Name: to name the alarm ,tap Add labe 
+	 3.Repetition:
+	   a. to make the alarm repeat, tap the days of week.
+	   
+	 4. Vibration: 
+	   a. to tur alarm vibrations Off or on,tap vibrate.
+	   
+	   
+ II. World clock 
+   1. Open the Clock app ,tap it.
+   2. Tap the Clock button : globe symbole in bottom center of the sceen .
+   3. Check off whatever cities you want, included in your clock.
+   4. Tap the Back button.   
+   5. the clock app will now show the current time for all the cities you selected.
+ III. Timer 
+ IV. Stopwatch 
+	   

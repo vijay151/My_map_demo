@@ -1,0 +1,1131 @@
+--------- beginning of main
+08-28 20:37:06.278  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 20:37:06.282  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 20:37:06.284  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 20:37:06.284  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 20:37:06.504  4501  5251 I Dialer  : VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@75526c0
+08-28 20:37:06.504  4501  5251 I Dialer  : PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+08-28 20:37:06.567  3733  3759 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+08-28 20:37:06.568  4501  5251 I Dialer  : VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+08-28 20:37:06.569  4501  5251 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+08-28 20:37:06.576  3733  3759 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+08-28 20:37:06.581  2602  3017 I LocationAccessPolicy: Allowing com.android.dialer fine because it doesn't target API 29 yet. Please fix this app. Called from getServiceStateForSubscriber
+08-28 20:37:06.582  2602  3017 I LocationAccessPolicy: Allowing com.android.dialer coarse because it doesn't target API 29 yet. Please fix this app. Called from getServiceStateForSubscriber
+--------- beginning of system
+08-28 20:37:06.624  2014  3890 D PackageManager: Instant App installer not found with android.intent.action.INSTALL_INSTANT_APP_PACKAGE
+08-28 20:37:06.624  2014  3890 D PackageManager: Clear ephemeral installer activity
+08-28 20:37:07.668  2014  2051 E system_server: No package ID 7f found for ID 0x7f02009c.
+08-28 20:37:07.668  2014  2051 E system_server: No package ID 7f found for ID 0x7f12023d.
+08-28 20:37:07.682  2014  2125 I InputReader: Reconfiguring input devices.  changes=0x00000010
+08-28 20:37:07.687  2014  2014 I RoleManagerService: Granting default permissions...
+08-28 20:37:07.712  2014  2014 I Telecom : DefaultDialerCache: Refreshing default dialer for user 0: now com.android.dialer: CM.CCCR->CM.UECNT->CM.CCCR->CM.UECNT@AE8
+08-28 20:37:07.737  2602  2602 D CarrierSvcBindHelper: No carrier app for: 0
+08-28 20:37:07.761  2194  7550 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gm flg=0x45000010 cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+08-28 20:37:07.775  2194  7551 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+08-28 20:37:07.887  2403  4811 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36
+08-28 20:37:07.902  2403  2712 W Icing   : No valid account for uploading user actions
+08-28 20:37:07.913  2403  2712 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+08-28 20:37:07.917  2403  4448 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+08-28 20:37:07.921  2403  2712 W Icing   : No valid account for uploading user actions
+08-28 20:37:07.929  2403  2712 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+08-28 20:37:08.387  2014  2051 I RoleUserState: Wrote roles.xml successfully
+08-28 20:37:08.720  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:08.720  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:08.920  2403  2712 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+08-28 20:37:08.966  2403  2712 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+08-28 20:37:08.975  2403  2712 I Icing   : Indexing done com.google.android.gms-apps
+08-28 20:37:08.978  2403  2712 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+08-28 20:37:09.147  7019  7019 I CAR.SERVICE: Skip, no clients bound. [CONTEXT service_id=13 ]
+08-28 20:37:09.148  7019  7019 I CAR.TEL.Service: Unbinding from InCallService [CONTEXT service_id=13 ]
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: Exception thrown while unbinding
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: java.lang.IllegalArgumentException: Service not registered: njn@d7226ed
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1751)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1776)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:741)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at slx.c(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at slx.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):6)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at njq.g(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at njq.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at nno.j(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at npf.j(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at com.google.android.gms.car.CarChimeraService.onDestroy(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at qma.onDestroy(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.ActivityThread.handleStopService(ActivityThread.java:4116)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.ActivityThread.access$1900(ActivityThread.java:219)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1896)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.os.Looper.loop(Looper.java:214)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at java.lang.reflect.Method.invoke(Native Method)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-28 20:37:09.148  7019  7019 W ConnectionTracker: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-28 20:37:09.148  7019  7019 I CAR.TEL.CarCall: clearCalls [CONTEXT service_id=13 ]
+08-28 20:37:09.148  7019  7019 I CAR.TEL.Service: Clearing calls during removePhone [CONTEXT service_id=13 ]
+08-28 20:37:09.148  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:09.149  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:11.224  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:11.224  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:11.227  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:11.227  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:11.229  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:11.229  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:11.289  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 20:37:11.290  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 20:37:11.291  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 20:37:11.291  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 20:37:11.627  2014  2382 W ActivityManager: Background start not allowed: service Intent { cmp=com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService } to com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService from pid=3825 uid=10130 pkg=com.google.android.apps.messaging startFg?=false
+08-28 20:37:11.631  3825  4403 I Bugle   : CountryCodeDetector: updateMainDeviceCountry from default subscription network country. detected country: us
+08-28 20:37:11.634  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:11.634  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:14.481  2014  2121 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.drive.ApiService.RESET_AFTER_BOOT flg=0x4 cmp=com.google.android.gms/.drive.api.ApiService (has extras) } U=0: not found
+08-28 20:37:14.496  2403  7546 I Vision  : Requesting optional module download of ocr.
+08-28 20:37:14.496  2403  7546 I Vision  : Checking for download completion for 135099 -- ocr
+08-28 20:37:16.296  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 20:37:16.298  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 20:37:16.299  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 20:37:16.299  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 20:37:16.299  3850  3996 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 20:37:17.090  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 20:37:17.128  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 20:37:18.450  2014  3889 D WificondControl: Scan result ready event
+08-28 20:37:18.547  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:18.547  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:21.230  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:21.231  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:21.309  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 20:37:21.313  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 20:37:21.315  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 20:37:21.316  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 20:37:22.798  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:22.799  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:24.499  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:24.499  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:24.510  2403  7561 I Vision  : Requesting optional module download of ocr.
+08-28 20:37:24.510  2403  7561 I Vision  : Checking for download completion for 145113 -- ocr
+08-28 20:37:24.592  2194  5632 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService started execution. cause:4 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:24.732  2194  3999 W GLSUser : [AppCertManager] Failed to get security token.
+08-28 20:37:24.732  2194  3999 W GLSUser : java.io.IOException: INVALID_SENDER
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at adiw.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):23)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at adiw.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):18)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at adiw.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):11)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at hwy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):17)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at hww.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):45)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at hwr.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at hwu.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at gbi.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.732  2194  3999 W GLSUser : 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:37:24.800  2194  3999 W GLSUser : [AppCertManager] IOException while requesting key: 
+08-28 20:37:24.800  2194  3999 W GLSUser : java.io.IOException: Invalid device key response.
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at hwy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):49)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at hww.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):45)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at hwr.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at hwu.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at gbi.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:24.800  2194  3999 W GLSUser : 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:37:24.805  2194  7566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService finished executing. cause:4 result: 3 elapsed_millis: 256 uptime_millis: 256 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:24.890  2194  7566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ads.social.GcmSchedulerWakeupService started execution. cause:5 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:24.894  2194  5632 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ads.social.GcmSchedulerWakeupService finished executing. cause:5 result: 1 elapsed_millis: 42 uptime_millis: 42 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:24.965  2194  7566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:5 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:25.008  2194  7566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:5 result: 1 elapsed_millis: 79 uptime_millis: 79 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:25.088  2194  4809 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:5 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:25.445  2194  7566 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 20:37:25.445  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:37:25.445  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:25.536  2194  7566 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 20:37:25.536  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:37:25.536  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:26.315  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 20:37:26.319  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 20:37:26.319  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 122960 , only wrote 122946
+08-28 20:37:26.320  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 20:37:26.320  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 20:37:26.320  3850  3996 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 20:37:26.320  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 20:37:26.322  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:26.397  2014  2124 I WindowManager: Ignoring HOME; event canceled.
+08-28 20:37:26.397  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 20:37:26.452  2194  7566 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 20:37:26.452  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:37:26.452  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:26.569  2194  7566 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 20:37:26.569  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:37:26.569  2194  7566 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:37:26.578  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:26.729  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 8 lines
+08-28 20:37:26.748  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:26.826  2194  5632 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:5 result: 1 elapsed_millis: 1773 uptime_millis: 1773 exec_start_elapsed_seconds: 135 [CONTEXT service_id=218 ]
+08-28 20:37:26.967  2194  2566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.chimera.container.ConfigService started execution. cause:5 exec_start_elapsed_seconds: 137 [CONTEXT service_id=218 ]
+08-28 20:37:26.972  2403  2712 I ChimeraConfigurator: Starting update, reason: 1 urgentFeatures: 
+08-28 20:37:26.985  2403  2712 E ConfigFileUtils: Failed to read config file: /data/user_de/0/com.google.android.gms/app_chimera/next_container.pb: open failed: ENOENT (No such file or directory)
+08-28 20:37:27.002  2403  2712 I ChmraDebugLogger: [73] 1801
+08-28 20:37:27.005  2403  2712 I ChmraDebugLogger: [30] [VisionOcr.optional:202414000700] permitMetered=true,
+08-28 20:37:27.011  2403  2712 I ChimeraConfigService: Scheduling checkin for one-off execution between [3300,43200] seconds from now (1661699247011)
+08-28 20:37:27.022  2403  2712 I ChimeraConfigService: Scheduling checkin every 43200 seconds, with flex of 1800 seconds
+08-28 20:37:27.046  2194  2566 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.chimera.container.ConfigService finished executing. cause:5 result: 2 elapsed_millis: 118 uptime_millis: 118 exec_start_elapsed_seconds: 137 [CONTEXT service_id=218 ]
+08-28 20:37:27.972  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.310  2014  3203 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock bnds=[854,336][1123,673]} from uid 10109
+08-28 20:37:28.344  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 30 lines
+08-28 20:37:28.359  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.357  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:29.361  2014  2047 E system_server: Invalid ID 0x00000000.
+08-28 20:37:29.373  2014  2014 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+08-28 20:37:29.374  2014  2014 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+08-28 20:37:29.374  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:29.398  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.398  2014  3203 I chatty  : uid=1000(system) Binder:2014_F identical 8 lines
+08-28 20:37:29.398  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.406  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:29.411  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:29.411  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:29.426  1748  1748 D Zygote  : Forked child process 7575
+08-28 20:37:29.429  2014  2053 I ActivityManager: Start proc 7575:com.google.android.deskclock/u0a133 for activity {com.google.android.deskclock/com.android.deskclock.DeskClock}
+08-28 20:37:29.430  7575  7575 W droid.deskcloc: Unexpected CPU variant for X86 using defaults: x86
+08-28 20:37:29.484  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.495  2014  3203 I chatty  : uid=1000(system) Binder:2014_F identical 28 lines
+08-28 20:37:29.495  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.511  7575  7575 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:37:29.511  7575  7575 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-28 20:37:29.511  7575  7575 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:37:29.514  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.514  2014  2047 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-28 20:37:29.515  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:29.515  7575  7575 I droid.deskcloc: The ClassLoaderContext is a special shared library.
+08-28 20:37:29.529  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:29.592  7575  7575 W PrimesInit: Primes instant initialization
+08-28 20:37:29.596  7575  7575 I GAv4    : Google Analytics 11.0.11 is starting up. To enable debug logging on a device run:
+08-28 20:37:29.596  7575  7575 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+08-28 20:37:29.596  7575  7575 I GAv4    :   adb logcat -s GAv4
+08-28 20:37:29.613  7575  7605 W Primes  : background initialization
+08-28 20:37:29.629  2014  2141 I system_server: IncrementDisableThreadFlip blocked for 21.919ms
+08-28 20:37:29.646  7575  7609 W GAv4    : AnalyticsReceiver is not registered or is disabled. Register the receiver for reliable dispatching on non-Google Play devices. See http://goo.gl/8Rd3yj for instructions.
+08-28 20:37:29.650  2602  2615 I m.android.phon: Background young concurrent copying GC freed 13839(1406KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 2113KB/3481KB, paused 14.954ms total 68.429ms
+08-28 20:37:29.667  7575  7609 W GAv4    : CampaignTrackingReceiver is not registered, not exported or is disabled. Installation campaign tracking is not possible. See http://goo.gl/8Rd3yj for instructions.
+08-28 20:37:29.672  2403  2447 I FontLog : Received query Google Sans:500, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-28 20:37:29.672  2403  2447 I FontLog : Query [Google Sans:500] resolved to {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:29.677  7575  7609 W GAv4    : AnalyticsService not registered in the app manifest. Hits might not be delivered reliably. See http://goo.gl/8Rd3yj for instructions.
+08-28 20:37:29.682  2014  3889 I ActivityManager: Killing 7019:com.google.android.gms:car/u0a111 (adj 985): empty #17
+08-28 20:37:29.694  2403  2447 I FontLog : Font PFD returned from cache for {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:29.694  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.694  2403  2447 I FontLog : Fetch {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-28 20:37:29.697  2014  2027 I system_server: Background young concurrent copying GC freed 71076(3783KB) AllocSpace objects, 23(1536KB) LOS objects, 29% free, 12MB/17MB, paused 9.232ms total 133.822ms
+08-28 20:37:29.701  2403  4676 I FontLog : Pulling font file for id = 5, cache size = 5 [CONTEXT service_id=132 ]
+08-28 20:37:29.702  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:29.704  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.725  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 20:37:29.727  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.732  2403  4676 I FontLog : Received query Google Sans, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-28 20:37:29.733  2403  4676 I FontLog : Query [Google Sans] resolved to {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:29.738  2403  4676 I FontLog : Font PFD returned from cache for {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:29.738  2403  4676 I FontLog : Fetch {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-28 20:37:29.750  1748  1748 I Zygote  : Process 7019 exited due to signal 9 (Killed)
+08-28 20:37:29.751  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 20:37:29.754  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.765  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.770  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10111 pid 7019 in 87ms
+08-28 20:37:29.783  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:29.786  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.788  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.799  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 20:37:29.802  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.820  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 20:37:29.822  2403  4676 I FontLog : Pulling font file for id = 6, cache size = 6 [CONTEXT service_id=132 ]
+08-28 20:37:29.825  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.827  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.834  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:29.835  7575  7605 I PrimesTesting: GserviceFlagsSupplier.get()
+08-28 20:37:29.836  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.856  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 20:37:29.862  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.864  1779  1880 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 20:37:29.873  1779  1880 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 20:37:29.875  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 20:37:29.875  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.877  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.883  7575  7575 I AppLifecycleTracker: onActivityCreated: 
+08-28 20:37:29.892  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:29.893  7575  7616 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-28 20:37:29.901  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.904  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.904  7575  7616 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+08-28 20:37:29.913  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 20:37:29.916  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.918  7575  7616 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-28 20:37:29.925  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 20:37:29.927  7575  7616 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-28 20:37:29.880  7575  7575 W RenderThread: type=1400 audit(0.0:32): avc: denied { write } for name="property_service" dev="tmpfs" ino=7346 scontext=u:r:untrusted_app_27:s0:c133,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0 app=com.google.android.deskclock
+08-28 20:37:29.930  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.930  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.940  7575  7616 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-28 20:37:29.940  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:29.946  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: Failed to instantiate custom view inflater android.support.v7.app.AppCompatViewInflater. Falling back to default.
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at java.lang.Class.classForName(Native Method)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:454)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:379)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at yb.a(PG:401)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at yb.onCreateView(PG:412)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.tryCreateView(LayoutInflater.java:1061)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:997)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:961)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:659)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:534)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:481)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.DecorView.onResourcesLoaded(DecorView.java:2083)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.generateLayout(PhoneWindow.java:2627)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.installDecor(PhoneWindow.java:2694)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.getDecorView(PhoneWindow.java:2094)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at aop.onCreate(PG:4)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.deskclock.DeskClock.onCreate(PG:26)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7802)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7791)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1299)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3245)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3409)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2016)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.os.Looper.loop(Looper.java:214)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at java.lang.reflect.Method.invoke(Native Method)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: Caused by: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 20:37:29.950  7575  7575 I AppCompatDelegate: 	... 32 more
+08-28 20:37:29.958  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 20:37:29.962  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.971  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 20:37:29.972  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:29.979  1766  1976 W EmuHWC2 : validate: layer 14 CompositionType 1, fallback
+08-28 20:37:29.990  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 20:37:30.000  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:30.013  7575  7575 I AppCompatViewInflater: app:theme is now deprecated. Please move to using android:theme instead.
+08-28 20:37:30.048  1779  1779 E Layer   : [Surface(name=AppWindowToken{2895f36 token=Token{916c8d1 ActivityRecord{9d5bbf8 u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity t5}}})/@0xf14e82c - animation-leash#0] No local sync point found
+08-28 20:37:30.048  1779  1779 E Layer   : [Surface(name=AppWindowToken{2895f36 token=Token{916c8d1 ActivityRecord{9d5bbf8 u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity t5}}})/@0xf14e82c - animation-leash#0] No local sync point found
+08-28 20:37:30.048  1779  1779 E Layer   : [Surface(name=AppWindowToken{f9cab6f token=Token{bdd2e4e ActivityRecord{e9a8549 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t7}}})/@0xe1252b9 - animation-leash#0] No local sync point found
+08-28 20:37:30.048  1779  1779 E Layer   : [Surface(name=AppWindowToken{f9cab6f token=Token{bdd2e4e ActivityRecord{e9a8549 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t7}}})/@0xe1252b9 - animation-leash#0] No local sync point found
+08-28 20:37:30.049  3850  5602 D EGL_emulation: eglMakeCurrent: 0xd494ab40: ver 2 0 (tinfo 0xbae42840)
+08-28 20:37:30.072  2403  4676 I FontLog : Received query Google Sans:500, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-28 20:37:30.073  2403  4676 I FontLog : Query [Google Sans:500] resolved to {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:30.075  2403  4676 I FontLog : Font PFD returned from cache for {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:30.076  2403  4676 I FontLog : Fetch {Google Sans, wdth 100.0, wght 500, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-28 20:37:30.078  2833  3697 D EGL_emulation: eglMakeCurrent: 0xd7f1a300: ver 2 0 (tinfo 0xd7f0f420)
+08-28 20:37:30.094  2403  4676 I FontLog : Pulling font file for id = 7, cache size = 7 [CONTEXT service_id=132 ]
+08-28 20:37:30.129  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 20:37:30.130  7575  7575 I AppLifecycleTracker: App transition to foreground
+08-28 20:37:30.132  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 20:37:30.194  7575  7575 D AlarmClock: Events: [Settings] [Home Time Zone] [Asia/Calcutta]
+08-28 20:37:30.245  2403  4676 I FontLog : Received query Google Sans, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-28 20:37:30.246  2403  4676 I FontLog : Query [Google Sans] resolved to {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:30.254  2403  4676 I FontLog : Font PFD returned from cache for {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:30.254  2403  4676 I FontLog : Fetch {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-28 20:37:30.261  2403  4676 I FontLog : Pulling font file for id = 8, cache size = 8 [CONTEXT service_id=132 ]
+08-28 20:37:30.277  7575  7618 I AlarmClock: Priming ringtone title cache
+08-28 20:37:30.341  7575  7614 D HostConnection: HostConnection::get() New Host Connection established 0xd4946540, tid 7614
+08-28 20:37:30.344  7575  7614 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 20:37:30.359  7575  7614 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-28 20:37:30.367  7575  7614 D EGL_emulation: eglCreateContext: 0xd494b4a0: maj 2 min 0 rcv 2
+08-28 20:37:30.377  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:30.386  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:30.406  1649  1649 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+08-28 20:37:30.406  7575  7614 W Gralloc3: mapper 3.x is not supported
+08-28 20:37:30.458  7575  7614 D HostConnection: createUnique: call
+08-28 20:37:30.459  7575  7614 D HostConnection: HostConnection::get() New Host Connection established 0xd49499c0, tid 7614
+08-28 20:37:30.461  2014  2051 I ActivityTaskManager: Fully drawn com.google.android.deskclock/com.android.deskclock.DeskClock: +1s150ms
+08-28 20:37:30.462  7575  7614 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 20:37:30.462  7575  7614 D eglCodecCommon: allocate: Ask for block of size 0x1000
+08-28 20:37:30.462  7575  7614 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ff1de000 size 0x2000
+08-28 20:37:30.471  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:30.481  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:30.509  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:30.594  1832  1913 D NuPlayerDriver: NuPlayerDriver(0xf7222980) created, clientPid(7575)
+08-28 20:37:30.630  1832  1913 I Codec2Client: Available Codec2 services: "software"
+08-28 20:37:30.630  1832  1913 I Codec2Client: Creating a Codec2 client to service "software"
+08-28 20:37:30.658  2014  2051 I ActivityTaskManager: Displayed com.google.android.deskclock/com.android.deskclock.DeskClock: +1s343ms
+08-28 20:37:30.672  1832  1913 I Codec2Client: Client to Codec2 service "software" created
+08-28 20:37:30.778  1779  1779 W SurfaceFlinger: couldn't log to binary event log: overflow.
+08-28 20:37:30.792  1832  7625 D GenericSource: FileSource remote
+08-28 20:37:30.819  3850  3986 I PBSessionCacheImpl: Deleted sessionId[154055945028] from persistence.
+08-28 20:37:30.848  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:30.850  7575  7618 D Ringtone: Successfully created local player
+08-28 20:37:30.875  2014  6195 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 20:37:30.877  7575  7618 I AlarmClock: Checking if assistant workflow is available
+08-28 20:37:31.278  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:31.278  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:31.292  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:31.292  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:31.301  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:31.301  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:31.444  7575  7590 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-28 20:37:31.444  7575  7590 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-28 20:37:31.445  1832  4600 D NuPlayerDriver: reset(0xf7222980) at state 4
+08-28 20:37:31.446  1832  7622 D NuPlayerDriver: notifyResetComplete(0xf7222980)
+08-28 20:37:32.436  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 660601 , only wrote 392634
+08-28 20:37:34.532  2403  7628 I Vision  : Requesting optional module download of ocr.
+08-28 20:37:34.533  2403  7628 I Vision  : Checking for download completion for 155135 -- ocr
+08-28 20:37:34.693  7575  7575 D AlarmClock: Events: [Alarm] [Show Tab] [Tap]
+08-28 20:37:34.697  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 392656 , only wrote 392634
+08-28 20:37:35.932  2194  7566 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 20:37:35.936  2194  4809 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 20:37:35.949  2194  5641 I LogUtils: [Places]: ?: PlacesBleScanner stop() [CONTEXT service_id=253 ]
+08-28 20:37:35.949  2194  2194 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-28 20:37:35.950  2194  2194 I BeaconBle: Scan canceled successfully. [CONTEXT service_id=111 ]
+08-28 20:37:35.968  2194  5641 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 0 [CONTEXT service_id=253 ]
+08-28 20:37:35.972  2194  7574 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 20:37:35.973  2194  4809 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 20:37:35.975  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 20:37:35.978  2194  2194 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-28 20:37:37.504  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9261056
+08-28 20:37:37.526  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-28 20:37:37.533  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9261056
+08-28 20:37:37.566  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:37.684  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 3 lines
+08-28 20:37:39.082  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:39.569  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:39.569  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:40.424  3850  3850 I BgTaskExecutorImpl: Starting EXCLUSIVE background task INTERNAL_PERIODIC_TASK_SYNC.
+08-28 20:37:40.434  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task AWARE_TIP_WORKER_PROCESS_TIPS.
+08-28 20:37:40.443  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task BACKGROUNDRETRY_CACHE_SWEEP.
+08-28 20:37:40.455  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.455  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.456  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task CHROME_EXPERIMENT_SYNC.
+08-28 20:37:40.463  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.463  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.470  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 899951 , only wrote 647119
+08-28 20:37:40.472  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task CLEAR_DATA_DETECTOR.
+08-28 20:37:40.476  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.476  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.476  3850  4033 I FirstRunClassifier: First run of com.google.android.googlequicksearchbox on this device detected
+08-28 20:37:40.477  2014  2509 D PackageManager: Instant App installer not found with android.intent.action.INSTALL_INSTANT_APP_PACKAGE
+08-28 20:37:40.477  2014  2509 D PackageManager: Clear ephemeral installer activity
+08-28 20:37:40.486  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task FETCH_ADVERTISING_INFO.
+08-28 20:37:40.492  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.492  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.507  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task LOG_ATTEMPTED_SEARCHES_TO_KANSAS.
+08-28 20:37:40.510  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.510  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.516  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task MDH_FORCED_SYNC.
+08-28 20:37:40.521  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.521  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.538  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task REFRESH_AUTH_TOKENS.
+08-28 20:37:40.543  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task REFRESH_NOW_CONFIGURATION.
+08-28 20:37:40.547  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task REFRESH_SEARCH_HISTORY.
+08-28 20:37:40.549  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.551  3850  3984 I chatty  : uid=10122(com.google.android.googlequicksearchbox) EventBus0 identical 5 lines
+08-28 20:37:40.552  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.553  3850  4034 W LocationOracle: getBestLocation(): no location is available
+08-28 20:37:40.560  3850  4034 W LocationOracle: getBestLocation(): no location is available
+08-28 20:37:40.561  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task RESTORE_SPEAKER_MODEL.
+08-28 20:37:40.561  3850  4034 W CDHeaderDataHandler: Invalid integer value "" in experiments IDs.
+08-28 20:37:40.564  3850  4039 I RestoreSpeakerModelTask: Canceling restore - user account is null
+08-28 20:37:40.566  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.566  3850  3984 I chatty  : uid=10122(com.google.android.googlequicksearchbox) EventBus0 identical 1 line
+08-28 20:37:40.566  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.579  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task UPDATE_LANGUAGE_PACKS.
+08-28 20:37:40.586  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task UPDATE_LAUNCHER_SHORTCUT.
+08-28 20:37:40.594  3850  4033 I MDH     : [Storage] Creating database v2
+08-28 20:37:40.615  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.615  3850  3984 I chatty  : uid=10122(com.google.android.googlequicksearchbox) EventBus0 identical 2 lines
+08-28 20:37:40.615  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.619  3850  4033 I MDH     : Creating MDH subscription table.
+08-28 20:37:40.619  3850  4033 I MDH     : Creating MDH wipeout table.
+08-28 20:37:40.628  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.628  3850  3984 I chatty  : uid=10122(com.google.android.googlequicksearchbox) EventBus0 identical 1 line
+08-28 20:37:40.628  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.629  3850  4033 V MDH     : Opening MDH wipeout table.
+08-28 20:37:40.635  3850  4137 I MdhYoutubeWorker: Reading YouTube deletion data
+08-28 20:37:40.635  3850  4137 I MdhYoutubeWorker: There is no logged in account in AGSA.
+08-28 20:37:40.637  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.637  3850  3984 I chatty  : uid=10122(com.google.android.googlequicksearchbox) EventBus0 identical 1 line
+08-28 20:37:40.638  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:40.670  3919  7641 D DownloadManager: [6] Starting
+08-28 20:37:40.683  3919  7641 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-28 20:37:40.685  3919  7641 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-28 20:37:40.836  3919  7641 W StorageManager: fallocate() not supported; falling back to ftruncate()
+08-28 20:37:40.956  2194  2194 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-28 20:37:41.510  2014  2014 I RoleManagerService: Granting default permissions...
+08-28 20:37:41.519  2014  2125 I InputReader: Reconfiguring input devices.  changes=0x00000010
+08-28 20:37:41.558  2014  2014 I Telecom : DefaultDialerCache: Refreshing default dialer for user 0: now com.android.dialer: CM.CCCR->CM.UECNT->CM.CCCR->CM.UECNT@AE8
+08-28 20:37:41.561  3850  3984 I EngineIdGenerator: Refusing EXCLUSIVE task NOW_UPDATE_GCM_REGISTRATION, it is already pending. Try again in 7434 seconds.
+08-28 20:37:41.591  3850  5546 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-28 20:37:41.591  3850  5546 W ExifInterface: java.io.IOException: Invalid byte order: ffff8950
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1447)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.ac.a(SourceFile:4)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.f.b(SourceFile:19)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.w.a(SourceFile:31)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.g.a(SourceFile:6)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.v.a(SourceFile:13)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.h(SourceFile:123)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.a(SourceFile:249)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:38)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.c.o.a(SourceFile:4)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:30)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.e(SourceFile:82)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.run(SourceFile:59)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:37:41.591  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.c.d.run(SourceFile:9)
+08-28 20:37:41.600  2602  2602 D CarrierSvcBindHelper: No carrier app for: 0
+08-28 20:37:41.610  2194  7646 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.googlequicksearchbox flg=0x45000010 cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+08-28 20:37:41.639  2194  7651 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+08-28 20:37:41.663  2833  3728 W QsbUiManager: Doodle is not valid.
+08-28 20:37:41.663  2833  3728 W QsbUiManager: Doodle bitmap is not valid.
+08-28 20:37:41.871  2403  4811 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36
+08-28 20:37:41.888  2403  2998 W Icing   : No valid account for uploading user actions
+08-28 20:37:41.906  2403  4353 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+08-28 20:37:41.964  2403  2998 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+08-28 20:37:41.968  2403  2998 W Icing   : No valid account for uploading user actions
+08-28 20:37:41.976  2403  2998 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+08-28 20:37:42.108  3919  7641 W DownloadManager: [6] Stop requested with status HTTP_DATA_ERROR: Failed reading response: javax.net.ssl.SSLProtocolException: Read error: ssl=0xeb2205c8: Failure in SSL library, usually a protocol error
+08-28 20:37:42.108  3919  7641 W DownloadManager: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT (external/boringssl/src/crypto/fipsmodule/cipher/e_aes.c:998 0xd2494543:0x00000000)
+08-28 20:37:42.108  3919  7641 W DownloadManager: error:1000008b:SSL routines:OPENSSL_internal:DECRYPTION_FAILED_OR_BAD_RECORD_MAC (external/boringssl/src/ssl/tls_record.cc:298 0xd2494543:0x00000000)
+08-28 20:37:42.110  3919  7641 D DownloadManager: [6] Finished with status WAITING_TO_RETRY
+08-28 20:37:42.185  3919  3919 D DownloadManager: onStopJob id=6, reason=0
+08-28 20:37:42.497  2014  2051 I RoleUserState: Wrote roles.xml successfully
+08-28 20:37:42.646  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 20:37:42.658  2833  3744 D ProtoStore: no cached data
+08-28 20:37:42.698  3850  7636 W LocationOracle: No location history returned by ContextManager
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: Can not find ARP file or impossible to read file.
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: java.io.FileNotFoundException: proc/net/arp: open failed: EACCES (Permission denied)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.IoBridge.open(IoBridge.java:496)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.io.FileInputStream.<init>(FileInputStream.java:159)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.io.FileReader.<init>(FileReader.java:72)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.search.core.google.a.q.b(SourceFile:71)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.search.core.google.a.q.a(SourceFile:23)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.staticplugins.g.g.a(Unknown Source:1)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.v.d.a.d.call(Unknown Source:2)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.v.d.a.f.run(SourceFile:16)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.v.d.a.n.run(Unknown Source:3)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.shared.util.c.b.f.run(Unknown Source:3)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.shared.util.c.b.bj.run(SourceFile:3)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at com.google.android.apps.gsa.shared.util.c.b.m.run(SourceFile:6)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: Caused by: android.system.ErrnoException: open failed: EACCES (Permission denied)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.Linux.open(Native Method)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:167)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:252)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:167)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7255)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	at libcore.io.IoBridge.open(IoBridge.java:482)
+08-28 20:37:42.709  3850  5483 E LocalNetworkId: 	... 15 more
+08-28 20:37:42.710  3850  7636 W CronetNetworkRqstWrppr: Upload request without a content type.
+08-28 20:37:42.712  3850  4034 W LocationOracle: No location history returned by ContextManager
+08-28 20:37:42.719  3850  4010 W LocationOracle: getBestLocation(): no location is available
+08-28 20:37:42.722  3850  4010 W CDHeaderDataHandler: Invalid integer value "" in experiments IDs.
+08-28 20:37:42.700  3850  3850 W UserFacing10: type=1400 audit(0.0:33): avc: denied { read } for name="arp" dev="proc" ino=4026532043 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:proc_net:s0 tclass=file permissive=0 app=com.google.android.googlequicksearchbox
+08-28 20:37:42.787  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 20:37:42.795  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 20:37:42.808  3850  4035 W LocationOracle: No location returned by GMS core getLastLocation()
+08-28 20:37:42.986  2403  2998 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+08-28 20:37:43.027  3850  5546 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-28 20:37:43.027  3850  5546 W ExifInterface: java.io.IOException: Invalid byte order: ffff8950
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1447)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.ac.a(SourceFile:4)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.f.b(SourceFile:19)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.w.a(SourceFile:31)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.d.a.g.a(SourceFile:6)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.v.a(SourceFile:13)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.h(SourceFile:123)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.a(SourceFile:249)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:38)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.c.o.a(SourceFile:4)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:30)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.e(SourceFile:82)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.m.run(SourceFile:59)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:37:43.027  3850  5546 W ExifInterface: 	at com.bumptech.glide.load.b.c.d.run(SourceFile:9)
+08-28 20:37:43.055  2833  3744 D ProtoStore: no cached data
+08-28 20:37:43.059  2403  2998 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+08-28 20:37:43.129  2403  2998 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+08-28 20:37:43.133  2403  2998 I Icing   : Indexing done com.google.android.gms-apps
+08-28 20:37:43.760  2014  3475 D WificondControl: Scan result ready event
+08-28 20:37:44.559  1748  1748 D Zygote  : Forked child process 7659
+08-28 20:37:44.563  7659  7659 W .apps.wallpape: Unexpected CPU variant for X86 using defaults: x86
+08-28 20:37:44.564  2014  2053 I ActivityManager: Start proc 7659:com.google.android.apps.wallpaper/u0a116 for broadcast {com.google.android.apps.wallpaper/com.android.wallpaper.module.DailyLoggingAlarmReceiver}
+08-28 20:37:44.593  7659  7659 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:37:44.593  7659  7659 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-28 20:37:44.593  7659  7659 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:37:44.593  7659  7659 I .apps.wallpape: The ClassLoaderContext is a special shared library.
+08-28 20:37:44.594  7659  7659 I .apps.wallpape: The ClassLoaderContext is a special shared library.
+08-28 20:37:44.603  7659  7659 I MultiDex: VM with version 2.1.0 has multidex support
+08-28 20:37:44.603  7659  7659 I MultiDex: install
+08-28 20:37:44.603  7659  7659 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+08-28 20:37:44.651  7659  7694 W DiskBasedLogger: Disk-based log buffer doesn't exist, so there's nothing to clean up.
+08-28 20:37:44.657  2403  7653 I Vision  : Requesting optional module download of ocr.
+08-28 20:37:44.658  2403  7653 I Vision  : Exceeded maximum feature download tries for ocr
+08-28 20:37:44.658  2403  7653 W Vision  : Request of optional module download of ocr failed.
+08-28 20:37:44.658  2403  7653 I Vision  : Checking for download completion for 165260 -- ocr
+08-28 20:37:46.741  2014  3475 W ActivityManager: Background start not allowed: service Intent { cmp=com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService } to com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService from pid=3825 uid=10130 pkg=com.google.android.apps.messaging startFg?=false
+08-28 20:37:46.741  3825  3825 W BugleDataModel: ActionExecutorImpl: Action started execution, but we can't guarantee it will complete, the app may be killed. Action: class com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction-SelfParticipantsRefreshAction:36557005
+08-28 20:37:46.741  3825  3825 W BugleDataModel: java.lang.IllegalStateException: Not allowed to start service Intent { cmp=com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService }: app is in background uid UidRecord{783e3ca u0a130 CEM  idle change:cached procs:1 seq(0,0,0)}
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1616)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.app.ContextImpl.startService(ContextImpl.java:1571)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.content.ContextWrapper.startService(ContextWrapper.java:669)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at com.google.android.apps.messaging.shared.datamodel.action.execution.ActionExecutorImpl.e(SourceFile:107)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at com.google.android.apps.messaging.shared.datamodel.action.execution.ActionExecutorImpl.a(SourceFile:19)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at com.google.android.apps.messaging.shared.datamodel.action.execution.ActionExecutorImpl.a(SourceFile:16)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at dya.c(SourceFile:12)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at dyb.run(Unknown Source:2)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.os.Handler.handleCallback(Handler.java:883)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.os.Looper.loop(Looper.java:214)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at java.lang.reflect.Method.invoke(Native Method)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-28 20:37:46.741  3825  3825 W BugleDataModel: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-28 20:37:47.345  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 647132 , only wrote 647119
+08-28 20:37:47.788  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:47.788  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:49.648  7659  7678 I .apps.wallpape: Waiting for a blocking GC ProfileSaver
+08-28 20:37:49.965  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:49.965  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:49.971  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:49.971  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:50.045  7575  7618 D AlarmClock: Events: [Alarm] [Create] [DeskClock]
+08-28 20:37:50.048  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:50.052  7575  7614 D OpenGLRenderer: endAllActiveAnimators on 0xbf279480 (RippleDrawable) with handle 0xe00a1ac0
+08-28 20:37:50.055  7575  7618 I AlarmClock: Connected Dock: null
+08-28 20:37:50.056  7575  7618 I AlarmClock: Created new alarm instance: AlarmInstance{alarmId=3, id=1, state=LOW_NOTIFICATION, time=08-28-2022 21:35, vibrate=true, ringtone=content://settings/system/alarm_alert, labelLength=0}
+08-28 20:37:50.064  2014  3153 E InputDispatcher: Window handle Window{a066085 u0 com.google.android.deskclock/com.android.deskclock.DeskClock} has no registered input channel
+08-28 20:37:50.072  7575  7618 I AlarmClock: Setting upcoming AlarmClockInfo for instance: 1
+08-28 20:37:50.075  1776  1941 D AF::Track: interceptBuffer: took 729us to intercept 0 tracks
+08-28 20:37:50.078  2014  2014 V SettingsProvider: Notifying for 0: content://settings/system/next_alarm_formatted
+08-28 20:37:50.078  2014  2014 D ConditionProviders.SCP: onReceive android.app.action.NEXT_ALARM_CLOCK_CHANGED
+08-28 20:37:50.081  2014  2014 D ConditionProviders.SCP: evaluateSubscriptionLocked cal=ScheduleCalendar[mDays={1, 2, 3, 4, 5, 6, 7}, mSchedule=ScheduleInfo{days=[1, 2, 3, 4, 5, 6, 7], startHour=22, startMinute=0, endHour=7, endMinute=0, exitAtAlarm=true, nextAlarm=Thu Jan 01 05:30:00 GMT+05:30 1970 (0)}], now=Sun Aug 28 20:37:50 GMT+05:30 2022 (1661699270080), nextUserAlarmTime=Sun Aug 28 21:35:00 GMT+05:30 2022 (1661702700000)
+08-28 20:37:50.081  2014  2014 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5.6.7&start=22.0&end=7.0&exitAtAlarm=true STATE_FALSE reason=!meetsSchedule
+08-28 20:37:50.083  2014  2014 D ConditionProviders.SCP: Scheduling evaluate for Sun Aug 28 22:00:00 GMT+05:30 2022 (1661704200000), in +1h22m9s920ms, now=Sun Aug 28 20:37:50 GMT+05:30 2022 (1661699270080)
+08-28 20:37:50.083  2212  2212 W AlarmManager: Unrecognized alarm listener com.android.systemui.keyguard.-$$Lambda$KeyguardSliceProvider$IhzByd8TsqFuOrSyuGurVskyPLo@9cbb01d
+08-28 20:37:50.092  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:50.174  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:37:50.177  2212  2212 D KeyguardClockSwitch: Updating clock: 837
+08-28 20:37:50.289  7575  7575 W BitmapDrawable: BitmapDrawable cannot decode 
+08-28 20:37:50.325  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 4096
+08-28 20:37:50.332  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-28 20:37:50.339  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 4096
+08-28 20:37:50.372  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 1241088
+08-28 20:37:50.379  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:50.427  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 1241088
+08-28 20:37:50.433  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:50.602  2403  2998 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-28 20:37:50.643  2403  2998 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-28 20:37:50.913  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:37:50.913  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:37:51.637  2403  2998 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-28 20:37:51.643  2403  2998 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-28 20:37:53.178  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 1159702 , only wrote 904248
+08-28 20:37:54.071  3850  3984 I WorkerManager: dispose()
+08-28 20:37:54.073  3850  3984 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+08-28 20:37:54.156  7575  7575 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+08-28 20:37:54.163  2014  3475 E InputDispatcher: Window handle Window{16dc7e9 u0 PopupWindow:e82666c} has no registered input channel
+08-28 20:37:54.384  7575  7575 D AlarmClock: Events: [Alarm] [Set Ringtone] [DeskClock]
+08-28 20:37:54.391  2014  3153 I ActivityTaskManager: START u0 {cmp=com.google.android.deskclock/com.android.deskclock.ringtone.RingtonePickerActivity (has extras)} from uid 10133
+08-28 20:37:54.408  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 904279 , only wrote 904248
+08-28 20:37:54.421  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 20:37:54.422  2014  3880 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:54.445  2014  3880 I chatty  : uid=1000(system) Binder:2014_15 identical 48 lines
+08-28 20:37:54.445  2014  3880 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:54.449  7575  7575 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@f860991
+08-28 20:37:54.460  7575  7575 I AppLifecycleTracker: onActivityCreated: 
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: Failed to instantiate custom view inflater android.support.v7.app.AppCompatViewInflater. Falling back to default.
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at java.lang.Class.classForName(Native Method)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:454)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:379)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at yb.a(PG:401)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at yb.onCreateView(PG:412)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.tryCreateView(LayoutInflater.java:1061)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:997)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:961)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:659)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:534)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:481)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.DecorView.onResourcesLoaded(DecorView.java:2083)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.generateLayout(PhoneWindow.java:2627)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.installDecor(PhoneWindow.java:2694)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.getDecorView(PhoneWindow.java:2094)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at aop.onCreate(PG:4)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.deskclock.ringtone.RingtonePickerActivity.onCreate(PG:11)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7802)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7791)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1299)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3245)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3409)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2016)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.os.Looper.loop(Looper.java:214)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at java.lang.reflect.Method.invoke(Native Method)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: Caused by: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 20:37:54.461  7575  7575 I AppCompatDelegate: 	... 32 more
+08-28 20:37:54.514  2403  5039 I FontLog : Received query Google Sans, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+08-28 20:37:54.514  2403  5039 I FontLog : Query [Google Sans] resolved to {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:54.516  2403  5039 I FontLog : Font PFD returned from cache for {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+08-28 20:37:54.516  2403  5039 I FontLog : Fetch {Google Sans, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+08-28 20:37:54.523  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 20:37:54.524  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 20:37:54.532  2403  5039 I FontLog : Pulling font file for id = 9, cache size = 7 [CONTEXT service_id=132 ]
+08-28 20:37:54.547  2014  3153 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 20:37:54.554  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 20:37:54.675  2403  7709 I Vision  : Requesting optional module download of ocr.
+08-28 20:37:54.687  2403  7709 I Vision  : Checking for download completion for 175290 -- ocr
+08-28 20:37:54.693  2403  7709 I ChimeraConfigurator: Starting update, reason: 4 urgentFeatures: vision.ocr:-1
+08-28 20:37:54.698  2403  7709 E ConfigFileUtils: Failed to read config file: /data/user_de/0/com.google.android.gms/app_chimera/next_container.pb: open failed: ENOENT (No such file or directory)
+08-28 20:37:54.700  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 10596352
+08-28 20:37:54.705  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-28 20:37:54.706  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 10596352
+08-28 20:37:54.726  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:54.766  2403  7709 I ChmraDebugLogger: [73] 1801
+08-28 20:37:54.770  2403  7709 I ChmraDebugLogger: [30] [VisionOcr.optional:202414000700] permitMetered=true,
+08-28 20:37:54.774  2403  7709 W ChimeraConfigService: Retry attempt was throttled.
+08-28 20:37:54.810  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:54.825  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:54.837  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:54.843  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:37:54.869  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:54.879  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:54.885  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:54.887  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-28 20:37:54.887  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:37:54.912  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:55.133  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 3 lines
+08-28 20:37:55.186  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:55.321  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 20:37:55.321  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 20:37:55.325  7575  7575 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-28 20:37:56.291  1747  3814 W DnsTlsSocket: SSL_connect error 5, errno=110
+08-28 20:37:56.291  1747  3918 W DnsTlsSocket: SSL_connect error 5, errno=110
+08-28 20:37:56.565  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:56.882  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 12 lines
+08-28 20:37:56.908  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:57.572  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 1181516 , only wrote 1043719
+08-28 20:37:57.896  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:58.115  1776  1941 D AF::Track: interceptBuffer: took 481us to intercept 0 tracks
+08-28 20:37:58.117  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 1043939 , only wrote 1043719
+08-28 20:37:58.127  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:37:58.129  7575  7614 D OpenGLRenderer: endAllActiveAnimators on 0xbef69480 (RippleDrawable) with handle 0xe009ffb0
+08-28 20:37:58.147  2014  2370 E InputDispatcher: Window handle Window{20170ef u0 com.google.android.deskclock/com.android.deskclock.ringtone.RingtonePickerActivity} has no registered input channel
+08-28 20:37:58.159  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:00.002  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 20:38:00.003  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 20:38:00.011  2212  2212 D KeyguardClockSwitch: Updating clock: 838
+08-28 20:38:00.959  7575  7575 I AlarmClock: RingtonePreviewKlaxon.stop()
+08-28 20:38:00.959  7575  7575 D AlarmClock: RingtonePlayer: Posting stop
+08-28 20:38:00.961  7575  7575 I AlarmClock: RingtonePreviewKlaxon.start()
+08-28 20:38:00.961  7575  7575 D AlarmClock: RingtonePlayer: Posting play
+08-28 20:38:00.963  7575  7715 I AlarmClock: RingtonePlayer: Stop ringtone via android.media.Ringtone
+08-28 20:38:00.963  7575  7715 I AlarmClock: RingtonePlayer: Play ringtone via android.media.Ringtone
+08-28 20:38:01.002  3919  7658 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-28 20:38:01.002  3919  7658 W ExifInterface: java.io.IOException: Invalid byte order: 4f67
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1419)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.getRedactionRanges(MediaProvider.java:5526)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openFileAndEnforcePathPermissionsHelper(MediaProvider.java:5369)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openFileCommon(MediaProvider.java:5167)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openTypedAssetFileCommon(MediaProvider.java:5199)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openTypedAssetFile(MediaProvider.java:5179)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.content.ContentProvider$Transport.openTypedAssetFile(ContentProvider.java:511)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 20:38:01.002  3919  7658 W ExifInterface: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 20:38:01.010  1832  4600 D NuPlayerDriver: NuPlayerDriver(0xf7222c80) created, clientPid(7575)
+08-28 20:38:01.014  1832  4600 I Codec2Client: Creating a Codec2 client to service "software"
+08-28 20:38:01.027  1832  4600 I Codec2Client: Client to Codec2 service "software" created
+08-28 20:38:01.058  1832  7719 D GenericSource: FileSource remote
+08-28 20:38:01.085  7575  7715 D Ringtone: Successfully created local player
+08-28 20:38:01.087  7575  7715 D AlarmClock: Events: [Preview Ringtone] [Play] [Internal]
+08-28 20:38:01.089  1832  4600 D NuPlayerDriver: reset(0xf7222c80) at state 4
+08-28 20:38:01.091  1832  7717 D NuPlayerDriver: notifyResetComplete(0xf7222c80)
+08-28 20:38:01.093  1832  4600 D NuPlayerDriver: reset(0xf7222c80) at state 0
+08-28 20:38:01.096  7575  7715 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-28 20:38:01.096  7575  7715 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-28 20:38:01.096  7575  7715 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-28 20:38:01.096  7575  7715 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-28 20:38:01.130  3919  7658 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-28 20:38:01.130  3919  7658 W ExifInterface: java.io.IOException: Invalid byte order: 4f67
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1419)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.getRedactionRanges(MediaProvider.java:5526)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openFileAndEnforcePathPermissionsHelper(MediaProvider.java:5369)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openFileCommon(MediaProvider.java:5167)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openTypedAssetFileCommon(MediaProvider.java:5199)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at com.android.providers.media.MediaProvider.openTypedAssetFile(MediaProvider.java:5179)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.content.ContentProvider$Transport.openTypedAssetFile(ContentProvider.java:511)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 20:38:01.130  3919  7658 W ExifInterface: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 20:38:01.133  1832  4600 D NuPlayerDriver: NuPlayerDriver(0xf2634080) created, clientPid(7575)
+08-28 20:38:01.136  1832  4600 I Codec2Client: Creating a Codec2 client to service "software"
+08-28 20:38:01.139  1832  4600 I Codec2Client: Client to Codec2 service "software" created
+08-28 20:38:01.150  1832  7724 D GenericSource: FileSource remote
+08-28 20:38:01.153  7575  7588 I droid.deskcloc: NativeAlloc concurrent copying GC freed 32594(2183KB) AllocSpace objects, 10(392KB) LOS objects, 49% free, 5474KB/10MB, paused 1.526ms total 169.462ms
+08-28 20:38:01.159  7575  7715 D Ringtone: Successfully created local player
+08-28 20:38:01.163  2014  3146 I MediaFocusControl: requestAudioFocus() from uid/pid 10133/7575 clientId=android.media.AudioManager@552d831 callingPack=com.google.android.deskclock req=4 flags=0x0 sdk=28
+08-28 20:38:01.178  1832  7723 I GenericSource: start
+08-28 20:38:01.178  7575  7715 D AlarmClock: Events: [Preview Ringtone] [Play Succeeded] [Internal]
+08-28 20:38:01.187  2014  3146 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 20:38:01.209  1832  7728 I OMXClient: IOmx service obtained
+08-28 20:38:01.229  1837  1901 I OMXMaster: makeComponentInstance(OMX.google.vorbis.decoder) in android.hardwar process
+08-28 20:38:01.270  1837  1901 E OMXNodeInstance: setConfig(0xf3219080:google.vorbis.decoder, ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+08-28 20:38:01.270  1832  7728 I ACodec  : codec does not support config priority (err -2147483648)
+08-28 20:38:01.270  1837  1901 E OMXNodeInstance: getConfig(0xf3219080:google.vorbis.decoder, ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+08-28 20:38:01.272  1832  7728 I MediaCodec: MediaCodec will operate in async mode
+08-28 20:38:01.388  1776  1776 W AudioFlinger: createTrack_l(): mismatch between requested flags (00000008) and output flags (00000006)
+08-28 20:38:01.388  1776  1776 D AudioFlinger: Client defaulted notificationFrames to 12064 for frameCount 24129
+08-28 20:38:01.389  1747  4495 W DnsTlsSocket: SSL_connect error 5, errno=110
+08-28 20:38:01.389  1776  1776 D AF::TrackHandle: OpPlayAudio: track:56 usage:4 not muted
+08-28 20:38:01.412  1832  7726 D AudioTrack: getTimestamp_l(9): device stall time corrected using current time 172015185300
+08-28 20:38:02.109  1776  1941 D AF::Track: interceptBuffer: took 402us to intercept 0 tracks
+08-28 20:38:02.445  1776  1941 D AF::Track: interceptBuffer: took 800us to intercept 0 tracks
+08-28 20:38:03.879  1776  1941 D AF::Track: interceptBuffer: took 201us to intercept 0 tracks
+08-28 20:38:04.695  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:04.695  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:04.711  2403  7732 I Vision  : Requesting optional module download of ocr.
+08-28 20:38:04.712  2403  7732 I Vision  : Checking for download completion for 185314 -- ocr
+08-28 20:38:05.075  7575  7575 I AlarmClock: RingtonePreviewKlaxon.stop()
+08-28 20:38:05.075  7575  7575 D AlarmClock: RingtonePlayer: Posting stop
+08-28 20:38:05.076  7575  7715 I AlarmClock: RingtonePlayer: Stop ringtone via android.media.Ringtone
+08-28 20:38:05.076  7575  7715 D AlarmClock: RingtonePlayer: Ringtone.stop() invoked
+08-28 20:38:05.076  7575  7715 D AlarmClock: Events: [Preview Ringtone] [Stop] [Internal]
+08-28 20:38:05.077  1832  4600 D NuPlayerDriver: reset(0xf2634080) at state 5
+08-28 20:38:05.101  1776  1941 D AF::Track: interceptBuffer: took 205us to intercept 0 tracks
+08-28 20:38:05.126  1776  1941 D AF::Track: interceptBuffer: took 277us to intercept 0 tracks
+08-28 20:38:05.138  1832  7723 D NuPlayerDriver: notifyResetComplete(0xf2634080)
+08-28 20:38:05.139  1832  4600 D NuPlayerDriver: reset(0xf2634080) at state 0
+08-28 20:38:05.141  7575  7715 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-28 20:38:05.141  7575  7715 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-28 20:38:05.141  7575  7715 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-28 20:38:05.141  7575  7715 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-28 20:38:05.141  7575  7715 D AlarmClock: Events: [Preview Ringtone] [Stop Succeeded] [Internal]
+08-28 20:38:05.144  2014  5322 I MediaFocusControl: abandonAudioFocus() from uid/pid 10133/7575 clientId=android.media.AudioManager@552d831
+08-28 20:38:05.157  1832  4600 D AudioTrack: stop(9): called with 0 frames delivered
+08-28 20:38:05.567  2014  5322 I ActivityManager: Killing 6930:com.google.android.projection.gearhead:shared/u0a121 (adj 985): empty #17
+08-28 20:38:05.630  1748  1748 I Zygote  : Process 6930 exited due to signal 9 (Killed)
+08-28 20:38:05.659  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10121 pid 6930 in 91ms
+08-28 20:38:06.653  4501  5251 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_STATUS_SMS_TIME_OUT
+08-28 20:38:06.654  4501  4501 I Dialer  : RetryPolicy - discarding deferred status: configuration_state=4
+08-28 20:38:06.654  4501  4501 I Dialer  : VvmTaskExecutor - no more tasks, stopping service if no task are added in 5000 millis
+08-28 20:38:06.656  4501  4501 I Dialer  : VvmTaskReceiver - task received
+08-28 20:38:06.656  4501  4501 I Dialer  : VvmTaskReceiver - TaskExecutor already running
+08-28 20:38:06.656  4501  4501 I Dialer  : Task.createTask - create task:com.android.voicemail.impl.ActivationTask
+08-28 20:38:06.657  4501  4501 I Dialer  : RetryPolicy - retry #2 for com.android.voicemail.impl.ActivationTask@e9ad2b5 queued, executing in 5000
+08-28 20:38:06.657  4501  4501 I Dialer  : VvmTaskExecutor - com.android.voicemail.impl.ActivationTask@e9ad2b5 added
+08-28 20:38:06.657  4501  4501 I Dialer  : VvmTaskExecutor - minimal wait time:5000
+08-28 20:38:06.657  4501  4501 I Dialer  : VvmTaskExecutor - sleep for 5000 millis
+08-28 20:38:08.235  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 1934363 , only wrote 1489894
+08-28 20:38:08.791  2014  3880 I ActivityTaskManager: START u0 {act=android.intent.action.OPEN_DOCUMENT cat=[android.intent.category.OPENABLE] typ=audio/* flg=0x40 cmp=com.android.documentsui/.picker.PickActivity (has extras)} from uid 10133
+08-28 20:38:08.805  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 1490259 , only wrote 1489894
+08-28 20:38:08.806  1776  1941 D AF::Track: interceptBuffer: took 404us to intercept 0 tracks
+08-28 20:38:08.810  2014  2047 E system_server: Invalid ID 0x00000000.
+08-28 20:38:08.819  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 20:38:08.821  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:08.823  2014  3203 I chatty  : uid=1000(system) Binder:2014_F identical 18 lines
+08-28 20:38:08.823  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:08.827  7575  7618 I AlarmClock: Updated alarm from: Alarm {id=3, enabled=true, hour=21, minute=35, daysOfWeek=[], vibrate=true, ringtone=content://settings/system/alarm_alert, labelLength=0, deleteAfterUse=false, instanceIds=[1]} to: Alarm {id=3, enabled=true, hour=21, minute=35, daysOfWeek=[], vibrate=true, ringtone=content://media/internal/audio/media/71?title=Argon&canonical=1, labelLength=0, deleteAfterUse=false, instanceIds=[1]}
+08-28 20:38:08.840  7575  7618 I AlarmClock: Setting upcoming AlarmClockInfo for instance: 1
+08-28 20:38:08.851  1748  1748 D Zygote  : Forked child process 7734
+08-28 20:38:08.852  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:08.852  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:08.853  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:08.857  2014  2014 D ConditionProviders.SCP: onReceive android.app.action.NEXT_ALARM_CLOCK_CHANGED
+08-28 20:38:08.857  2014  2014 D ConditionProviders.SCP: evaluateSubscriptionLocked cal=ScheduleCalendar[mDays={1, 2, 3, 4, 5, 6, 7}, mSchedule=ScheduleInfo{days=[1, 2, 3, 4, 5, 6, 7], startHour=22, startMinute=0, endHour=7, endMinute=0, exitAtAlarm=true, nextAlarm=Sun Aug 28 21:35:00 GMT+05:30 2022 (1661702700000)}], now=Sun Aug 28 20:38:08 GMT+05:30 2022 (1661699288857), nextUserAlarmTime=Sun Aug 28 21:35:00 GMT+05:30 2022 (1661702700000)
+08-28 20:38:08.857  2014  2014 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5.6.7&start=22.0&end=7.0&exitAtAlarm=true STATE_FALSE reason=!meetsSchedule
+08-28 20:38:08.859  2014  2053 I ActivityManager: Start proc 7734:com.android.documentsui/u0a58 for activity {com.android.documentsui/com.android.documentsui.picker.PickActivity}
+08-28 20:38:08.860  7734  7734 W oid.documentsu: Unexpected CPU variant for X86 using defaults: x86
+08-28 20:38:08.860  2014  2014 D ConditionProviders.SCP: Scheduling evaluate for Sun Aug 28 22:00:00 GMT+05:30 2022 (1661704200000), in +1h21m51s143ms, now=Sun Aug 28 20:38:08 GMT+05:30 2022 (1661699288857)
+08-28 20:38:08.868  2212  2212 W AlarmManager: Unrecognized alarm listener com.android.systemui.keyguard.-$$Lambda$KeyguardSliceProvider$IhzByd8TsqFuOrSyuGurVskyPLo@9cbb01d
+08-28 20:38:08.873  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:08.910  2014  3203 I chatty  : uid=1000(system) Binder:2014_F identical 28 lines
+08-28 20:38:08.910  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:08.941  7734  7734 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:38:08.941  7734  7734 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-28 20:38:08.941  7734  7734 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 20:38:08.943  7734  7734 I oid.documentsu: The ClassLoaderContext is a special shared library.
+08-28 20:38:08.944  7575  7618 D AlarmClock: Events: [Alarm Ringtone] [Select] [Internal]
+08-28 20:38:08.956  2212  2212 D KeyguardClockSwitch: Updating clock: 838
+08-28 20:38:08.978  2014  3880 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 20:38:08.989  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:08.998  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-28 20:38:08.998  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:09.017  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:09.114  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:38:09.222  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 7 lines
+08-28 20:38:09.238  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:38:09.259  1779  2130 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 20:38:09.259  1779  2130 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 20:38:09.263  7734  7773 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-28 20:38:09.277  7734  7773 W libc    : Unable to set property "qemu.gles" to "1": error code: 0x18
+08-28 20:38:09.286  1748  1748 D Zygote  : Forked child process 7774
+08-28 20:38:09.292  2014  2053 I ActivityManager: Start proc 7774:com.google.android.apps.docs/u0a144 for content provider {com.google.android.apps.docs/com.google.android.apps.docs.storagebackend.StorageBackendContentProvider}
+08-28 20:38:09.293  7774  7774 W droid.apps.doc: Unexpected CPU variant for X86 using defaults: x86
+08-28 20:38:09.311  7734  7773 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-28 20:38:09.316  7734  7773 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-28 20:38:09.325  7734  7773 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-28 20:38:09.376  7774  7774 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+08-28 20:38:09.384  7774  7774 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+08-28 20:38:09.399  7734  7734 D PickActivity: Created new state object: State{action=3, acceptMimes=[audio/*, application/ogg], allowMultiple=false, localOnly=false, showDeviceStorageOption=true, showAdvanced=false, stack=DocumentStack{root=null, docStack=[], stackTouched=false}, dirConfigs={}, excludedAuthorities=[], openableOnly=true, sortModel=SortModel{dimensions={16908304=SortDimension{id=16908304, labelId=2131755268, dataType=0, sortCapability=0, defaultSortDirection=1, sortDirection=0, visibility=4}, 16908310=SortDimension{id=16908310, labelId=2131755262, dataType=0, sortCapability=3, defaultSortDirection=1, sortDirection=0, visibility=0}, 2131296377=SortDimension{id=2131296377, labelId=2131755255, dataType=1, sortCapability=3, defaultSortDirection=2, sortDirection=0, visibility=0}, 2131296425=SortDimension{id=2131296425, labelId=2131755259, dataType=0, sortCapability=3, defaultSortDirection=1, sortDirection=0, visibility=0}, 2131296571=SortDimension{id=2131296571, labelId=2131755265, dataType=1, sortCapability=3, defaultSortDirection=1, sortDirection=0, visibility=0}}, defaultDimensionId=0, sortedDimension=null}}
+08-28 20:38:09.401  7734  7734 D DrawerController: Calculated drawer width:280.0
+08-28 20:38:09.438  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:09.447  7734  7734 D PickerActionHandler: Load last accessed stack.
+08-28 20:38:09.447  7734  7734 D PickerActionHandler: Attempting to load last used stack for calling package.
+08-28 20:38:09.487  7734  7734 D DocumentsApplication: OverlayManager.setEnabled() result: true
+08-28 20:38:09.522  7734  7771 D HostConnection: HostConnection::get() New Host Connection established 0xd49485c0, tid 7771
+08-28 20:38:09.525  7734  7771 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 20:38:09.536  7734  7771 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-28 20:38:09.548  7734  7771 D EGL_emulation: eglCreateContext: 0xd494cca0: maj 2 min 0 rcv 2
+08-28 20:38:09.549  7734  7771 D EGL_emulation: eglMakeCurrent: 0xd494cca0: ver 2 0 (tinfo 0xd499c240)
+08-28 20:38:09.553  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:09.560  1649  1649 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+08-28 20:38:09.560  7734  7771 W Gralloc3: mapper 3.x is not supported
+08-28 20:38:09.597  7734  7771 D HostConnection: createUnique: call
+08-28 20:38:09.598  7734  7771 D HostConnection: HostConnection::get() New Host Connection established 0xc0a765a0, tid 7771
+08-28 20:38:09.598  7734  7771 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 20:38:09.598  7734  7771 D eglCodecCommon: allocate: Ask for block of size 0x1000
+08-28 20:38:09.598  7734  7771 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ff1dc000 size 0x2000
+08-28 20:38:09.601  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:09.608  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:09.613  7734  7771 D EGL_emulation: eglMakeCurrent: 0xd494cca0: ver 2 0 (tinfo 0xd499c240)
+08-28 20:38:09.664  2014  2051 I ActivityTaskManager: Displayed com.android.documentsui/.picker.PickActivity: +871ms
+08-28 20:38:09.725  7774  7811 I GAv4    : Google Analytics 17.7.78 is starting up. To enable debug logging on a device run:
+08-28 20:38:09.725  7774  7811 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+08-28 20:38:09.725  7774  7811 I GAv4    :   adb logcat -s GAv4
+08-28 20:38:09.743  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 20:38:09.744  7575  7575 I AppLifecycleTracker: App transition to background
+08-28 20:38:09.753  7575  7575 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-28 20:38:09.757  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? false
+08-28 20:38:09.771  7774  7815 W GAv4    : CampaignTrackingReceiver is not registered, not exported or is disabled. Installation campaign tracking is not possible. See http://goo.gl/8Rd3yj for instructions.
+08-28 20:38:09.810  7774  7774 W PrimesInit: Primes instant initialization
+08-28 20:38:09.811  7774  7818 W Primes  : background initialization
+08-28 20:38:09.831  7774  7774 W FieldDefinition: [main] Ignoring isIndexed constraint as field also has uniqueness constraint (on just this field, and therefore SQLite will have to create an index on that. For field: czz$a@9c4f922
+08-28 20:38:09.939  7774  7774 E DocsApplication: [main] No default account found during application creation.
+08-28 20:38:09.944  7774  7774 W ComponentDiscovery: Application info not found.
+08-28 20:38:09.944  7774  7774 W ComponentDiscovery: Could not retrieve metadata, returning empty list of registrars.
+08-28 20:38:09.950  7734  7734 I ProvidersCache: Updating roots due to change at content://com.google.android.apps.docs.storage/root
+08-28 20:38:09.974  7734  7829 I ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+08-28 20:38:09.976  7734  7768 I ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+08-28 20:38:09.976  7734  7806 D ProvidersAccess: Matched roots: [Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null, Root{authority=com.android.providers.downloads.documents, rootId=downloads, title=Downloads, isUsb=false, isSd=false, isMtp=false} @ content://com.android.providers.downloads.documents/root/downloads, Root{authority=com.android.externalstorage.documents, rootId=161F-321C, title=SDCARD, isUsb=false, isSd=true, isMtp=false} @ content://com.android.externalstorage.documents/root/161F-321C, Root{authority=com.android.externalstorage.documents, rootId=home, title=Documents, isUsb=false, isSd=false, isMtp=false} @ content://com.android.externalstorage.documents/root/home]
+08-28 20:38:09.977  7734  7806 D ProvidersAccess: Matched roots: [Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null, Root{authority=com.android.providers.downloads.documents, rootId=downloads, title=Downloads, isUsb=false, isSd=false, isMtp=false} @ content://com.android.providers.downloads.documents/root/downloads, Root{authority=com.android.externalstorage.documents, rootId=161F-321C, title=SDCARD, isUsb=false, isSd=true, isMtp=false} @ content://com.android.externalstorage.documents/root/161F-321C, Root{authority=com.android.externalstorage.documents, rootId=home, title=Documents, isUsb=false, isSd=false, isMtp=false} @ content://com.android.externalstorage.documents/root/home]
+08-28 20:38:09.977  7734  7767 D ProvidersAccess: Matched roots: [Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null, Root{authority=com.android.providers.downloads.documents, rootId=downloads, title=Downloads, isUsb=false, isSd=false, isMtp=false} @ content://com.android.providers.downloads.documents/root/downloads, Root{authority=com.android.externalstorage.documents, rootId=161F-321C, title=SDCARD, isUsb=false, isSd=true, isMtp=false} @ content://com.android.externalstorage.documents/root/161F-321C, Root{authority=com.android.externalstorage.documents, rootId=home, title=Documents, isUsb=false, isSd=false, isMtp=false} @ content://com.android.externalstorage.documents/root/home]
+08-28 20:38:09.979  7734  7768 D ProvidersAccess: Matched roots: [Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null, Root{authority=com.android.providers.downloads.documents, rootId=downloads, title=Downloads, isUsb=false, isSd=false, isMtp=false} @ content://com.android.providers.downloads.documents/root/downloads, Root{authority=com.android.externalstorage.documents, rootId=161F-321C, title=SDCARD, isUsb=false, isSd=true, isMtp=false} @ content://com.android.externalstorage.documents/root/161F-321C, Root{authority=com.android.externalstorage.documents, rootId=home, title=Documents, isUsb=false, isSd=false, isMtp=false} @ content://com.android.externalstorage.documents/root/home]
+08-28 20:38:09.980  7734  7734 D DocumentStack: Root changed to: Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null
+08-28 20:38:09.980  7734  7734 D DocumentStack: Adding doc to stack: DocumentInfo{docId=null, name=null, mimeType=null, isContainer=false, isDirectory=false, isArchive=false, isInArchive=false, isPartial=false, isVirtual=false, isDeleteSupported=false, isCreateSupported=false, isMoveSupported=false, isRenameSupported=false, isMetadataSupported=false} @ content:/document/null
+08-28 20:38:09.980  7734  7734 D DirectoryFragment: Creating new fragment null directory
+08-28 20:38:09.990  2194  3999 E aoob    : Phenotype API error. Event # ccoz@ea4c27bc, EventCode: 32 [CONTEXT service_id=51 ]
+08-28 20:38:09.990  2194  3999 E aoob    : aonf: 29503
+08-28 20:38:09.990  2194  3999 E aoob    : 	at aopg.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at aoob.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):91)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at aoob.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):86)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:38:09.990  2194  3999 E aoob    : 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: serviceID=51, operation=SetAppSpecificPropertiesOperationCall
+08-28 20:38:09.990  2194  3999 E AsyncOperation: OperationException[Status{statusCode=unknown status code: 29503, resolution=null}]
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at aoob.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):93)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at aoob.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):86)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 20:38:09.990  2194  3999 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:919)
+08-28 20:38:10.032  7734  7734 D AbstractActionHandler: Creating new loader recents.
+08-28 20:38:10.033  7734  7767 D ProvidersAccess: Matched roots: [Root{authority=null, rootId=null, title=Recent, isUsb=false, isSd=false, isMtp=false} @ content:/root/null, Root{authority=com.android.providers.downloads.documents, rootId=downloads, title=Downloads, isUsb=false, isSd=false, isMtp=false} @ content://com.android.providers.downloads.documents/root/downloads, Root{authority=com.android.externalstorage.documents, rootId=161F-321C, title=SDCARD, isUsb=false, isSd=true, isMtp=false} @ content://com.android.externalstorage.documents/root/161F-321C, Root{authority=com.android.externalstorage.documents, rootId=home, title=Documents, isUsb=false, isSd=false, isMtp=false} @ content://com.android.externalstorage.documents/root/home]
+08-28 20:38:10.051  7734  7767 D Documents: Found 1 of 1 queries done
+08-28 20:38:10.051  7734  7734 D AbstractActionHandler: Loader has finished for: content:/document/null
+08-28 20:38:10.051  7734  7734 I Model   : Updating model with new result set.
+08-28 20:38:10.052  7734  7734 D DirectoryFragment: Received model update. Loading=false
+08-28 20:38:10.219  2403  2998 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-28 20:38:10.230  2403  2998 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-28 20:38:10.978  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:10.978  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:11.230  2212  2212 V DeadZone: consuming errant click: (315.9668,40.890625)
+08-28 20:38:11.671  4501  5251 I Dialer  : VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@e9ad2b5
+08-28 20:38:11.673  4501  5251 I Dialer  : PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+08-28 20:38:11.720  3733  3759 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+08-28 20:38:11.722  4501  5251 I Dialer  : VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+08-28 20:38:11.723  4501  5251 I Dialer  : OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+08-28 20:38:11.731  3733  3759 I VoicemailNotifier: receivers for android.intent.action.PROVIDER_CHANGED :[]
+08-28 20:38:11.735  2602  3017 I LocationAccessPolicy: Allowing com.android.dialer fine because it doesn't target API 29 yet. Please fix this app. Called from getServiceStateForSubscriber
+08-28 20:38:11.736  2602  3017 I LocationAccessPolicy: Allowing com.android.dialer coarse because it doesn't target API 29 yet. Please fix this app. Called from getServiceStateForSubscriber
+08-28 20:38:11.940  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 1764604 , only wrote 1628043
+08-28 20:38:12.748  3850  3996 W GmsLocationProvider: Error removing location updates: 16
+08-28 20:38:12.789  7774  7819 W DynamiteModule: Local module descriptor class for providerinstaller not found.
+08-28 20:38:12.794  2194  5382 W ProviderHelper: Unknown dynamite feature providerinstaller
+08-28 20:38:12.797  7774  7819 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+08-28 20:38:12.801  7774  7819 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+08-28 20:38:12.802  7774  7819 I chatty  : uid=10144(com.google.android.apps.docs) TaskSchedulerLo identical 1 line
+08-28 20:38:12.804  7774  7819 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+08-28 20:38:12.811  7774  7819 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 286 native methods...
+08-28 20:38:12.820  7774  7819 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-28 20:38:12.821  7774  7819 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+08-28 20:38:13.625  2212  2212 I KeyButtonView: Back button event: ACTION_DOWN
+08-28 20:38:13.626  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 20:38:13.638  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 1628063 , only wrote 1628043
+08-28 20:38:13.736  1776  1941 D AF::Track: interceptBuffer: took 611us to intercept 0 tracks
+08-28 20:38:13.857  2212  2212 I KeyButtonView: Back button event: ACTION_UP
+08-28 20:38:11.230  2212  2212 V DeadZone: consuming errant click: (315.9668,40.890625)
+08-28 20:38:13.859  2014  2044 D AutofillManagerService: onBackKeyPressed()
+08-28 20:38:13.860  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 20:38:13.867  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:13.875  2014  3203 I chatty  : uid=1000(system) Binder:2014_F identical 38 lines
+08-28 20:38:13.875  2014  3203 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:13.890  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 20:38:13.891  7575  7575 I AppLifecycleTracker: App transition to foreground
+08-28 20:38:13.893  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 20:38:13.921  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:13.927  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:13.943  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:13.944  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:13.976  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:13.983  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-28 20:38:13.983  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:14.009  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:38:14.145  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 10 lines
+08-28 20:38:14.155  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:38:14.386  7734  7771 D EGL_emulation: eglMakeCurrent: 0xd494cca0: ver 2 0 (tinfo 0xd499c240)
+08-28 20:38:14.721  2403  7844 I Vision  : Requesting optional module download of ocr.
+08-28 20:38:14.722  2403  7844 I Vision  : Checking for download completion for 195324 -- ocr
+08-28 20:38:16.214  2014  3880 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.214  2014  3880 I chatty  : uid=1000(system) Binder:2014_15 identical 8 lines
+08-28 20:38:16.214  2014  3880 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.220  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 20:38:16.224  2014  2370 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.226  2014  2370 I chatty  : uid=1000(system) Binder:2014_6 identical 28 lines
+08-28 20:38:16.226  2014  2370 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.245  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 20:38:16.246  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 20:38:16.253  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 20:38:16.259  2014  2370 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 20:38:16.266  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:16.270  1765  3790 I chatty  : uid=1000(system) HwBinder:1765_3 identical 1 line
+08-28 20:38:16.290  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 20:38:16.317  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.341  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 1 line
+08-28 20:38:16.360  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.360  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.366  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-28 20:38:16.366  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 20:38:16.375  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.459  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 3 lines
+08-28 20:38:16.476  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.490  2014  2027 I system_server: Background young concurrent copying GC freed 59361(3108KB) AllocSpace objects, 31(1340KB) LOS objects, 24% free, 13MB/17MB, paused 3.408ms total 130.571ms
+08-28 20:38:16.491  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.509  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 1 line
+08-28 20:38:16.814  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:16.824  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 20:38:16.825  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 20:38:16.825  7575  7575 I AppLifecycleTracker: onActivityDestroyed: 
+08-28 20:38:17.094  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 20:38:17.189  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 20:38:17.794  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:17.794  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:17.863  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 20:38:19.270  7575  7575 D AlarmClock: Events: [Alarm] [Toggle Repeat Days] [DeskClock]
+08-28 20:38:19.277  7575  7758 I AlarmClock: Updated alarm from: Alarm {id=3, enabled=true, hour=21, minute=35, daysOfWeek=[], vibrate=true, ringtone=content://media/internal/audio/media/71?title=Argon&canonical=1, labelLength=0, deleteAfterUse=false, instanceIds=[1]} to: Alarm {id=3, enabled=true, hour=21, minute=35, daysOfWeek=[M T W Th F Sa Su], vibrate=true, ringtone=content://media/internal/audio/media/71?title=Argon&canonical=1, labelLength=0, deleteAfterUse=false, instanceIds=[1]}
+08-28 20:38:19.288  7575  7758 I AlarmClock: Setting upcoming AlarmClockInfo for instance: 1
+08-28 20:38:19.297  2014  2014 D ConditionProviders.SCP: onReceive android.app.action.NEXT_ALARM_CLOCK_CHANGED
+08-28 20:38:19.297  2014  2014 D ConditionProviders.SCP: evaluateSubscriptionLocked cal=ScheduleCalendar[mDays={1, 2, 3, 4, 5, 6, 7}, mSchedule=ScheduleInfo{days=[1, 2, 3, 4, 5, 6, 7], startHour=22, startMinute=0, endHour=7, endMinute=0, exitAtAlarm=true, nextAlarm=Sun Aug 28 21:35:00 GMT+05:30 2022 (1661702700000)}], now=Sun Aug 28 20:38:19 GMT+05:30 2022 (1661699299297), nextUserAlarmTime=Sun Aug 28 21:35:00 GMT+05:30 2022 (1661702700000)
+08-28 20:38:19.297  2014  2014 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5.6.7&start=22.0&end=7.0&exitAtAlarm=true STATE_FALSE reason=!meetsSchedule
+08-28 20:38:19.299  2014  2014 D ConditionProviders.SCP: Scheduling evaluate for Sun Aug 28 22:00:00 GMT+05:30 2022 (1661704200000), in +1h21m40s703ms, now=Sun Aug 28 20:38:19 GMT+05:30 2022 (1661699299297)
+08-28 20:38:19.299  2212  2212 W AlarmManager: Unrecognized alarm listener com.android.systemui.keyguard.-$$Lambda$KeyguardSliceProvider$IhzByd8TsqFuOrSyuGurVskyPLo@9cbb01d
+08-28 20:38:19.342  2212  2212 D KeyguardClockSwitch: Updating clock: 838
+08-28 20:38:19.351  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 20:38:20.396  2403  2998 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-28 20:38:20.424  2403  2998 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-28 20:38:22.422  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 2401070 , only wrote 2015389
+08-28 20:38:23.308  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:23.308  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:23.320  3919  7847 D DownloadManager: [6] Starting
+08-28 20:38:23.344  3919  7847 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-28 20:38:23.347  3919  7847 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+08-28 20:38:23.401  2194  7574 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService started execution. cause:4 exec_start_elapsed_seconds: 193 [CONTEXT service_id=218 ]
+08-28 20:38:23.414  2194  7574 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService finished executing. cause:4 result: 3 elapsed_millis: 47 uptime_millis: 47 exec_start_elapsed_seconds: 193 [CONTEXT service_id=218 ]
+08-28 20:38:23.482  3919  7847 W StorageManager: fallocate() not supported; falling back to ftruncate()
+08-28 20:38:23.743  7575  7575 D AlarmClock: Events: [Alarm] [Collapse] [DeskClock]
+08-28 20:38:23.762  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 2015464 , only wrote 2015389
+08-28 20:38:24.072  3919  7847 W DownloadManager: [6] Stop requested with status HTTP_DATA_ERROR: Failed reading response: javax.net.ssl.SSLProtocolException: Read error: ssl=0xd7f655d8: Failure in SSL library, usually a protocol error
+08-28 20:38:24.072  3919  7847 W DownloadManager: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT (external/boringssl/src/crypto/fipsmodule/cipher/e_aes.c:998 0xd2494543:0x00000000)
+08-28 20:38:24.072  3919  7847 W DownloadManager: error:1000008b:SSL routines:OPENSSL_internal:DECRYPTION_FAILED_OR_BAD_RECORD_MAC (external/boringssl/src/ssl/tls_record.cc:298 0xd2494543:0x00000000)
+08-28 20:38:24.076  3919  7847 D DownloadManager: [6] Finished with status WAITING_TO_RETRY
+08-28 20:38:24.138  3919  3919 D DownloadManager: onStopJob id=6, reason=0
+08-28 20:38:24.731  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:24.731  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:24.745  2403  7853 I Vision  : Requesting optional module download of ocr.
+08-28 20:38:24.745  2403  7853 I Vision  : Checking for download completion for 205348 -- ocr
+08-28 20:38:26.911  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 2291265 , only wrote 2154199
+08-28 20:38:33.796  2014  4461 I ActivityManager: Killing 7062:com.google.process.gapps/u0a125 (adj 985): empty #17
+08-28 20:38:33.798  2014  4461 I ActivityManager: Killing 6480:com.google.android.setupwizard/u0a119 (adj 985): empty #18
+08-28 20:38:33.831  2014  3880 I ActivityManager: Killing 7183:com.google.android.gms.ui/u0a111 (adj 985): empty #17
+08-28 20:38:33.849  1748  1748 I Zygote  : Process 6480 exited due to signal 9 (Killed)
+08-28 20:38:33.849  1748  1748 I Zygote  : Process 7062 exited due to signal 9 (Killed)
+08-28 20:38:33.869  1748  1748 I Zygote  : Process 7183 exited due to signal 9 (Killed)
+08-28 20:38:33.879  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10125 pid 7062 in 80ms
+08-28 20:38:33.881  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10119 pid 6480 in 0ms
+08-28 20:38:33.881  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10111 pid 7183 in 0ms
+08-28 20:38:34.771  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:34.771  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:34.779  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:34.779  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:34.785  2403  7856 I Vision  : Requesting optional module download of ocr.
+08-28 20:38:34.786  2403  7856 I Vision  : Checking for download completion for 215388 -- ocr
+08-28 20:38:38.211  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:38.211  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:38.720  2014  3475 D WificondControl: Scan result ready event
+08-28 20:38:41.750  2014  2014 W Telecom : Logging: Stale Sessions Cleaned:
+08-28 20:38:41.750  2014  2014 W Telecom : CM.CCCR@AE8
+08-28 20:38:41.750  2014  2014 W Telecom : 	CM.CCCR->CM.UECNT@AE8
+08-28 20:38:41.750  2014  2014 W Telecom : 		CM.CCCR->CM.UECNT@AE8
+08-28 20:38:41.750  2014  2014 W Telecom : 			CM.CCCR->CM.UECNT->CM.CCCR->CM.UECNT@AE8
+08-28 20:38:44.788  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 20:38:44.788  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 20:38:44.793  2403  7859 I Vision  : Requesting optional module download of ocr.
+08-28 20:38:44.793  2403  7859 I Vision  : Exceeded maximum feature download tries for ocr
+08-28 20:38:44.793  2403  7859 W Vision  : Request of optional module download of ocr failed.
+08-28 20:38:44.793  2403  7859 I Vision  : Checking for download completion for 225396 -- ocr

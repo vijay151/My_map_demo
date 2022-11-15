@@ -1,0 +1,444 @@
+--------- beginning of main
+08-25 23:29:05.683  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:05.686  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:05.689  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:05.690  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:10.695  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:10.698  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:10.704  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:10.704  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:10.705  3120  6523 I DeviceStateChecker: DeviceStateChecker cancelled
+08-25 23:29:15.709  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:15.712  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:15.716  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:15.717  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:20.194  1918  1918 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 23:29:20.615  1909  1909 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 23:29:20.722  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:20.723  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:20.726  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:20.727  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:25.734  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:25.736  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:25.743  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:25.743  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:25.744  3120  6523 I DeviceStateChecker: DeviceStateChecker cancelled
+08-25 23:29:29.112  2001  2111 V InputDispatcher: Asynchronous input event injection succeeded.
+08-25 23:29:29.125  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:29.131  1751  3925 W audio_hw_generic: Not supplying enough data to HAL, expected position 2443219 , only wrote 2443056
+08-25 23:29:29.153  2001  2111 I WindowManager: Ignoring HOME; event canceled.
+08-25 23:29:29.153  2001  2111 V InputDispatcher: Asynchronous input event injection succeeded.
+08-25 23:29:29.354  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:30.681  2155  2562 I chatty  : uid=10108(com.android.systemui) RenderThread identical 28 lines
+08-25 23:29:30.684  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:30.744  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:29:30.745  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:29:30.745  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:29:30.745  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:29:30.788  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+--------- beginning of system
+08-25 23:29:31.611  2001  4898 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock bnds=[856,300][1127,729]} from uid 10110
+08-25 23:29:31.626  2001  2001 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+08-25 23:29:31.627  2001  2001 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+08-25 23:29:30.950  2155  2562 I chatty  : uid=10108(com.android.systemui) RenderThread identical 8 lines
+08-25 23:29:30.965  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:31.634  2001  2879 W InputReader: Device has associated, but no associated display id.
+08-25 23:29:31.648  2001  2879 I chatty  : uid=1000(system) Binder:2001_C identical 38 lines
+08-25 23:29:31.648  2001  2879 W InputReader: Device has associated, but no associated display id.
+08-25 23:29:31.679  4585  4585 I AppLifecycleTracker: onActivityStarted: 
+08-25 23:29:31.682  4585  4585 I AppLifecycleTracker: App transition to foreground
+08-25 23:29:31.695  2001  2442 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-25 23:29:31.696  4585  4585 I AppLifecycleTracker: onActivityResumed: 
+08-25 23:29:31.717  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:29:31.727  1762  1762 I chatty  : uid=1000(system) allocator@2.0-s identical 1 line
+08-25 23:29:31.752  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:29:31.817  4585  4821 D EGL_emulation: eglMakeCurrent: 0xe21ecc80: ver 2 0 (tinfo 0xc27f10e0)
+08-25 23:29:31.821  1763  1763 W EmuHWC2 : validate: layer 33 CompositionType 1, fallback
+08-25 23:29:31.831  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313320
+08-25 23:29:31.838  1763  1763 W EmuHWC2 : validate: layer 33 CompositionType 1, fallback
+08-25 23:29:31.846  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313380
+08-25 23:29:31.854  1763  1763 W EmuHWC2 : validate: layer 33 CompositionType 1, fallback
+08-25 23:29:31.867  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6312e40
+08-25 23:29:31.873  1763  1763 W EmuHWC2 : validate: layer 33 CompositionType 1, fallback
+08-25 23:29:31.893  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313320
+08-25 23:29:31.897  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:31.912  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313380
+08-25 23:29:31.916  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:31.925  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:31.938  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6312e40
+08-25 23:29:31.941  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:31.962  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:31.966  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313320
+08-25 23:29:31.977  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:31.989  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:31.993  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313380
+08-25 23:29:31.998  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:32.013  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6312e40
+08-25 23:29:32.016  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:32.033  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:32.034  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313320
+08-25 23:29:32.038  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:32.048  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:32.053  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313380
+08-25 23:29:32.059  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:32.076  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6312e40
+08-25 23:29:32.081  1763  1763 W EmuHWC2 : validate: layer 34 CompositionType 1, fallback
+08-25 23:29:32.096  1763  1763 W EmuHWC2 : No layers, exit, buffer 0xf6313320
+08-25 23:29:32.118  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:29:32.196  3120  3988 D EGL_emulation: eglMakeCurrent: 0xda11b920: ver 2 0 (tinfo 0xda10fd50)
+08-25 23:29:32.221  1779  1779 E Layer   : [Surface(name=AppWindowToken{78b1a49 token=Token{43b0850 ActivityRecord{a335e13 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t55}}})/@0xd23a757 - animation-leash#0] No local sync point found
+08-25 23:29:32.221  1779  1779 E Layer   : [Surface(name=AppWindowToken{d4aaa2f token=Token{31cf00e ActivityRecord{55d3609 u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity t51}}})/@0x7d11820 - animation-leash#0] No local sync point found
+08-25 23:29:32.232  2475  3023 D EGL_emulation: eglMakeCurrent: 0xda11a2a0: ver 2 0 (tinfo 0xda10f820)
+08-25 23:29:32.287  1779  1779 W SurfaceFlinger: couldn't log to binary event log: overflow.
+08-25 23:29:32.305  3120  8489 I PBSessionCacheImpl: Deleted sessionId[772528672150] from persistence.
+08-25 23:29:32.311  3120  3427 W SearchServiceCore: Abort, client detached.
+08-25 23:29:32.311  3120  3427 I StreamController: cleanUpControllerScope(nowcards-15-7a1d31-248a)
+08-25 23:29:33.666  4585  4585 D AlarmClock: Events: [Timer] [Show Tab] [Tap]
+08-25 23:29:37.372  2660  8074 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:29:37.383  2660  8030 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:29:37.383  2660  8496 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:29:37.387  2660  7894 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:29:37.393  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:29:37.437  2660  4232 W MessageQueue: Handler (aekz) {5f35016} sending message to a Handler on a dead thread
+08-25 23:29:37.437  2660  4232 W MessageQueue: java.lang.IllegalStateException: Handler (aekz) {5f35016} sending message to a Handler on a dead thread
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:558)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:754)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:703)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at aekz.sendMessageAtTime(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:673)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Handler.post(Handler.java:403)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at bcfu.execute(Unknown Source:0)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at aaes.execute(Unknown Source:0)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at avll.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at avlz.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at avmf.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):33)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at avma.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at rqe.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at rqe.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at afwn.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at rou.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at cpc.onTransact(:com.google.android.gms@202414022@20.24.14 (040700-319035315):8)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-25 23:29:37.437  2660  4232 W MessageQueue: 	at android.os.Binder.execTransact(Binder.java:994)
+08-25 23:29:38.713  4585  4585 D AlarmClock: Events: [Timer] [Create] [DeskClock]
+08-25 23:29:38.716  4585  4585 I AlarmClock: Adjusting state from RESET to RUNNING for timer 0
+08-25 23:29:38.722  4585  4585 D AlarmClock: Events: [Timer] [Start] [DeskClock]
+08-25 23:29:38.979  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Timer_cross_device from com.google.android.deskclock
+08-25 23:29:39.035  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Timer_cross_device
+08-25 23:29:39.040  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-25 23:29:39.120  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-25 23:29:39.128  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Stopwatch_cross_device from com.google.android.deskclock
+08-25 23:29:39.163  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Stopwatch_cross_device
+08-25 23:29:39.164  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Timer_cross_device from com.google.android.deskclock
+08-25 23:29:39.188  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-25 23:29:39.196  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-25 23:29:39.204  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Timer_cross_device
+08-25 23:29:41.857  1751  1875 W audio_hw_generic: Not supplying enough data to HAL, expected position 3563598 , only wrote 3004245
+08-25 23:29:42.305  3120  3427 I WorkerManager: dispose()
+08-25 23:29:42.306  3120  3427 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+08-25 23:29:42.841  2660  8008 W CCTFlatFileLogStore: Excessive logging: 512 events, 142848 bytes from log source ANDROID_GSA last 738s
+08-25 23:29:43.560  2660  8008 W CCTFlatFileLogStore: Excessive logging: 1024 events, 285696 bytes from log source ANDROID_GSA last 739s
+08-25 23:29:48.896  2247  2261 W id.networkstac: Reducing the number of considered missed Gc histogram windows from 542 to 100
+08-25 23:29:53.881  2001  2038 E memtrack: Couldn't load memtrack module
+08-25 23:29:53.881  2001  2038 W android.os.Debug: failed to get memory consumption info: -1
+08-25 23:29:56.895  2001  2872 D WificondControl: Scan result ready event
+08-25 23:30:00.014  4585  4585 I AlarmClock: Periodic: Executing periodic callback for QUARTER_HOUR because the period ended
+08-25 23:30:00.015  4585  4585 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 23:30:00.015  4585  4585 I chatty  : uid=10131(com.google.android.deskclock) identical 2 lines
+08-25 23:30:00.016  4585  4585 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 23:30:00.020  2155  2155 D KeyguardClockSwitch: Updating clock: 1130
+08-25 23:30:00.020  4585  4585 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 23:30:00.027  4585  4585 I chatty  : uid=10131(com.google.android.deskclock) identical 4 lines
+08-25 23:30:00.027  4585  4585 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-25 23:30:00.033  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:00.732  4585  4585 D AlarmClock: Events: [Timer] [Fire] [Intent]
+08-25 23:30:00.738  4585  4585 I AlarmClock: Adjusting state from RUNNING to EXPIRED for timer 0
+08-25 23:30:00.743  4585  4585 I AlarmClock: Creating timer state change intent for timer id 0 with firetime 1661450400716 
+08-25 23:30:00.785  4585  4585 I AlarmClock: TimerKlaxon.start()
+08-25 23:30:00.785  4585  4585 D AlarmClock: RingtonePlayer: Posting play
+08-25 23:30:00.786  2660  2660 I Wear_Controller: Wear requires a companion app to be installed.
+08-25 23:30:00.786  2660  2660 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+08-25 23:30:00.793  4585  8505 I AlarmClock: RingtonePlayer: Play ringtone via android.media.Ringtone
+08-25 23:30:00.809  1841  3964 D NuPlayerDriver: NuPlayerDriver(0xf4422700) created, clientPid(4585)
+08-25 23:30:00.815  1841  3964 I Codec2Client: Creating a Codec2 client to service "software"
+08-25 23:30:00.821  1841  3964 I Codec2Client: Client to Codec2 service "software" created
+08-25 23:30:00.832  2660  4298 W WearableService: onGetService: Wear is not available on this device.
+08-25 23:30:00.839  4585  4585 D AlarmClock: Wearable API failed to connect: bst{statusCode=API_UNAVAILABLE, resolution=null, message=null}
+08-25 23:30:00.843  1841  8509 D GenericSource: FileSource remote
+08-25 23:30:00.852  4585  8505 D Ringtone: Successfully created local player
+08-25 23:30:00.852  4585  8505 D AlarmClock: Events: [Timer Ringtone] [Play] [Default Timer Ringtone]
+08-25 23:30:00.853  1841  3964 D NuPlayerDriver: reset(0xf4422700) at state 4
+08-25 23:30:00.857  1841  8507 D NuPlayerDriver: notifyResetComplete(0xf4422700)
+08-25 23:30:00.858  1841  3964 D NuPlayerDriver: reset(0xf4422700) at state 0
+08-25 23:30:00.860  4585  8505 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-25 23:30:00.860  4585  8505 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-25 23:30:00.860  4585  8505 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-25 23:30:00.861  4585  8505 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-25 23:30:00.872  1841  3964 D NuPlayerDriver: NuPlayerDriver(0xf4422780) created, clientPid(4585)
+08-25 23:30:00.877  1841  3964 I Codec2Client: Creating a Codec2 client to service "software"
+08-25 23:30:00.884  1841  3964 I Codec2Client: Client to Codec2 service "software" created
+08-25 23:30:00.907  1841  8513 D GenericSource: FileSource remote
+08-25 23:30:00.917  4585  8505 D Ringtone: Successfully created local player
+08-25 23:30:00.918  2001  4898 I MediaFocusControl: requestAudioFocus() from uid/pid 10131/4585 clientId=android.media.AudioManager@820b12d callingPack=com.google.android.deskclock req=4 flags=0x0 sdk=28
+08-25 23:30:00.943  1841  8512 I GenericSource: start
+08-25 23:30:00.944  4585  8505 D AlarmClock: Events: [Timer Ringtone] [Play Succeeded] [Default Timer Ringtone]
+08-25 23:30:00.948  2001  3261 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-25 23:30:00.955  1841  8517 I OMXClient: IOmx service obtained
+08-25 23:30:00.955  1848  1900 I OMXMaster: makeComponentInstance(OMX.google.vorbis.decoder) in android.hardwar process
+08-25 23:30:00.962  1848  1900 E OMXNodeInstance: setConfig(0xf2b18cc0:google.vorbis.decoder, ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+08-25 23:30:00.963  1841  8517 I ACodec  : codec does not support config priority (err -2147483648)
+08-25 23:30:00.964  1848  1900 E OMXNodeInstance: getConfig(0xf2b18cc0:google.vorbis.decoder, ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+08-25 23:30:00.978  1841  8517 I MediaCodec: MediaCodec will operate in async mode
+08-25 23:30:00.979  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Timer_cross_device from com.google.android.deskclock
+08-25 23:30:00.998  2155  4973 E ndroid.systemu: Invalid ID 0x00000000.
+08-25 23:30:01.036  1774  2092 D AudioFlinger: Client defaulted notificationFrames to 12064 for frameCount 24129
+08-25 23:30:01.037  1774  2092 D AF::TrackHandle: OpPlayAudio: track:57 usage:4 not muted
+08-25 23:30:01.042  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-25 23:30:01.062  1751  3925 W audio_hw_generic: Not supplying enough data to HAL, expected position 3004356 , only wrote 3004245
+08-25 23:30:01.081  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Timer_cross_device
+08-25 23:30:01.082  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Stopwatch_cross_device from com.google.android.deskclock
+08-25 23:30:01.089  1841  8515 D AudioTrack: getTimestamp_l(10): device stall time corrected using current time 15598277052800
+08-25 23:30:01.132  2155  2155 W HeadsUpManagerPhone: onHeadsUpPinnedModeChanged
+08-25 23:30:01.142  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-25 23:30:01.149  2155  2155 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+08-25 23:30:01.162  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Stopwatch_cross_device
+08-25 23:30:01.238  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:01.240  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:01.278  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:01.313  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:01.387  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:02.041  1774  1936 D AF::Track: interceptBuffer: took 476us to intercept 0 tracks
+08-25 23:30:02.254  1774  1936 D AF::Track: interceptBuffer: took 551us to intercept 0 tracks
+08-25 23:30:02.304  1774  1936 D AF::Track: interceptBuffer: took 426us to intercept 0 tracks
+08-25 23:30:02.686  1774  1936 D AF::Track: interceptBuffer: took 435us to intercept 0 tracks
+08-25 23:30:02.714  1774  1936 D AF::Track: interceptBuffer: took 522us to intercept 0 tracks
+08-25 23:30:02.757  1774  1936 D AF::Track: interceptBuffer: took 214us to intercept 0 tracks
+08-25 23:30:03.648  1774  1936 D AF::Track: interceptBuffer: took 237us to intercept 0 tracks
+08-25 23:30:03.715  1774  1936 D AF::Track: interceptBuffer: took 357us to intercept 0 tracks
+08-25 23:30:03.901  1774  1936 D AudioFlinger: mixer(0xe8c53c40) throttle end: throttle time(4)
+08-25 23:30:03.982  1774  1936 D AF::Track: interceptBuffer: took 10204us to intercept 0 tracks
+08-25 23:30:04.465  1774  1936 D AF::Track: interceptBuffer: took 10469us to intercept 0 tracks
+08-25 23:30:04.489  1774  1936 D AF::Track: interceptBuffer: took 233us to intercept 0 tracks
+08-25 23:30:04.503  1774  1936 D AF::Track: interceptBuffer: took 382us to intercept 0 tracks
+08-25 23:30:04.567  1841  8515 D AudioTrack: stop(10): called with 183062 frames delivered
+08-25 23:30:05.123  1841  8515 D AudioTrack: getTimestamp_l(10): device stall time corrected using current time 15602310258400
+08-25 23:30:06.094  4585  4585 I AlarmClock: Adjusting state from EXPIRED to RESET for timer 0
+08-25 23:30:06.094  4585  4585 I AlarmClock: Creating timer state change intent for timer id 0 with firetime 1661450428094 
+08-25 23:30:06.108  4585  4585 I AlarmClock: TimerKlaxon.stop()
+08-25 23:30:06.108  4585  4585 D AlarmClock: RingtonePlayer: Posting stop
+08-25 23:30:06.110  4585  8505 I AlarmClock: RingtonePlayer: Stop ringtone via android.media.Ringtone
+08-25 23:30:06.110  4585  8505 D AlarmClock: RingtonePlayer: Ringtone.stop() invoked
+08-25 23:30:06.111  4585  8505 D AlarmClock: Events: [Timer Ringtone] [Stop] [Default Timer Ringtone]
+08-25 23:30:06.112  1841  3964 D NuPlayerDriver: reset(0xf4422780) at state 5
+08-25 23:30:06.117  4585  4585 D AlarmClock: Events: [Timer] [Reset] [Intent]
+08-25 23:30:06.139  4585  4585 V AlarmClock: TimerService.onDestroy() called
+08-25 23:30:06.155  1841  8512 D NuPlayerDriver: notifyResetComplete(0xf4422780)
+08-25 23:30:06.156  1841  3964 D NuPlayerDriver: reset(0xf4422780) at state 0
+08-25 23:30:06.159  4585  8505 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-25 23:30:06.160  4585  8505 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-25 23:30:06.160  4585  8505 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-25 23:30:06.160  4585  8505 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-25 23:30:06.162  4585  8505 D AlarmClock: Events: [Timer Ringtone] [Stop Succeeded] [Default Timer Ringtone]
+08-25 23:30:06.163  2001  2503 I MediaFocusControl: abandonAudioFocus() from uid/pid 10131/4585 clientId=android.media.AudioManager@820b12d
+08-25 23:30:06.165  1841  3964 D AudioTrack: stop(10): called with 0 frames delivered
+08-25 23:30:06.179  2155  2155 W HeadsUpManagerPhone: onHeadsUpPinnedModeChanged
+08-25 23:30:06.266  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Timer_cross_device from com.google.android.deskclock
+08-25 23:30:06.291  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-25 23:30:06.313  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Timer_cross_device
+08-25 23:30:06.314  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Stopwatch_cross_device from com.google.android.deskclock
+08-25 23:30:06.329  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-25 23:30:06.333  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Stopwatch_cross_device
+08-25 23:30:06.673  2155  2155 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+08-25 23:30:06.683  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:06.686  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 487424
+08-25 23:30:06.700  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:06.735  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 487424
+08-25 23:30:06.750  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 487424
+08-25 23:30:07.382  3120  8464 W GmsLocationProvider: Error removing location updates: 16
+08-25 23:30:08.938  4585  4585 D AlarmClock: Events: [Timer] [Delete] [DeskClock]
+08-25 23:30:09.108  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Timer_cross_device from com.google.android.deskclock
+08-25 23:30:09.180  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Timer_cross_device
+08-25 23:30:09.204  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Alarm_cross_device from com.google.android.deskclock
+08-25 23:30:09.224  2979  3696 I Icing   : Indexing com.google.android.deskclock-internal.3p:Stopwatch_cross_device from com.google.android.deskclock
+08-25 23:30:09.236  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Alarm_cross_device
+08-25 23:30:09.241  2979  3696 I Icing   : Indexing done com.google.android.deskclock-internal.3p:Stopwatch_cross_device
+08-25 23:30:11.068  2001  2111 V InputDispatcher: Asynchronous input event injection succeeded.
+08-25 23:30:11.082  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.131  1774  1936 D AF::Track: interceptBuffer: took 1978us to intercept 0 tracks
+08-25 23:30:11.157  1774  1936 D AF::Track: interceptBuffer: took 1740us to intercept 0 tracks
+08-25 23:30:11.286  2001  2111 V InputDispatcher: Asynchronous input event injection succeeded.
+08-25 23:30:11.288  2001  2030 D AutofillManagerService: Close system dialogs
+08-25 23:30:11.290  2001  2031 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras)} from uid 0
+08-25 23:30:11.302  2001  2031 W InputReader: Device has associated, but no associated display id.
+08-25 23:30:11.314  2001  2031 I chatty  : uid=1000(system) android.ui identical 18 lines
+08-25 23:30:11.314  2001  2031 W InputReader: Device has associated, but no associated display id.
+08-25 23:30:11.357  2155  2155 V StatusBar: mStatusBarWindow: com.android.systemui.statusbar.phone.StatusBarWindowView{be945ef V.E...... ........ 0,0-1440,84} canPanelBeCollapsed(): false
+08-25 23:30:11.359  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.353  4585  4585 I AppLifecycleTracker: onActivityPaused: 
+08-25 23:30:11.392  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.410  1762  1810 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.440  3120  3988 D EGL_emulation: eglMakeCurrent: 0xda11b920: ver 2 0 (tinfo 0xda10fd50)
+08-25 23:30:11.466  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.494  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.521  2475  3023 D EGL_emulation: eglMakeCurrent: 0xda11a2a0: ver 2 0 (tinfo 0xda10f820)
+08-25 23:30:11.540  3120  3120 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+08-25 23:30:11.549  1762  1762 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17514496
+08-25 23:30:11.564  3120  3427 W SessionLifecycleManager: Handover failed. Creating new session controller.
+08-25 23:30:11.568  2001  2034 W InputReader: Device has associated, but no associated display id.
+08-25 23:30:11.569  2001  2034 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-25 23:30:11.569  2001  2034 W InputReader: Device has associated, but no associated display id.
+08-25 23:30:11.575  1762  1810 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 11210752
+08-25 23:30:11.638  2001  2001 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+08-25 23:30:11.639  2001  2001 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+08-25 23:30:11.691  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.714  2475  2489 W s.nexuslaunche: Reducing the number of considered missed Gc histogram windows from 760 to 100
+08-25 23:30:11.717  3120  3120 I StreamRenderer: cleanUpRendererScope(nowcards-15-7a1d31-248a)
+08-25 23:30:11.721  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.751  2155  2562 I chatty  : uid=10108(com.android.systemui) RenderThread identical 1 line
+08-25 23:30:11.817  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.840  3120  8499 W LocationOracle: No location history returned by ContextManager
+08-25 23:30:11.857  2155  2181 I ndroid.systemu: NativeAlloc concurrent copying GC freed 163770(4787KB) AllocSpace objects, 0(0B) LOS objects, 47% free, 6673KB/12MB, paused 921us total 118.438ms
+08-25 23:30:11.875  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.919  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:30:11.920  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:30:11.921  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:30:11.921  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:30:11.925  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.983  3120  3120 I StreamRenderer: maybeRegisterNowCardsScope(nowcards-15-ee2d1e-cae4, com.google.android.sidekick.shared.remoteapi.CardRenderingContext@27675a5)
+08-25 23:30:11.988  2155  2562 D EGL_emulation: eglMakeCurrent: 0xe21abc60: ver 2 0 (tinfo 0xc1cc0b40)
+08-25 23:30:11.994  3120  8463 W OptInChecker: Missing cached UDC setting for NOW_CARDS
+08-25 23:30:11.995  3120  8463 I OptInChecker: Falling back to non-UDC sources
+08-25 23:30:11.995  3120  8463 I OptInChecker: Setting = NOW_CARDS, optedInt = true
+08-25 23:30:11.995  3120  8463 W OptInChecker: Missing cached UDC setting for NOW_NOTIFICATIONS
+08-25 23:30:11.995  3120  8463 I OptInChecker: Falling back to non-UDC sources
+08-25 23:30:11.995  3120  8463 I OptInChecker: Setting = NOW_NOTIFICATIONS, optedInt = true
+08-25 23:30:11.995  3120  8463 W OptInChecker: Missing cached UDC setting for CHROME_HISTORY_SYNC
+08-25 23:30:11.995  3120  8463 I OptInChecker: Falling back to non-UDC sources
+08-25 23:30:11.995  3120  8463 I OptInChecker: Setting = CHROME_HISTORY_SYNC, optedInt = false
+08-25 23:30:11.998  3120  8463 W CDHeaderDataHandler: Invalid integer value "" in experiments IDs.
+08-25 23:30:12.004  3120  3175 I earchbox:searc: Waiting for a blocking GC ProfileSaver
+08-25 23:30:12.004  2660  8030 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.117  3120  3151 I earchbox:searc: Background young concurrent copying GC freed 20945(1058KB) AllocSpace objects, 0(0B) LOS objects, 2% free, 13MB/13MB, paused 970us total 139.635ms
+08-25 23:30:12.118  3120  3175 I earchbox:searc: WaitForGcToComplete blocked ProfileSaver on HeapTrim for 114.193ms
+08-25 23:30:12.134  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:30:12.136  4585  4821 D EGL_emulation: eglMakeCurrent: 0xe21ecc80: ver 2 0 (tinfo 0xc27f10e0)
+08-25 23:30:12.160  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:30:12.182  3120  3151 I earchbox:searc: WaitForGcToComplete blocked Background on ProfileSaver for 58.603ms
+08-25 23:30:12.245  4585  4585 I AppLifecycleTracker: onActivityStopped: 
+08-25 23:30:12.246  4585  4585 I AppLifecycleTracker: App transition to background
+08-25 23:30:12.261  4585  4585 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-25 23:30:12.275  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:30:12.282  3120  3546 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-25 23:30:12.282  3120  3546 W ExifInterface: java.io.IOException: Invalid byte order: ffff8950
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1447)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.ac.a(SourceFile:4)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.f.b(SourceFile:19)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.w.a(SourceFile:31)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.g.a(SourceFile:6)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.v.a(SourceFile:13)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.h(SourceFile:123)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.a(SourceFile:249)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:38)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.c.o.a(SourceFile:4)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:30)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.e(SourceFile:82)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.run(SourceFile:59)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at java.lang.Thread.run(Thread.java:919)
+08-25 23:30:12.282  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.c.d.run(SourceFile:9)
+08-25 23:30:12.284  2660  8008 W ctxmgr  : [AclManager] No 3 for (accnt=account#1178712851#, com.google.android.gms(10116):UserVelocityProducer, vrsn=202414022, 0, 3pPkg = null ,  3pMdlId = null ,  pid = 2660). Was: 2 for 1, account#1178712851# [CONTEXT service_id=47 ]
+08-25 23:30:12.292  3120  3546 W ExifInterface: Invalid image: ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface.
+08-25 23:30:12.292  3120  3546 W ExifInterface: java.io.IOException: Invalid byte order: ffff8950
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at android.media.ExifInterface.readByteOrder(ExifInterface.java:3121)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at android.media.ExifInterface.isOrfFormat(ExifInterface.java:2437)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at android.media.ExifInterface.getMimeType(ExifInterface.java:2315)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at android.media.ExifInterface.loadAttributes(ExifInterface.java:1753)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at android.media.ExifInterface.<init>(ExifInterface.java:1447)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.ac.a(SourceFile:4)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.f.b(SourceFile:19)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.w.a(SourceFile:31)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.d.a.g.a(SourceFile:6)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.v.a(SourceFile:13)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.h(SourceFile:123)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.a(SourceFile:249)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:38)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.c.o.a(SourceFile:4)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.g.a(SourceFile:30)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.e(SourceFile:82)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.m.run(SourceFile:59)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at java.lang.Thread.run(Thread.java:919)
+08-25 23:30:12.292  3120  3546 W ExifInterface: 	at com.bumptech.glide.load.b.c.d.run(SourceFile:9)
+08-25 23:30:12.440  2660  7894 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.535  2660  8008 I ctxmgr  : [ProducerStatusImpl] updateStateForNewContextData: inactive, contextName=7 [CONTEXT service_id=47 ]
+08-25 23:30:12.541  2660  8030 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.543  2001  2014 I system_server: NativeAlloc concurrent copying GC freed 136062(4830KB) AllocSpace objects, 7(284KB) LOS objects, 30% free, 13MB/19MB, paused 747us total 306.008ms
+08-25 23:30:12.581  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:30:12.586  2001  2032 I DropBoxManagerService: add tag=system_server_strictmode isTagEnabled=true flags=0x2
+08-25 23:30:12.586  2660  2660 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-25 23:30:12.588  2660  8496 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.588  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 0 [CONTEXT service_id=253 ]
+08-25 23:30:12.598  3120  3151 I earchbox:searc: Background concurrent copying GC freed 52576(3243KB) AllocSpace objects, 0(0B) LOS objects, 32% free, 12MB/18MB, paused 7.850ms total 395.370ms
+08-25 23:30:12.602  2660  8030 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.605  2660  8030 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.612  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [account#1178712851] Changed inference mode: 0 [CONTEXT service_id=253 ]
+08-25 23:30:12.666  2660  8537 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.669  2660  8536 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.723  2660  2673 I .gms.persisten: Background young concurrent copying GC freed 63961(3300KB) AllocSpace objects, 0(0B) LOS objects, 5% free, 13MB/14MB, paused 901us total 107.962ms
+08-25 23:30:12.819  2660  8532 I Places  : Converted 1 out of 1 WiFi scans
+08-25 23:30:12.928  2660  8536 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.991  2660  8532 I LogUtils: [Places]: ?: PlacesBleScanner start() with priority 2 [CONTEXT service_id=253 ]
+08-25 23:30:12.997  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 1 [CONTEXT service_id=253 ]
+08-25 23:30:12.997  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [account#1178712851] Changed inference mode: 1 [CONTEXT service_id=253 ]
+08-25 23:30:13.020  2660  2660 E BeaconBle: Missing BluetoothAdapter [CONTEXT service_id=111 ]
+08-25 23:30:13.025  2660  2660 I BeaconBle: BLE 'KK+' software access layer enabled [CONTEXT service_id=111 ]
+08-25 23:30:13.045  2660  2660 I BeaconBle: Client requested scan, settings=BleSettings [scanMode=ZERO_POWER, callbackType=ALL_MATCHES, reportDelayMillis=0, 1 filters, 0 clients, callingClientName=Places] [CONTEXT service_id=111 ]
+08-25 23:30:13.045  2660  2660 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-25 23:30:13.047  2660  2660 E BeaconBle: Scan couldn't start for Places [CONTEXT service_id=111 ]
+08-25 23:30:13.047  2660  2660 W Places  : BLE failure while scanning - code 5
+08-25 23:30:13.965  2001  2091 D WificondControl: Scan result ready event
+08-25 23:30:14.225  2660  8532 I Places  : Converted 1 out of 1 WiFi scans
+08-25 23:30:14.238  1751  1875 W audio_hw_generic: Not supplying enough data to HAL, expected position 4164732 , only wrote 3585264
+08-25 23:30:14.248  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [account#1178712851] Changed inference mode: 1 [CONTEXT service_id=253 ]
+08-25 23:30:14.249  2660  8537 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:14.249  2660  8532 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 1 [CONTEXT service_id=253 ]
+08-25 23:30:14.251  2660  8536 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:14.258  2660  8008 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:14.283  2660  8537 I PlacesLogger: [PlaceInferenceEngine]: No beacon scan available - ignoring candidates. [CONTEXT service_id=253 ]
+08-25 23:30:14.284  2660  8008 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:14.384  2660  8496 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:14.385  2660  8537 I PlacesLogger: [PlaceInferenceEngine]: No beacon scan available - ignoring candidates. [CONTEXT service_id=253 ]
+08-25 23:30:14.432  2660  8537 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-25 23:30:12.594  2001  2032 I chatty  : uid=1000(system) android.io identical 1 line
+08-25 23:30:12.600  2001  2032 I DropBoxManagerService: add tag=system_server_strictmode isTagEnabled=true flags=0x2
+08-25 23:30:14.598  2001  2039 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-25 23:30:14.598  2001  2039 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-25 23:30:16.930  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:30:16.932  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:30:16.936  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:30:16.936  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:30:16.938  3120  8499 I DeviceStateChecker: DeviceStateChecker cancelled
+08-25 23:30:20.221  1918  1918 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-25 23:30:20.635  1909  1909 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-25 23:30:21.942  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:30:21.945  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:30:21.947  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:30:21.947  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:30:26.952  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:30:26.955  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:30:26.957  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:30:26.957  3120  3427 I MicroDetectionWorker: #onError(false)
+08-25 23:30:26.957  3120  8498 I DeviceStateChecker: DeviceStateChecker cancelled
+08-25 23:30:30.664  2660  8554 E memtrack: Couldn't load memtrack module
+08-25 23:30:30.664  2660  8554 W android.os.Debug: failed to get memory consumption info: -1
+08-25 23:30:30.820  4585  8484 I AlarmClock: No connected nodes
+08-25 23:30:31.961  3120  3427 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-25 23:30:31.964  3120  3427 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-25 23:30:31.966  3120  3427 I MicroDetector: Keeping mic open: false
+08-25 23:30:31.966  3120  3427 I MicroDetectionWorker: #onError(false)

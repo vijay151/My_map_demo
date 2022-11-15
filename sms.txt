@@ -1,0 +1,386 @@
+--------- beginning of main
+08-29 16:46:00.020  2212  2212 D KeyguardClockSwitch: Updating clock: 446
+08-29 16:46:00.031  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-29 16:46:00.032  7575  7575 I chatty  : uid=10133(com.google.android.deskclock) identical 2 lines
+08-29 16:46:00.033  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-29 16:46:19.798  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-29 16:46:27.164  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-29 16:46:50.469  2014  2051 E memtrack: Couldn't load memtrack module
+08-29 16:46:50.469  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-29 16:47:00.003  2212  2212 D KeyguardClockSwitch: Updating clock: 447
+08-29 16:47:00.013  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+--------- beginning of system
+08-29 16:47:01.062  2014  2051 I UsageStatsService: User[0] Flushing usage stats to disk
+08-29 16:47:01.076  2014  2051 E AppIdleHistory: Error writing app idle file for user 0
+08-29 16:47:00.014  7575  7575 I chatty  : uid=10133(com.google.android.deskclock) identical 2 lines
+08-29 16:47:00.014  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-29 16:47:01.301  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 5807699 , only wrote 5807546
+08-29 16:47:01.304  2014  2187 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.304  2014  2187 I chatty  : uid=1000(system) Binder:2014_4 identical 8 lines
+08-29 16:47:01.304  2014  2187 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.324 11420 11420 I AppLifecycleTracker: onActivityPaused: 
+08-29 16:47:01.328  2014  3146 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.334  2014  3146 I chatty  : uid=1000(system) Binder:2014_B identical 28 lines
+08-29 16:47:01.334  2014  3146 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.386 11420 11420 I BugleDataModel: ParticipantRefresh: Skipped full participant refresh
+08-29 16:47:01.388 11420 11420 I BugleDataModel: ParticipantRefresh: Skipped full participant refresh
+08-29 16:47:01.389 11420 11420 I AppLifecycleTracker: onActivityStarted: 
+08-29 16:47:01.390 11420 11420 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-29 16:47:01.411 11420 11420 W InstanceID: Instance ID SDK is deprecated, com.google.android.apps.messaging should update to use Firebase Instance ID
+08-29 16:47:01.474 11487 11507 W SetupWizard: [DeviceOriginProvider] Key does not exist=source_device
+08-29 16:47:01.484 11420 11420 I AppLifecycleTracker: onActivityResumed: 
+08-29 16:47:01.517  3850  3850 I BgTaskExecutorImpl: Starting PERIODIC background task REFRESH_SEARCH_HISTORY.
+08-29 16:47:01.543 11420 11444 I .apps.messagin: Waiting for a blocking GC ProfileSaver
+08-29 16:47:01.570 11420 11433 I .apps.messagin: Background concurrent copying GC freed 92866(4275KB) AllocSpace objects, 26(1064KB) LOS objects, 39% free, 9475KB/15MB, paused 446us total 157.331ms
+08-29 16:47:01.571 11420 11444 I .apps.messagin: WaitForGcToComplete blocked ProfileSaver on ProfileSaver for 27.793ms
+08-29 16:47:01.574 11420 11420 W Bugle   : widthToGrow is negative!
+08-29 16:47:01.574  3850 11902 W LocationOracle: getBestLocation(): no location is available
+08-29 16:47:01.576  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:01.592  3850 11902 W LocationOracle: getBestLocation(): no location is available
+08-29 16:47:01.593  3850 11902 W CDHeaderDataHandler: Invalid integer value "" in experiments IDs.
+08-29 16:47:01.598  1765  3790 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:01.621  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:01.641 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:01.676  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.679  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-29 16:47:01.679  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:01.693 11420 11420 I BugleRcs: RcsAvailability: updating
+08-29 16:47:01.694 11420 11898 I BugleRcs: RcsAvailability: No minimum Cs.apk version is set, not checking Cs.apk version
+08-29 16:47:01.699 11420 11901 I BugleRcs: RCS is disabled via P/H
+08-29 16:47:01.700 11420 11898 I BugleRcs: RcsAvailability: config server url unavailable - Carrier is not RCS enabled
+08-29 16:47:01.726  2788  2788 I PhenotypeExpConfig: refreshConfiguration() : Force = false : UpdateAvailable = false : Age = 1131 minutes : MaxAge = 720 minutes
+08-29 16:47:01.728  2788  2788 I AndroidIME: LatinIme.onDeactivate()
+08-29 16:47:01.728 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:01.728  2788  2788 I Conv2QueryExtension: onDeactivate()
+08-29 16:47:01.747  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-29 16:47:01.765  2788  8691 D EGL_emulation: eglMakeCurrent: 0xd7f1b8c0: ver 2 0 (tinfo 0xbc908be0)
+08-29 16:47:01.877 11420 11532 I BugleNotifications: RefreshStatefulNotificationsAction: Refreshing message notifications: for incoming messages = true , for failures = true , isSilent = false , isQuickReply = false , isSmartReplyUpdate = false , conversation{id:null}
+08-29 16:47:01.892 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:01.913 11420 11420 W Bugle   : widthToGrow is negative!
+08-29 16:47:01.926 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:02.247  2403  4723 I TelephonySpam: TelephonySpamChimeraService - Running Telephony Spam Chimera Service
+08-29 16:47:02.247  2403  4723 I TelephonySpam: TelephonySpamChimeraService - Cleaning SIP Header local table of old entries
+08-29 16:47:02.248  2403  4723 I TelephonySpam: SpamListSync - Call spam module disabled. Skipping cleaning cache sip header table.
+08-29 16:47:02.248  2403  4723 I TelephonySpam: TelephonySpamChimeraService - Syncing Call Spam List
+08-29 16:47:02.248  2403  4723 I TelephonySpam: SpamListSync - SpamListSyncChimeraService.syncSpamList called with tag: telephonyspam.SpamListSyncOneOffTask, extras: Bundle[{SpamList Type=0, Action=1.0}]
+08-29 16:47:02.248  2403  4723 I TelephonySpam: SpamListSync - Call spam module disabled. Skipping spam list syncing.
+08-29 16:47:02.248  2403  4723 I TelephonySpam: TelephonySpamChimeraService - Syncing Sms Spam List
+08-29 16:47:02.249  2403  4723 I TelephonySpam: SpamListSync - SpamListSyncChimeraService.syncSpamList called with tag: telephonyspam.SpamListSyncOneOffTask, extras: Bundle[{SpamList Type=1, Action=1.0}]
+08-29 16:47:02.293  2403  4723 E cklt    : *~*~*~ Channel {0} was not shutdown properly!!! ~*~*~*
+08-29 16:47:02.293  2403  4723 E cklt    :     Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+08-29 16:47:02.293  2403  4723 E cklt    : java.lang.RuntimeException: ManagedChannel allocation site
+08-29 16:47:02.293  2403  4723 E cklt    : 	at ckls.<init>(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at cklt.<init>(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at ckfk.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):21)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at sjo.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):29)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at sjo.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):31)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at afty.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at com.google.android.libraries.matchstick.net.SilentRegisterIntentOperation.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):186)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at com.google.android.libraries.matchstick.net.SilentRegisterIntentOperation.f(:com.google.android.gms@202414022@20.24.14 (040700-319035315):35)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at com.google.android.libraries.matchstick.net.SilentRegisterIntentOperation.onHandleIntent(:com.google.android.gms@202414022@20.24.14 (040700-319035315):205)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at qlx.onHandleIntent(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at cuo.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at cun.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 16:47:02.293  2403  4723 E cklt    : 	at java.lang.Thread.run(Thread.java:919)
+08-29 16:47:02.308 11420 11420 I AppLifecycleTracker: onActivityStopped: 
+08-29 16:47:02.309 11420 11420 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-29 16:47:02.318 11420 11420 I AppLifecycleTracker: onActivityDestroyed: 
+08-29 16:47:02.328  2194  8765 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.telephonyspam.sync.SpamListSyncTaskService started execution. cause:7 exec_start_elapsed_seconds: 36249 [CONTEXT service_id=218 ]
+08-29 16:47:02.346  2194  5477 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+08-29 16:47:02.699  2194  5477 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:02.699  2194  5477 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:02.699  2194  5477 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:02.753  2194  5477 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:02.753  2194  5477 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:02.753  2194  5477 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:02.854  2194  5477 W GLSUser : [AppCertManager] IOException while requesting key: 
+08-29 16:47:02.854  2194  5477 W GLSUser : java.io.IOException: Invalid device key response.
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at hwy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):49)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at hww.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at hww.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):46)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at cpc.onTransact(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at android.os.Binder.transact(Binder.java:914)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at cta.onTransact(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at android.os.Binder.transact(Binder.java:914)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at aaeo.onTransact(:com.google.android.gms@202414022@20.24.14 (040700-319035315):17)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-29 16:47:02.854  2194  5477 W GLSUser : 	at android.os.Binder.execTransact(Binder.java:994)
+08-29 16:47:02.855  2194  5477 W GLSUser : [DeviceKeyStore] Cannot load key: Device key file not found.
+08-29 16:47:02.960  2194  8765 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:1 exec_start_elapsed_seconds: 36250 [CONTEXT service_id=218 ]
+08-29 16:47:03.112  2403  2998 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:03.112  2403  2998 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:03.112  2403  2998 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:03.176  2403  2998 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:03.176  2403  2998 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:03.176  2403  2998 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:03.350  2194 10454 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:03.351  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:03.351  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:03.390  2403  4723 I TelephonySpam: SpamListSync - Received response with complete list of size: 5731
+08-29 16:47:03.409  2194 10454 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:03.410  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:03.410  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:04.168  2014  3153 I ActivityTaskManager: START u0 {flg=0x4000001 cmp=com.google.android.apps.messaging/.ui.conversation.ConversationActivity (has extras)} from uid 10130
+08-29 16:47:04.180 11420 11420 I AppLifecycleTracker: onActivityPaused: 
+08-29 16:47:04.186  2014  3475 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:04.190  2014  3475 I chatty  : uid=1000(system) Binder:2014_13 identical 48 lines
+08-29 16:47:04.190  2014  3475 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:04.202 11420 11420 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@5c71e78
+08-29 16:47:04.210 11420 11420 I AppLifecycleTracker: onActivityCreated: 
+08-29 16:47:04.230 11420 11420 I BugleUsageStatistics: UsageStatistics: BUGLE CREATE, openCause: VIA_DEFAULT
+08-29 16:47:04.247  2403  2433 I gle.android.gm: Background concurrent copying GC freed 132040(5475KB) AllocSpace objects, 1(80KB) LOS objects, 35% free, 10MB/16MB, paused 453us total 118.416ms
+08-29 16:47:04.251 11420 11420 I AppLifecycleTracker: onActivityStarted: 
+08-29 16:47:04.252 11420 11420 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-29 16:47:04.392 11420 11420 I AppLifecycleTracker: onActivityResumed: 
+08-29 16:47:04.397 11420 11420 I BugleDataModel: ParticipantRefresh: Skipped full participant refresh
+08-29 16:47:04.405 11420 11420 I BugleDataModel: ParticipantRefresh: Skipped full participant refresh
+08-29 16:47:04.418 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:04.426 11420 11420 I BugleDataModel: ConversationData{id:1}: RcsAvailability: RCS is disabled for this carrier by Google
+08-29 16:47:04.425  2194 10454 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:04.427  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:04.435  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:04.491  2194 10454 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-29 16:47:04.491  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-29 16:47:04.491  2194 10454 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-29 16:47:04.496  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:04.517  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:04.523  2403  4723 I TelephonySpam: SpamListSync - Successfully inserted 5731 numbers into SMS table
+08-29 16:47:04.529  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-29 16:47:04.562  2403  4723 I TelephonySpam: SpamListSync - Spam numbers synced successfully.
+08-29 16:47:04.572 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:04.572  2194 11612 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.telephonyspam.sync.SpamListSyncTaskService finished executing. cause:7 result: 1 elapsed_millis: 2409 uptime_millis: 2409 exec_start_elapsed_seconds: 36249 [CONTEXT service_id=218 ]
+08-29 16:47:04.585 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:04.592  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:04.594  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-29 16:47:04.594  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-29 16:47:04.609 11420 11420 I BugleDataModel: We reached the end for load around 3 on the newer messages side (bottom of the screen).
+08-29 16:47:04.609 11420 11420 I BugleDataModel: We reached the end for load around 3 on the older messages side (top of the screen).
+08-29 16:47:04.609 11420 11420 I BugleDataModel: 3 results retrieved for load around 3
+08-29 16:47:04.613  2014  5322 W ShortcutService: reportShortcutUsed: package com.google.android.apps.messaging doesn't have shortcut cBTd0N311c58LOxfRtYnAQ
+08-29 16:47:04.613 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:04.620 11420 11420 I BugleDataModel: ConversationData{id:1}: RcsAvailability: RCS is disabled for this carrier by Google
+08-29 16:47:04.642 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:04.642 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:04.643  2014  2051 I ActivityTaskManager: Fully drawn com.google.android.apps.messaging/.ui.conversation.ConversationActivity: +472ms
+08-29 16:47:04.700 11537 11644 I BlockedNumbers: isBlocked: NOT BLOCKED; number=********79, e164=
+08-29 16:47:04.714 11420 11897 W TextClassifierService: Package or service not found in package com.google.android.as for user 0
+08-29 16:47:04.720 11420 11897 D androidtc: Loading ModelFile { path=/etc/textclassifier/lang_id.model name=lang_id.model version=0 locales=und }
+08-29 16:47:04.723 11420 11897 D androidtc: Loading ModelFile { path=/etc/textclassifier/textclassifier.en.model name=textclassifier.en.model version=608 locales=en }
+08-29 16:47:04.748 11420 11925 W TextClassifierService: Package or service not found in package com.google.android.as for user 0
+08-29 16:47:04.765 11420 11420 W View    : requestLayout() improperly called by android.support.v7.widget.RecyclerView{b8a9ae7 VFED..... ......ID 0,0-1440,2308 #102000a android:id/list} during layout: running second layout pass
+08-29 16:47:04.776 11420 11468 D EGL_emulation: eglMakeCurrent: 0xd7f1a7e0: ver 2 0 (tinfo 0xd7f0fd70)
+08-29 16:47:04.777 11420 11420 I Bugle   : ConversationFragment{id:1}: marking conversation as seen because setConversationFocus.
+08-29 16:47:04.809 11420 11532 I BugleNotifications: RefreshStatefulNotificationsAction: Refreshing message notifications: for incoming messages = true , for failures = true , isSilent = false , isQuickReply = false , isSmartReplyUpdate = false , conversation{id:null}
+08-29 16:47:04.839  2194 11612 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:1 result: 1 elapsed_millis: 1929 uptime_millis: 1929 exec_start_elapsed_seconds: 36250 [CONTEXT service_id=218 ]
+08-29 16:47:04.852  2403  4723 I TelephonySpam: GetSpamStatusOperation - Server Table Status: 0
+08-29 16:47:04.852  2403  4723 I TelephonySpam: GetSpamStatusOperation - Client Table Status: 0
+08-29 16:47:04.852  2403  4723 I TelephonySpam: GetSpamStatusOperation - Spam Lookup Result: false
+08-29 16:47:04.858  2403  4723 I TelephonySpam: GetSpamStatusOperation - Is Spam: false
+08-29 16:47:04.858  2403  4723 I TelephonySpam: GetSpamStatusOperation - Is Spoof: false
+08-29 16:47:04.858  2403  4723 I TelephonySpam: GetSpamStatusOperation - Stir Shaken Result: 0
+08-29 16:47:04.858  2403  4723 I TelephonySpam: GetSpamStatusOperation - Final Scifi Result: 0
+08-29 16:47:04.858  2403  4723 I TelephonySpam: GetSpamStatusOperation - Final Patronus Status: 0
+08-29 16:47:04.878 11420 11534 I BugleDataModel: ParticipantRefresh: Start participant refresh. refreshMode: 1
+08-29 16:47:05.008 11420 11420 I AppLifecycleTracker: onActivityStopped: 
+08-29 16:47:05.009 11420 11420 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-29 16:47:05.011 11420 11420 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-29 16:47:05.121 11420 11534 I BugleDataModel: ParticipantRefresh: Number of participants refreshed: 0
+08-29 16:47:06.731  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : com.google.android.inputmethod.latin
+08-29 16:47:06.847  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : ConfigurationsResult = Persisted
+08-29 16:47:06.848  2788  2788 I ShortcutsDataManager: startImportContentTask()
+08-29 16:47:06.848  2788  3721 I ShortcutsDataManager: doInBackground()
+08-29 16:47:06.848  2788  3721 I PersonalDictDataHandler: Locales = [en_US]
+08-29 16:47:06.849  2788  2788 I EmojiSuperpacksManager: triggerSync() : isBundled = false
+08-29 16:47:06.854  2788  3679 I SP      : Registering emoji.20, url: https://www.gstatic.com/android/keyboard/modelpack/emoji/20190401132437/superpacks_manifest.zip, constraints: m:*, flags: fg, requested: 20, current: 20
+08-29 16:47:06.856  2788  2788 I C2QSuperpacksManager: Got updated phenotype flags.
+08-29 16:47:06.857  2788  2788 I C2QSuperpacksManager: Flag values did not change.
+08-29 16:47:06.865  2788 11932 I SuperDelight: initializeDelightSuperpacks()
+08-29 16:47:06.870  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : Success after 139 ms
+08-29 16:47:06.874  2788  3721 I ShortcutsDataManager: importRecords() : Success : Count = 0
+08-29 16:47:06.901  2788  3501 I Conv2QueryExtension: updateCandidateProvider(): isC2QAsynchronouslyTriggered: false
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): saving current preferencesVersion: 1, lastPreferencesVersion: 1
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): restored saved counter: prefKeyForCandidateType: pref_key_dynamic_rate_limit_impressions_GIF_SEARCHABLE_TEXT, type: GIF_SEARCHABLE_TEXT, savedImpressions: 0
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): restored saved counter: prefKeyForCandidateType: pref_key_dynamic_rate_limit_impressions_EXPRESSION_SEARCHABLE_TEXT, type: EXPRESSION_SEARCHABLE_TEXT, savedImpressions: 2
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): restored saved counter: prefKeyForCandidateType: pref_key_dynamic_rate_limit_impressions_MAKE_A_GIF, type: MAKE_A_GIF, savedImpressions: 0
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): restored saved counter: prefKeyForCandidateType: pref_key_dynamic_rate_limit_impressions_SEARCHABLE_TEXT, type: SEARCHABLE_TEXT, savedImpressions: 0
+08-29 16:47:06.903  2788  2788 I PillRateLimit: initializeCounters(): restored typeToImpressionsWithoutClick: {SEARCHABLE_TEXT=0, GIF_SEARCHABLE_TEXT=0, EXPRESSION_SEARCHABLE_TEXT=2, MAKE_A_GIF=0}
+08-29 16:47:06.904  2788 11932 I SuperDelight: getDelightMetadataUriAndVersion(): Phenotype : 2019100102 : https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json
+08-29 16:47:06.904  2788 11932 I SuperDelight: initializeOverridesSuperpacks()
+08-29 16:47:06.907  2788  3679 I EmojiSlicingStrategy: matchEnabledLocalesWithPackLocales() : User enabled 1 locales; returning 1 slices
+08-29 16:47:06.907  2788  3679 I SP      : Syncing emoji (20) with slices: [{56f61e93403a5c80d23070b28785cecd, m:*}], metadata: false
+08-29 16:47:06.907  2788  3721 I ShortcutsDataManager: importContentData() : Ending import process
+08-29 16:47:06.926  2788  3721 I PersonalLanguageModel: run() : Added 0 words and 0 shortcuts
+08-29 16:47:06.926  2788  3721 I DynamicLm: perform() : PERSONAL_DICTIONARY : cgq : Completed
+08-29 16:47:06.927  2788  2788 I ShortcutsDataManager: onPostExecute() : Result = [2,0]
+08-29 16:47:06.927  2788  4078 I Delight5Decoder: loadLanguageModel() : PERSONAL_DICTIONARY, version [n/a]
+08-29 16:47:06.927  2788  2788 I ShortcutsDataManager: onImportFinished() : Result = 2 : Count = 0
+08-29 16:47:06.929  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/Personal.en_US.dict
+08-29 16:47:06.940  2788  3679 I SP      : Registering emoji-predictor.20190205, url: https://www.gstatic.com/android/keyboard/emoji_predictor/superpacks-manifest-20190205.json, constraints: *:*, flags: *, requested: 20190205, current: 20190205
+08-29 16:47:06.941  2788 11931 I SuperDelight: SuperDelightManager#syncOverridesLanguageModels(): Superpack delight_overrides not found or negative version provided
+08-29 16:47:06.942  2788  3679 I SP      : Registering next-word-predictor.20180920, url: https://www.gstatic.com/android/keyboard/next_word_predictor/prod/superpacks-manifest-20180920.json, constraints: *:*, flags: *, requested: 20180920, current: 20180920
+08-29 16:47:06.942  2788 11935 I SuperDelight: SuperDelightManager#registerAndUpgradeSuperpacks(delight): current 2019100102, required 2019100102
+08-29 16:47:06.957  2788  3679 I SP      : Sync for emoji succeeded in 91 ms: no changes
+08-29 16:47:06.957  2788 11932 I SuperDelight: SuperDelightManager#syncDownloadableLanguageModels(delight): [OnDevice] Syncing for version 2019100102
+08-29 16:47:06.959  2788  3679 I SP      : Syncing emoji-predictor (20190205) with slices: [tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6], metadata: false
+08-29 16:47:06.981  2788  3679 I SP      : Syncing next-word-predictor (20180920) with slices: [pie-nwp-20180807, tflite-nwp-20180920], metadata: false
+08-29 16:47:07.035  2788  3679 I SP      : Sync for emoji-predictor succeeded in 79 ms: no changes
+08-29 16:47:07.036  2788  3679 I SuperDelight: DownloadSlicing#getSlices() : Locale = [en_US]
+08-29 16:47:07.041  2788  3679 I SuperDelight: DownloadSlicing#getSlices(): result {slices=[delight:main_en_us_20180802_1], last batch=true, sync metadata=false}
+08-29 16:47:07.041  2788  3679 I SP      : Syncing delight (2019100102) with slices: [main_en_us_20180802_1], metadata: false
+08-29 16:47:07.063  2788  3679 I SP      : Sync for next-word-predictor succeeded in 103 ms: no changes
+08-29 16:47:07.074  2788  3679 I SuperDelight: SuperDelightMergingStrategy#merge(): selected[[main_en_us_20180802_1]] synced[[main_en_us_20180802_1]]
+08-29 16:47:07.075  2788  3679 I SP      : Sync for delight succeeded in 39 ms: no changes
+08-29 16:47:07.279  2788  2788 I KeyboardViewUtil: systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-29 16:47:07.280  2788  2788 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.google.android.apps.messaging : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable
+08-29 16:47:07.315  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 6336203 , only wrote 6072607
+08-29 16:47:07.318  2788  2788 I Conv2QueryExtension: Current locale: en_US, config allows these locales: de,en,es,fr,it,ms,pt,ta
+08-29 16:47:07.321  2788  2788 I Conv2QueryExtension: onActivate() : Locale = en_US
+08-29 16:47:07.322  2788  2788 I C2QClientSingleton: Conv2Query client already exists for locale 'en_US'. Checking for update.
+08-29 16:47:07.323  2788  2788 I Conv2QueryExtension: onActivate() : Finished in 1 ms. Activated = true
+08-29 16:47:07.338 11420 11420 W Bugle   : ConversationFragment{id:1}: Not sending a typing indicator because the chat service is null
+08-29 16:47:07.350  2788  4078 W native  : neural_spatial_model.cc:382 Output symbol table doesn't contain symbol: @
+08-29 16:47:07.350  2788  4078 W native  : neural_spatial_model.cc:382 Output symbol table doesn't contain symbol: &
+08-29 16:47:07.404  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14262272
+08-29 16:47:07.427  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-29 16:47:07.436  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14262272
+08-29 16:47:07.444  2788  8691 D EGL_emulation: eglMakeCurrent: 0xd7f1b8c0: ver 2 0 (tinfo 0xbc908be0)
+08-29 16:47:07.525 11420 11433 I .apps.messagin: NativeAlloc concurrent copying GC freed 69071(3847KB) AllocSpace objects, 27(1088KB) LOS objects, 38% free, 9984KB/15MB, paused 617us total 186.732ms
+08-29 16:47:07.630 11420 11435 W System  : A resource failed to call close. 
+08-29 16:47:09.606  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36256872, nextC2qCandidateDisplayTime = 35977684, timeToNextDisplay = -279188
+08-29 16:47:09.607  2788  4078 I CandidateProviderBase: fetching query from client singleton
+08-29 16:47:09.607  2788  4078 I C2QClientSingleton: getQueries()
+08-29 16:47:09.608  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36256873, nextC2qCandidateDisplayTime = 35977684, timeToNextDisplay = -279189
+08-29 16:47:09.609  2788  4078 I CandidateProviderBase: fetchPrediction(): returning candidates: hi
+08-29 16:47:12.243  3850  3984 I WorkerManager: dispose()
+08-29 16:47:12.492  7250  7264 W id.gms.unstabl: Reducing the number of considered missed Gc histogram windows from 340 to 100
+08-29 16:47:13.153 11420 11420 I Bugle   : UI initiated message sending in conversation 1
+08-29 16:47:13.163  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 6072635 , only wrote 6072607
+08-29 16:47:13.171 11420 11420 W Bugle   : ConversationFragment{id:1}: Not sending a typing indicator because the chat service is null
+08-29 16:47:13.179 11420 11420 I Bugle   : MediaPlayerManager: created 260308343
+08-29 16:47:13.185  1832  1913 D NuPlayerDriver: NuPlayerDriver(0xf2634780) created, clientPid(11420)
+08-29 16:47:13.189  1832  1913 I Codec2Client: Creating a Codec2 client to service "software"
+08-29 16:47:13.191  1832  1913 I Codec2Client: Client to Codec2 service "software" created
+08-29 16:47:13.197 11420 11420 E BugleDataModel: ConversationData{id:1}: Unable to get instant messaging config
+08-29 16:47:13.197 11420 11420 E BugleDataModel: snp: Jibe SDK Service not available. Is the Jibe SDK service running? Did you call connect() and wait for the notification before calling an API function?
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at snl.b(SourceFile:73)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at com.google.android.rcs.client.profile.RcsProfileService.getRcsConfig(SourceFile:54)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at com.google.android.apps.messaging.shared.datamodel.data.ConversationData.J(SourceFile:372)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at com.google.android.apps.messaging.shared.datamodel.data.ConversationData.a(SourceFile:155)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at hik.a(SourceFile:829)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at hhh.a(SourceFile:342)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at hhk.a(Unknown Source:18)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at efo.onPostExecute(SourceFile:16)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.os.AsyncTask.finish(AsyncTask.java:755)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.os.AsyncTask.access$900(AsyncTask.java:192)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:772)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.os.Looper.loop(Looper.java:214)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at java.lang.reflect.Method.invoke(Native Method)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-29 16:47:13.197 11420 11420 E BugleDataModel: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-29 16:47:13.197 11420 11420 I BugleDataModel: ConversationData{id:1}: send message {Redacted-6 } to 1 recipients
+08-29 16:47:13.203 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:13.205 11420 11532 I BugleDataModel: InsertNewMessageAction: inserting new message.
+08-29 16:47:13.226 11420 11420 W IInputConnectionWrapper: getTextBeforeCursor on inactive InputConnection
+08-29 16:47:13.236  1832 11938 D GenericSource: FileSource remote
+08-29 16:47:13.239 11420 11420 W IInputConnectionWrapper: getSelectedText on inactive InputConnection
+08-29 16:47:13.240 11420 11420 W IInputConnectionWrapper: getTextAfterCursor on inactive InputConnection
+08-29 16:47:13.246 11420 11420 W IInputConnectionWrapper: getCursorCapsMode on inactive InputConnection
+08-29 16:47:13.260  2788  2788 I KeyboardViewUtil: systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-29 16:47:13.266  2788  2788 I AndroidIME: LatinIme.onDeactivate()
+08-29 16:47:13.270  2788  2788 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.google.android.apps.messaging : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable
+08-29 16:47:13.283  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.284  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.286  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36260552, nextC2qCandidateDisplayTime = 36257881, timeToNextDisplay = -2671
+08-29 16:47:13.286  2788  4078 I CandidateProviderBase: fetching query from client singleton
+08-29 16:47:13.291  2788  4078 I C2QClientSingleton: getQueries()
+08-29 16:47:13.296  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36260559, nextC2qCandidateDisplayTime = 36260881, timeToNextDisplay = 322
+08-29 16:47:13.296  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : Skipped due to rate limit
+08-29 16:47:13.301  2788  4078 I CandidateProviderBase: fetchPredictions(): skipped by rate limit for scored query
+08-29 16:47:13.301  1832 11937 I GenericSource: start
+08-29 16:47:13.304  2788  2788 I Conv2QueryExtension: onDeactivate()
+08-29 16:47:13.305  2788  2788 I Conv2QueryExtension: Current locale: en_US, config allows these locales: de,en,es,fr,it,ms,pt,ta
+08-29 16:47:13.306  2788  2788 I Conv2QueryExtension: onActivate() : Locale = en_US
+08-29 16:47:13.309  2788  2788 I C2QClientSingleton: Conv2Query client already exists for locale 'en_US'. Checking for update.
+08-29 16:47:13.310  2788  2788 I Conv2QueryExtension: onActivate() : Finished in 2 ms. Activated = true
+08-29 16:47:13.316  1832 11942 I OMXClient: IOmx service obtained
+08-29 16:47:13.317  1837  2332 I OMXMaster: makeComponentInstance(OMX.google.aac.decoder) in android.hardwar process
+08-29 16:47:13.324  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.325  2788  4078 I C2QCandidateProvider: fetchPredictions request met ZERO_CONTEXT trigger condition, but no previous request exists to re-issue.
+08-29 16:47:13.325  1837  2332 E OMXNodeInstance: setConfig(0xf3219080:google.aac.decoder, ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+08-29 16:47:13.326  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.326  1832 11942 I ACodec  : codec does not support config priority (err -2147483648)
+08-29 16:47:13.326  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36260591, nextC2qCandidateDisplayTime = 36257881, timeToNextDisplay = -2710
+08-29 16:47:13.327  2788  4078 I CandidateProviderBase: fetchPredictions() : no queryRequest to send to ClientManager
+08-29 16:47:13.328  1837  2332 E OMXNodeInstance: getConfig(0xf3219080:google.aac.decoder, ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+08-29 16:47:13.332  1832 11942 I MediaCodec: MediaCodec will operate in async mode
+08-29 16:47:13.386  1837 11943 I SoftAAC2: Reconfiguring decoder: 0->48000 Hz, 0->2 channels
+08-29 16:47:13.404 11420 11923 I BugleDataModel: Processing changed messages for 4
+08-29 16:47:13.421  1776  1936 D AudioFlinger: Client defaulted notificationFrames to 12064 for frameCount 24129
+08-29 16:47:13.422  1776  1936 D AF::TrackHandle: OpPlayAudio: track:60 usage:13 not muted
+08-29 16:47:13.426 11420 11923 I BugleDataModel: Processing changed messages for 4
+08-29 16:47:13.427 11420 11420 I BugleDataModel: Message 4 processed.
+08-29 16:47:13.440  1832 11940 D AudioTrack: getTimestamp_l(13): device stall time corrected using current time 36260705842960
+08-29 16:47:13.454 11420 11420 W drawable: Bad element under <shape>: rotate
+08-29 16:47:13.473 11420 11532 I BugleDataModel: ProcessPendingMessagesTimers: cleared next retry time for channel sms_send including counter
+08-29 16:47:13.481 11420 11532 I BugleDataModel: PendingMessagesProcessor: process from InsertNewMessageAction due to message inserted with queues: smsMessagesToSend{size:1}
+08-29 16:47:13.511 11420 11945 W TextClassifierService: Package or service not found in package com.google.android.as for user 0
+08-29 16:47:13.518 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:13.530  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.530  2788  4078 I C2QCandidateProvider: fetchPredictions request met ZERO_CONTEXT trigger condition, but no previous request exists to re-issue.
+08-29 16:47:13.530  2788  4078 I TriggerConditionsHelper: Triggering on empty context.
+08-29 16:47:13.530  2788  4078 I CandidateProviderBase: checkIfAllowedByRateLimit() : uptimeMillis = 36260796, nextC2qCandidateDisplayTime = 36257881, timeToNextDisplay = -2915
+08-29 16:47:13.531  2788  4078 I CandidateProviderBase: fetchPredictions() : no queryRequest to send to ClientManager
+08-29 16:47:13.549 11420 11420 I BugleDataModel: Message 4 processed.
+08-29 16:47:13.555 11420 11923 I BugleDataModel: Processing changed messages for 4
+08-29 16:47:13.565 11420 11532 I BugleDataModel: PendingMessagesProcessor: started message{id:4}
+08-29 16:47:13.585 11420 11420 I BugleDataModel: Message 4 processed.
+08-29 16:47:13.616  1776  1941 D AF::Track: interceptBuffer: took 1552us to intercept 0 tracks
+08-29 16:47:13.620 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:13.628  2194 11927 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService started execution. cause:9 exec_start_elapsed_seconds: 36260 [CONTEXT service_id=218 ]
+08-29 16:47:13.630 11420 11532 I BugleDataModel: SendMessageAction: Sending SMS message{id:4} in conversation{id:1}
+08-29 16:47:13.631 11420 11532 I Bugle   : SmsSender: sending message. dest: MSISDN{d}, message: messageBody{Redacted-6}, serviceCenter: null, requireDeliveryReport: false, messageUri: content://sms/3, subId: 1
+08-29 16:47:13.668  2194 11927 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService finished executing. cause:9 result: 1 elapsed_millis: 161 uptime_millis: 161 exec_start_elapsed_seconds: 36260 [CONTEXT service_id=218 ]
+08-29 16:47:13.677 11420 11420 I Bugle   : DraftMessageTypeConverter: draft switching to MMS.
+08-29 16:47:13.720  1832 11940 D AudioTrack: stop(13): called with 30720 frames delivered
+08-29 16:47:13.729 11420 11532 I Bugle   : RequestLinkPreviewAction: No link extracted from message with: message{id:4}
+08-29 16:47:13.729 11420 11534 E Bugle   : CreateP2pConversationTrainingExampleAction: P2pConversationTrainingUtils not available, cannot create training example.
+08-29 16:47:13.755  2602  2602 D MmsService: getAutoPersisting
+08-29 16:47:13.856 11420 11923 I BugleDataModel: Processing changed messages for 4
+08-29 16:47:13.860 11420 11420 I BugleDataModel: Message 4 processed.
+08-29 16:47:13.873 11420 11532 I BugleDataModel: ProcessSentMessageAction: Done sending SMS message{id:4} conversation{id:1}, status: SUCCEEDED
+08-29 16:47:13.919 11420 11532 I BugleDataModel: PendingMessagesProcessor: process from ProcessSentMessageAction due to sms_send success with queues:
+08-29 16:47:13.919 11420 11532 I BugleDataModel: ProcessPendingMessagesTimers: cleared next retry time for channel sms_send including counter
+08-29 16:47:13.972  2194  5630 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService started execution. cause:9 exec_start_elapsed_seconds: 36261 [CONTEXT service_id=218 ]
+08-29 16:47:13.985  2194 11927 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService finished executing. cause:9 result: 1 elapsed_millis: 61 uptime_millis: 61 exec_start_elapsed_seconds: 36261 [CONTEXT service_id=218 ]
+08-29 16:47:14.193  1832  4600 D NuPlayerDriver: stop(0xf2634780)
+08-29 16:47:14.193 11420 11420 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-29 16:47:14.193 11420 11420 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-29 16:47:14.193  1832  4600 D NuPlayerDriver: reset(0xf2634780) at state 8
+08-29 16:47:14.241  1832 11937 D NuPlayerDriver: notifyResetComplete(0xf2634780)
+08-29 16:47:14.244  1832  4600 W AMessage: failed to post message as target looper for handler 0 is gone.
+08-29 16:47:14.248 11420 11420 I Bugle   : MediaPlayerManager: released 260308343
+08-29 16:47:14.248 11420 11420 W MediaPlayer: mediaplayer went away with unhandled events
+08-29 16:47:15.534  2403  2998 I Icing   : Indexing com.google.android.apps.messaging-internal.3p:Message_no_gsa from com.google.android.apps.messaging
+08-29 16:47:15.546 11420 11906 E Bugle   : MiniatureAnnotations: Problem annotating via GMS.
+08-29 16:47:15.546 11420 11906 E Bugle   : java.lang.NullPointerException: Attempt to invoke interface method 'java.util.Iterator java.util.List.iterator()' on a null object reference
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at fxv.a(SourceFile:28)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at dza.b(SourceFile:88)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction.a(SourceFile:93)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at dme.run(Unknown Source:2)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-29 16:47:15.546 11420 11906 E Bugle   : 	at java.lang.Thread.run(Thread.java:919)
+08-29 16:47:15.608  2403  2998 I Icing   : Indexing done com.google.android.apps.messaging-internal.3p:Message_no_gsa
+08-29 16:47:17.257  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 6431847 , only wrote 6253060
+08-29 16:47:18.355  2403  2998 I Icing   : Indexing com.google.android.gms-internal.3p:Message from com.google.android.gms
+08-29 16:47:18.369  2403  2998 I Icing   : Indexing done com.google.android.gms-internal.3p:Message
+08-29 16:47:18.371  2403  2998 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+08-29 16:47:18.380  2403  2998 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+08-29 16:47:19.818  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-29 16:47:22.216  2014  3146 D WificondControl: Scan result ready event
+08-29 16:47:27.225  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe

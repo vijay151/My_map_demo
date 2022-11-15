@@ -1,0 +1,1430 @@
+--------- beginning of main
+08-28 21:46:09.747  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:09.750  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:09.753  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:09.753  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:14.762  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:14.766  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:14.770  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:14.770  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:15.226  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:46:15.226  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:46:18.969  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:46:19.777  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:19.781  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:19.782  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:19.782  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:20.307  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:46:24.790  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:24.792  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:24.796  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:24.796  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:24.796  3850  8431 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:46:29.803  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:29.806  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:29.807  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:29.807  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:34.814  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:34.817  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:34.821  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:34.821  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:39.827  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:39.830  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:39.832  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:39.832  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:42.945  7250  8622 E memtrack: Couldn't load memtrack module
+08-28 21:46:42.945  7250  8622 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:46:44.841  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:44.844  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:44.847  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:44.848  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:49.852  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:49.854  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:49.855  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:49.855  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:54.862  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:54.866  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:54.868  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:54.868  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:46:59.876  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:46:59.880  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:46:59.883  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:46:59.883  3850  8431 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:46:59.884  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:00.011  2212  2212 D KeyguardClockSwitch: Updating clock: 947
+08-28 21:47:00.059  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:47:00.059  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:47:04.891  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:04.896  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:04.899  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:04.900  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:09.903  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:09.904  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:09.905  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:09.905  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:14.912  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:14.915  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:14.921  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:14.923  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:18.978  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:47:19.932  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:19.935  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:19.937  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:19.937  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:20.368  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:47:24.943  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:24.948  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:24.950  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:24.951  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:29.957  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:29.960  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:29.965  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:29.965  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:34.973  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:34.976  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:34.982  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:34.983  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:34.983  3850  8431 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:47:39.989  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:39.992  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:39.997  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:39.999  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:45.003  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:45.003  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:45.004  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:45.004  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:50.013  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:50.016  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:50.020  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:50.020  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:47:52.179  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:47:52.179  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:47:52.183  2194  5252 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+08-28 21:47:55.029  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:47:55.031  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:47:55.034  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:47:55.035  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:00.013  2212  2212 D KeyguardClockSwitch: Updating clock: 948
+08-28 21:48:00.041  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:00.045  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:00.046  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:00.046  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:00.061  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:48:00.062  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:48:05.055  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:05.058  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:05.062  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:05.063  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:10.070  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:10.074  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:10.077  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:10.077  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:15.085  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:15.090  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:15.092  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:15.092  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:18.999  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:48:20.099  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:20.102  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:20.105  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:20.106  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:20.428  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:48:25.115  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:25.117  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:25.122  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:25.122  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:30.130  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:30.133  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:30.136  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:30.137  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:35.144  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:35.149  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:35.152  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:35.152  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:40.160  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:40.163  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:40.167  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:40.167  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:40.239  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:48:40.239  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:48:40.247  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:48:40.247  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:48:44.161  2014  2882 D WificondControl: Scan result ready event
+08-28 21:48:45.174  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:45.177  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:45.181  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:45.182  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:50.191  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:50.194  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:50.197  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:50.198  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:48:55.201  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:48:55.202  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:48:55.203  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:48:55.203  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:00.014  2212  2212 D KeyguardClockSwitch: Updating clock: 949
+08-28 21:49:00.067  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:49:00.068  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:49:00.210  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:00.213  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:00.221  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:00.222  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:05.229  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:05.232  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:05.235  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:05.235  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:10.242  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:10.246  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:10.248  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:10.249  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:15.254  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:15.256  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:15.257  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:15.258  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:49:15.258  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:15.844  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:49:15.845  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:49:19.012  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:49:20.266  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:20.268  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:20.272  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:20.272  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:20.491  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:49:25.280  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:25.284  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:25.289  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:25.289  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:25.290  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:49:30.293  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:30.295  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:30.298  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:30.298  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:35.305  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:35.311  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:35.314  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:35.315  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:40.323  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:40.326  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:40.331  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:40.332  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:45.336  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:45.337  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:45.338  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:45.339  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:50.347  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:50.349  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:50.352  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:50.352  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:49:50.354  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:49:55.359  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:49:55.363  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:49:55.366  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:49:55.369  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:00.011  2212  2212 D KeyguardClockSwitch: Updating clock: 950
+08-28 21:50:00.059  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:50:00.060  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:50:00.375  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:00.379  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:00.382  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:00.383  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:05.390  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:05.392  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:05.397  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:05.397  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:50:05.398  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:10.407  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:10.411  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:10.415  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:10.416  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:15.423  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:15.425  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:15.429  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:15.430  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:19.029  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:50:20.440  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:20.442  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:20.446  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:20.447  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:20.528  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:50:25.456  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:25.460  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:25.464  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:25.464  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:30.475  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:30.477  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:30.482  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:30.483  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:35.490  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:35.492  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:35.497  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:35.499  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:37.609  2014  3890 E memtrack: Couldn't load memtrack module
+08-28 21:50:37.609  2014  3890 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:50:39.666  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:50:39.666  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:50:39.674  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:50:39.675  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:50:40.490  2014  3217 D WificondControl: Scan result ready event
+08-28 21:50:40.507  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:40.517  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:40.520  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:40.521  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:45.527  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:45.530  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:45.533  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:45.533  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:50.541  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:50.543  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:50.547  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:50.549  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:50:55.555  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:50:55.558  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:50:55.560  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:50:55.560  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:00.014  2212  2212 D KeyguardClockSwitch: Updating clock: 951
+08-28 21:51:00.059  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:51:00.061  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:51:00.569  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:00.573  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:00.576  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:00.576  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:05.583  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:05.586  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:05.592  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:05.593  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:05.593  3850  8432 W DeviceStateChecker: stopped because hotword detection is stopped but cancel is not called.
+08-28 21:51:10.597  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:10.599  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:10.599  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:10.600  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:15.606  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:15.609  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:15.612  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:15.613  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:19.045  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:51:20.535  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:51:20.621  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:20.624  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:20.628  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:20.631  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:25.640  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:25.643  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:25.649  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:25.649  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:30.657  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:30.659  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:30.664  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:30.664  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:30.664  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:51:35.671  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:35.674  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:35.677  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:35.678  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:40.687  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:40.690  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:40.694  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:40.697  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:42.956  7250  8644 E memtrack: Couldn't load memtrack module
+08-28 21:51:42.956  7250  8644 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:51:44.779  2014  2882 D WificondControl: Scan result ready event
+08-28 21:51:45.704  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:45.707  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:45.714  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:45.715  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:50.722  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:50.725  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:50.729  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:50.730  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:51:55.735  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:51:55.739  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:51:55.742  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:51:55.743  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:00.014  2212  2212 D KeyguardClockSwitch: Updating clock: 952
+08-28 21:52:00.061  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:52:00.063  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:52:00.750  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:00.753  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:00.756  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:00.756  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:00.756  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:52:05.763  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:05.765  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:05.768  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:05.769  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:52:05.769  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:10.777  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:10.780  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:10.785  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:10.785  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:15.792  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:15.795  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:15.796  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:15.796  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:19.062  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:52:20.597  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:52:20.802  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:20.805  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:20.809  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:20.810  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:25.817  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:25.821  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:25.824  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:25.825  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:30.832  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:30.835  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:30.839  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:30.839  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:35.847  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:35.851  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:35.854  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:35.855  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:52:35.855  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:40.859  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:40.860  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:40.862  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:40.862  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:45.865  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:45.866  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:45.867  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:45.867  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:50.873  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:50.876  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:50.881  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:50.881  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:52:55.888  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:52:55.892  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:52:55.896  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:52:55.897  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:00.001  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:53:00.002  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:53:00.018  2212  2212 D KeyguardClockSwitch: Updating clock: 953
+08-28 21:53:00.906  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:00.909  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:00.912  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:00.912  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:05.920  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:05.923  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:05.927  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:05.930  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:10.937  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:10.939  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:10.943  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:10.943  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:15.950  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:15.953  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:15.956  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:15.956  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:19.080  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:53:20.658  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:53:20.964  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:20.966  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:20.970  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:20.971  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:25.977  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:25.981  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:25.984  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:25.984  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:30.991  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:30.994  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:30.998  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:30.999  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:53:30.999  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:36.006  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:36.008  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:36.013  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:36.013  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:41.017  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:41.018  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:41.020  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:41.020  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:46.026  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:46.029  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:46.034  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:46.034  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:51.040  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:51.043  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:51.048  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:51.048  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:53:56.055  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:53:56.058  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:53:56.064  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:53:56.064  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:00.001  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:54:00.001  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:54:00.016  2212  2212 D KeyguardClockSwitch: Updating clock: 954
+08-28 21:54:01.071  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:01.073  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:01.076  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:01.077  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:06.084  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:06.086  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:06.089  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:06.089  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:06.090  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:54:11.096  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:11.100  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:11.104  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:11.104  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:11.105  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:54:16.111  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:16.115  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:16.117  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:16.118  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:19.111  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:54:20.721  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:54:21.124  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:21.129  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:21.132  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:21.132  3850  8432 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:54:21.132  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:26.139  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:26.142  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:26.147  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:26.148  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:31.156  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:31.159  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:31.164  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:31.164  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:36.172  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:36.175  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:36.180  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:36.181  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:41.187  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:41.191  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:41.194  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:41.196  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:41.477  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:54:41.477  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:54:45.440  2014  2882 D WificondControl: Scan result ready event
+08-28 21:54:46.205  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:46.208  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:46.213  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:46.213  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:51.220  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:51.224  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:51.227  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:51.227  3850  8431 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:54:51.227  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:54:56.235  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:54:56.238  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:54:56.241  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:54:56.241  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:00.014  2212  2212 D KeyguardClockSwitch: Updating clock: 955
+08-28 21:55:00.062  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:55:00.062  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:55:01.250  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:01.252  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:01.255  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:01.256  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:06.263  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:06.265  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:06.271  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:06.271  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:11.277  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:11.280  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:11.283  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:11.283  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:11.284  3850  8431 I DeviceStateChecker: DeviceStateChecker cancelled
+08-28 21:55:16.291  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:16.293  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:16.297  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:16.299  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:17.119  2014  2051 E memtrack: Couldn't load memtrack module
+08-28 21:55:17.119  2014  2051 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:55:19.129  1916  1916 E netmgr  : Failed to open QEMU pipe 'qemud:network': Invalid argument
+08-28 21:55:20.782  1922  1922 E wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+08-28 21:55:21.306  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:21.309  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:21.315  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:21.315  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:26.317  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:26.318  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:26.319  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:26.319  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:27.478  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 21:55:27.486  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:27.492  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 3868855 , only wrote 3868833
+08-28 21:55:27.591  2014  2124 I WindowManager: Ignoring HOME; event canceled.
+08-28 21:55:27.591  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 21:55:28.027  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 3892433 , only wrote 3891307
+08-28 21:55:28.030  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 3891426 , only wrote 3891307
+08-28 21:55:28.045  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 3891972 , only wrote 3891968
+08-28 21:55:28.064  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:28.178  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 6 lines
+08-28 21:55:28.192  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:30.625  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 4118687 , only wrote 4005660
+--------- beginning of system
+08-28 21:55:30.909  2014  3890 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.deskclock/com.android.deskclock.DeskClock bnds=[854,336][1123,673]} from uid 10109
+08-28 21:55:30.931  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 4005792 , only wrote 4005660
+08-28 21:55:30.938  2014  2014 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+08-28 21:55:30.938  2014  2014 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+08-28 21:55:30.961  2014  4461 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:30.977  2014  4461 I chatty  : uid=1000(system) Binder:2014_19 identical 28 lines
+08-28 21:55:30.977  2014  4461 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:31.025  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:31.026  2014  2047 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-28 21:55:31.026  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:31.072  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 21:55:31.075  7575  7575 I AppLifecycleTracker: App transition to foreground
+08-28 21:55:31.109  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 21:55:31.127  2014  3890 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 21:55:31.143  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:31.173  1766  1976 W EmuHWC2 : validate: layer 28 CompositionType 1, fallback
+08-28 21:55:31.178  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:31.186  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 21:55:31.188  1766  1976 W EmuHWC2 : validate: layer 28 CompositionType 1, fallback
+08-28 21:55:31.207  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:31.232  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:31.239  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 21:55:31.242  1766  1976 W EmuHWC2 : validate: layer 28 CompositionType 1, fallback
+08-28 21:55:31.278  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 21:55:31.281  1766  1976 W EmuHWC2 : validate: layer 28 CompositionType 1, fallback
+08-28 21:55:31.283  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.292  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 21:55:31.295  1766  1976 W EmuHWC2 : validate: layer 28 CompositionType 1, fallback
+08-28 21:55:31.300  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.304  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 21:55:31.317  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.326  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.328  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 21:55:31.331  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.340  1649  1649 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@3.0::IAllocator/default in either framework or device manifest.
+08-28 21:55:31.342  2014  2882 W Gralloc3: allocator 3.x is not supported
+08-28 21:55:31.350  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 21:55:31.351  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.351  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 2363392
+08-28 21:55:31.354  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.364  2014  8657 D HostConnection: HostConnection::get() New Host Connection established 0xb89b0fa0, tid 8657
+08-28 21:55:31.372  2014  8657 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 21:55:31.372  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 21:55:31.373  2014  8657 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-28 21:55:31.376  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.393  2014  8657 D EGL_emulation: eglCreateContext: 0xeb27f7c0: maj 2 min 0 rcv 2
+08-28 21:55:31.396  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.400  2014  8657 D EGL_emulation: eglMakeCurrent: 0xeb27f7c0: ver 2 0 (tinfo 0xbaf2c940)
+08-28 21:55:31.406  2014  2882 D HostConnection: HostConnection::get() New Host Connection established 0xb5451210, tid 2882
+08-28 21:55:31.407  2014  2882 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 21:55:31.408  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 21:55:31.416  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.431  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.434  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 21:55:31.439  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.454  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512c00
+08-28 21:55:31.454  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.458  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.474  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec0332a0
+08-28 21:55:31.476  1766  1976 W EmuHWC2 : validate: layer 29 CompositionType 1, fallback
+08-28 21:55:31.483  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:31.497  1766  1976 W EmuHWC2 : No layers, exit, buffer 0xec512f00
+08-28 21:55:31.513  1779  1779 E Layer   : [Surface(name=AppWindowToken{f9cab6f token=Token{bdd2e4e ActivityRecord{e9a8549 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t7}}})/@0xe1252b9 - animation-leash#0] No local sync point found
+08-28 21:55:31.514  1779  1779 E Layer   : [Surface(name=AppWindowToken{2895f36 token=Token{916c8d1 ActivityRecord{9d5bbf8 u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity t5}}})/@0xf14e82c - animation-leash#0] No local sync point found
+08-28 21:55:31.524  3850  5602 D EGL_emulation: eglMakeCurrent: 0xd494ab40: ver 2 0 (tinfo 0xbae42840)
+08-28 21:55:31.549  1779  1779 E Layer   : [Surface(name=AppWindowToken{f9cab6f token=Token{bdd2e4e ActivityRecord{e9a8549 u0 com.google.android.deskclock/com.android.deskclock.DeskClock t7}}})/@0xe1252b9 - animation-leash#0] No local sync point found
+08-28 21:55:31.549  1779  1779 E Layer   : [Surface(name=AppWindowToken{2895f36 token=Token{916c8d1 ActivityRecord{9d5bbf8 u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity t5}}})/@0xf14e82c - animation-leash#0] No local sync point found
+08-28 21:55:31.566  2833  3697 D EGL_emulation: eglMakeCurrent: 0xd7f1a300: ver 2 0 (tinfo 0xd7f0f420)
+08-28 21:55:31.597  2014  2882 I ActivityManager: Killing 4501:com.android.dialer/u0a120 (adj 999): empty for 4444s
+08-28 21:55:31.613  1779  1779 W SurfaceFlinger: couldn't log to binary event log: overflow.
+08-28 21:55:31.648  2014  2027 I system_server: NativeAlloc concurrent copying GC freed 134139(4610KB) AllocSpace objects, 7(236KB) LOS objects, 34% free, 11MB/17MB, paused 1.901ms total 216.787ms
+08-28 21:55:31.651  1748  1748 I Zygote  : Process 4501 exited due to signal 9 (Killed)
+08-28 21:55:31.654  2014  2054 I libprocessgroup: Successfully killed process cgroup uid 10120 pid 4501 in 46ms
+08-28 21:55:31.660  3850  3984 W SearchServiceCore: Abort, client detached.
+08-28 21:55:31.678  3850  8663 I PBSessionCacheImpl: Deleted sessionId[154055980850] from persistence.
+08-28 21:55:33.486  7575  7575 D AlarmClock: Events: [Clock] [Show Tab] [Tap]
+08-28 21:55:33.579  1776  1941 D AF::Track: interceptBuffer: took 1247us to intercept 0 tracks
+08-28 21:55:33.878  2194  8444 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService started execution. cause:7 exec_start_elapsed_seconds: 4824 [CONTEXT service_id=218 ]
+08-28 21:55:34.338  2194  3794 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 21:55:34.338  2194  3794 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:34.338  2194  3794 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:34.389  2194  3794 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 21:55:34.389  2194  3794 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:34.389  2194  3794 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:34.484  2194  3794 W GLSUser : [AppCertManager] IOException while requesting key: 
+08-28 21:55:34.484  2194  3794 W GLSUser : java.io.IOException: Invalid device key response.
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at hwy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):49)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at hww.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):45)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at hwr.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at hwu.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at gbi.call(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:34.484  2194  3794 W GLSUser : 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:34.499  2194  4809 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService finished executing. cause:7 result: 3 elapsed_millis: 723 uptime_millis: 722 exec_start_elapsed_seconds: 4824 [CONTEXT service_id=218 ]
+08-28 21:55:36.643  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 4507787 , only wrote 4257501
+08-28 21:55:36.770  2194  5630 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:36.777  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:36.786  2194  8441 I LogUtils: [Places]: ?: PlacesBleScanner stop() [CONTEXT service_id=253 ]
+08-28 21:55:36.787  2194  2194 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-28 21:55:36.788  2194  2194 I BeaconBle: Scan canceled successfully. [CONTEXT service_id=111 ]
+08-28 21:55:36.796  2194  8441 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 0 [CONTEXT service_id=253 ]
+08-28 21:55:36.814  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:36.842  2194  5630 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:36.843  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:36.953  2194  2194 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-28 21:55:37.225  7575  7575 D AlarmClock: Events: [Clock] [Select Cities] [DeskClock]
+08-28 21:55:37.236  2014  3146 I ActivityTaskManager: START u0 {cmp=com.google.android.deskclock/com.android.deskclock.worldclock.CitySelectionActivity} from uid 10133
+08-28 21:55:37.243  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 4257552 , only wrote 4257501
+08-28 21:55:37.307  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 21:55:37.313  2014  3426 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:37.318  2014  3426 I chatty  : uid=1000(system) Binder:2014_11 identical 48 lines
+08-28 21:55:37.318  2014  3426 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:37.320  7575  7575 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@b077e13
+08-28 21:55:37.342  7575  7575 I AppLifecycleTracker: onActivityCreated: 
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: Failed to instantiate custom view inflater android.support.v7.app.AppCompatViewInflater. Falling back to default.
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at java.lang.Class.classForName(Native Method)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:454)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at java.lang.Class.forName(Class.java:379)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at yb.a(PG:401)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at yb.onCreateView(PG:412)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.tryCreateView(LayoutInflater.java:1061)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:997)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:961)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:659)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:534)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:481)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.DecorView.onResourcesLoaded(DecorView.java:2083)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.generateLayout(PhoneWindow.java:2627)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.installDecor(PhoneWindow.java:2694)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.policy.PhoneWindow.getDecorView(PhoneWindow.java:2094)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at aop.onCreate(PG:4)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.deskclock.worldclock.CitySelectionActivity.onCreate(PG:7)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7802)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.Activity.performCreate(Activity.java:7791)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1299)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3245)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3409)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2016)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.os.Looper.loop(Looper.java:214)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at android.app.ActivityThread.main(ActivityThread.java:7356)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at java.lang.reflect.Method.invoke(Native Method)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: Caused by: java.lang.ClassNotFoundException: android.support.v7.app.AppCompatViewInflater
+08-28 21:55:37.350  7575  7575 I AppCompatDelegate: 	... 32 more
+08-28 21:55:37.410  7575  7575 D AutoManageHelper: starting AutoManage for client 0 false null
+08-28 21:55:37.417  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 21:55:37.418  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 21:55:37.419  7575  7575 D AutoManageHelper: onStart true {0=cbf@b7653c2}
+08-28 21:55:37.434  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 21:55:37.477  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:37.492  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-28 21:55:37.502  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:37.555  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:37.576  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:37.585  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:37.588  2014  2047 I chatty  : uid=1000(system) android.anim identical 18 lines
+08-28 21:55:37.588  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:37.610  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:37.624  7575  7614 I chatty  : uid=10133(com.google.android.deskclock) RenderThread identical 1 line
+08-28 21:55:37.646  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:37.713  2788  2788 I KeyboardViewUtil: systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+08-28 21:55:37.720  2788  2788 I LatinIme: initialize() : Language = en-US
+08-28 21:55:37.726  2788  2788 I Delight5Facilitator: initializeForIme() : Locale = [en_US]
+08-28 21:55:37.726  2788  2788 I Delight5Facilitator: resetDecoder() : Locale = [en_US]
+08-28 21:55:37.775  2788  2788 I EmptyLayoutProvider: getFakeKeyboardLayout() : Computing new layout
+08-28 21:55:37.788  2788  8680 I MainLoader: Running LM loader for [en_US]
+08-28 21:55:37.789  2788  8680 I SuperDelight: SuperDelightLanguageModelProvider#fetchLanguageModel(): 1 locales
+08-28 21:55:37.789  2788  8680 I SuperDelight: syncBundledLanguageModels(): clearing bundled_delight selection
+08-28 21:55:37.813  2788  8681 I SuperDelight: initializeBundledDelightSuperpacks()
+08-28 21:55:37.819  2788  2802 W putmethod.lati: Reducing the number of considered missed Gc histogram windows from 478 to 100
+08-28 21:55:37.824  2788  2788 I AndroidIME: LatinIme.onActivate() : EditorInfo = Package = com.google.android.deskclock : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : NoPersonalizedLearning = Disable
+08-28 21:55:37.843  2788  3679 I SP      : Registering bundled_delight.20190203, url: null, constraints: *:*, flags: *, requested: 20190203, current: -1
+08-28 21:55:37.846  2788  8682 W TaskSpec: Initial retry millis (30000) must be at least 30 seconds, set as 30 seconds.
+08-28 21:55:37.863  2788  8682 I FirebaseJobDispatcher: Cancel task: DlamTrainingTask. Success.
+08-28 21:55:37.871  2788  8683 I SuperDelight: FetchManifestFromResourceTask#execute(): packManifest bundled_delight-20190203
+08-28 21:55:37.900  2014  3203 E memtrack: Couldn't load memtrack module
+08-28 21:55:37.900  2014  3203 W android.os.Debug: failed to get memory consumption info: -1
+08-28 21:55:37.997  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 20480
+08-28 21:55:38.006  2212  2859 D HostConnection: HostConnection::get() New Host Connection established 0xbc6eabf0, tid 2859
+08-28 21:55:38.010  2212  2859 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 21:55:38.010  2212  2859 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-28 21:55:38.023  2212  2859 D EGL_emulation: eglCreateContext: 0xe00981a0: maj 2 min 0 rcv 2
+08-28 21:55:38.031  2788  2788 I KeyboardViewHelper: Get view with height ratio:1.000000; experiment height ratio:1.000000.
+08-28 21:55:38.041  2212  2859 D EGL_emulation: eglMakeCurrent: 0xe00981a0: ver 2 0 (tinfo 0xbfafa7c0)
+08-28 21:55:38.043  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 21:55:38.051  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 21:55:38.056  7575  7575 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-28 21:55:38.070  2788  3679 I SP      : Successfully got manifest for bundled_delight-manifest: manifests:bundled_delight-20190203
+08-28 21:55:38.208  2788  2788 I EmojiSearchExtension: Created (instance count = 2)
+08-28 21:55:38.251  2788  8687 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296529 -> extension_emoticon_keyboards : WaitTime = 17 ms : RunTime = 35 ms
+08-28 21:55:38.259  2788  8688 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296522 -> extension_emoji_search_extension_view : WaitTime = 11 ms : RunTime = 14 ms
+08-28 21:55:38.263  2788  8689 I KeyboardGroupDefParser: parseKeyboardGroupDef() 2131296524 -> extension_emoji_search_keyboards : WaitTime = 9 ms : RunTime = 24 ms
+08-28 21:55:38.269  2788  2788 I Conv2QueryExtension: Current locale: en_US, config allows these locales: de,en,fr,it,es,pt
+08-28 21:55:38.269  2788  2788 I Conv2QueryExtension: Conv2Query not enabled due to current app [com.google.android.deskclock] not in whitelist
+08-28 21:55:38.269  2788  2788 I Conv2QueryExtension: onActivate() : Disabled by unsupported host app
+08-28 21:55:38.278  2788  2788 I FeaturePermissions: disableFeaturesWithDeniedPermissions() : Disable import_user_contacts
+08-28 21:55:38.287  2788  2788 I FeaturePermissions: onSharedPreferenceChanged() : Disable FeatureInfo : Description = 2131954182 : Permissions=[android.permission.READ_CONTACTS] : Listeners=[cpb@3b90d15, cfc@e002341]
+08-28 21:55:38.321  1779  2130 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 21:55:38.322  1779  2130 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-28 21:55:38.332  2788  2802 I putmethod.lati: Background concurrent copying GC freed 30260(1473KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 5666KB/11MB, paused 411us total 160.843ms
+08-28 21:55:38.415  2788  8691 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+08-28 21:55:38.416  2788  8691 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+08-28 21:55:38.400  2788  2788 W RenderThread: type=1400 audit(0.0:34): avc: denied { write } for name="property_service" dev="tmpfs" ino=7346 scontext=u:r:untrusted_app_27:s0:c145,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0 app=com.google.android.inputmethod.latin
+08-28 21:55:38.497  2788  8691 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+08-28 21:55:38.514  2788  8691 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+08-28 21:55:38.539  2788  8691 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+08-28 21:55:38.594  2788  8691 D HostConnection: HostConnection::get() New Host Connection established 0xd7f4f050, tid 8691
+08-28 21:55:38.595  2788  8691 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 21:55:38.603  2788  8691 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-28 21:55:38.613  2788  8691 D EGL_emulation: eglCreateContext: 0xd7f1b8c0: maj 2 min 0 rcv 2
+08-28 21:55:38.616  2788  8691 D EGL_emulation: eglMakeCurrent: 0xd7f1b8c0: ver 2 0 (tinfo 0xbc908be0)
+08-28 21:55:38.624  2788  3679 I SuperDelight: SuperDelightBundledMetadataParser#parse(): manifest parsed with 1 packs
+08-28 21:55:38.629  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14262272
+08-28 21:55:38.638  1649  1649 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+08-28 21:55:38.638  2788  8691 W Gralloc3: mapper 3.x is not supported
+08-28 21:55:38.667  2788  8691 D HostConnection: createUnique: call
+08-28 21:55:38.668  2788  8691 D HostConnection: HostConnection::get() New Host Connection established 0xd7f50770, tid 8691
+08-28 21:55:38.668  2788  8691 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2 
+08-28 21:55:38.669  2788  8691 D eglCodecCommon: allocate: Ask for block of size 0x1000
+08-28 21:55:38.670  2788  8691 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ff1e0000 size 0x2000
+08-28 21:55:38.672  2788  8681 I SuperDelight: SuperDelightManager#syncBundledLanguageModels(): Syncing for version 20190203
+08-28 21:55:38.675  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14262272
+08-28 21:55:38.685  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14262272
+08-28 21:55:38.685  2788  3679 I SuperDelight: BundledSlicing#getSlices() : Locale = [en_US]
+08-28 21:55:38.688  2788  3679 I SuperDelight: BundledSlicing#getSlices(): result {slices=[bundled_delight:main_en_us_20180802_2], last batch=true, sync metadata=false}
+08-28 21:55:38.689  2788  3679 I SP      : Syncing bundled_delight (20190203) with slices: [main_en_us_20180802_2], metadata: false
+08-28 21:55:38.724  2788  8691 D EGL_emulation: eglMakeCurrent: 0xd7f1b8c0: ver 2 0 (tinfo 0xbc908be0)
+08-28 21:55:38.774  2788  2802 I putmethod.lati: Background young concurrent copying GC freed 122752(4878KB) AllocSpace objects, 3(128KB) LOS objects, 41% free, 6603KB/11MB, paused 1.044ms total 130.725ms
+08-28 21:55:38.775  2788  8683 I SuperDelight: ResourceFetchCancellableTask#fetch(): packManifest main_en_us_20180802_2
+08-28 21:55:38.861  2788  8693 I SuperDelight: UnpackCancellableTask#execute(): fst-decompress /data/user/0/com.google.android.inputmethod.latin/files/superpacks/bundled_delight/main_en_us_20180802_2.staged
+08-28 21:55:39.006  2788  8678 I putmethod.lati: IncrementDisableThreadFlip blocked for 8.980ms
+08-28 21:55:39.057  2788  2802 I putmethod.lati: NativeAlloc concurrent copying GC freed 150865(4353KB) AllocSpace objects, 5(244KB) LOS objects, 49% free, 6265KB/12MB, paused 8.768ms total 143.589ms
+08-28 21:55:39.455  2788  3679 I SP      : Sync for bundled_delight succeeded in 781 ms: {added: [main_en_us_20180802_2], metadata: false
+08-28 21:55:39.483  2788  8680 I SuperDelight: initializeDelightSuperpacks()
+08-28 21:55:39.483  2788  8680 I SuperDelight: getDelightMetadataUriAndVersion(): Phenotype : 20190203 : https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata.json
+08-28 21:55:39.484  2788  4078 I Delight5Decoder: loadLanguageModel() : MAIN, version [20180802]
+08-28 21:55:39.484  2788  4078 I native  : language-utils-delegator.cc:75 Adding en to delegate.
+08-28 21:55:39.484  2788  4078 I native  : language-utils-delegator.cc:79 language en not found, so added it.
+08-28 21:55:39.485  2788  8680 I Delight5Facilitator: Running blacklist loader
+08-28 21:55:39.486  2788  8684 I SuperDelight: SuperDelightManager#registerAndUpgradeSuperpacks(delight): current 20190203, required 20190203
+08-28 21:55:39.487  2788  8680 I Delight5Facilitator: Running contacts language model loader
+08-28 21:55:39.488  2788  8680 I Delight5Facilitator: Running personal language model loader
+08-28 21:55:39.489  2788  8693 I SuperDelight: SuperDelightManager#syncDownloadableLanguageModels(delight): [OnDevice] Syncing for version 20190203
+08-28 21:55:39.489  2788  8680 I Delight5Facilitator: Running user history language model loader
+08-28 21:55:39.491  2788  8680 I EmojiSuperpacksManager: triggerSync() : isBundled = false
+08-28 21:55:39.492  2788  8680 I EmojiSuperpacksManager: triggerSync() : isBundled = true
+08-28 21:55:39.495  2788  3679 I SP      : Registering emoji.3, url: https://www.gstatic.com/android/keyboard/modelpack/emoji/20180213165651/superpacks_manifest.zip, constraints: m:*, flags: fg, requested: 3, current: -1
+08-28 21:55:39.495  2788  8680 I EmojiShortcutsLoader: Emoji shortcut file does not exist.
+08-28 21:55:39.495  2788  8680 I EmojiShortcutsLoader: 0 emoji shortcut maps loaded.
+08-28 21:55:39.496  2788  8680 I EmojiShortcutsLoader: Finished loading emoji shortcuts
+08-28 21:55:39.496  2788  8680 I Delight5Facilitator: Running email language model loader
+08-28 21:55:39.499  2788  8680 I Delight5Facilitator: Running contacts language model loader
+08-28 21:55:39.528  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, fg}, 1 candidates
+08-28 21:55:39.535  2788  2788 I SP      : ====> Starting job {m:b, fg}
+08-28 21:55:39.569  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 1 pending: manifests:emoji-3 * {m:b, fg}
+08-28 21:55:39.604  2788  4078 I native  : fst-model.cc:382 Created LM accumulator /data/user/0/com.google.android.inputmethod.latin/files/personal/en_us.20180802.lm.acc
+08-28 21:55:39.606  2788  4078 I native  : proto-store.cc:45 File not found: '/data/user/0/com.google.android.inputmethod.latin/files/personal/adapt_state.en.dat'.
+08-28 21:55:39.606  2788  4078 I native  : (This might be OK for example when a language is being loaded for the first time.)
+08-28 21:55:39.607  2788  4078 I Delight5Decoder: Loaded main LM /data/user/0/com.google.android.inputmethod.latin/files/superpacks/delight/main_en_us_20180802_1
+08-28 21:55:39.607  2788  4078 I Delight5Decoder: loadLanguageModel() : BLACKLIST, version [n/a]
+08-28 21:55:39.609  2788  4078 I native  : blacklist-assembly.cc:115 LoadBlacklist en
+08-28 21:55:39.610  2788  4078 I native  : blacklist.cc:217 No blacklist file for a language. (This is OK if the language is loaded for the first time.) /data/user/0/com.google.android.inputmethod.latin/files/personal/blacklist.en_us.list
+08-28 21:55:39.610  2788  4078 E native  : android-decoder-jni.cc:411 Failed to load dynamic LM from /data/user/0/com.google.android.inputmethod.latin/files/personal/blacklist.en_us.list
+08-28 21:55:39.610  2788  4078 W Delight5Decoder: Failed to load dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/blacklist.en_us.list
+08-28 21:55:39.612  2788  4078 I Delight5Decoder: loadLanguageModel() : PERSONAL_DICTIONARY, version [n/a]
+08-28 21:55:39.614  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/Personal.en_US.dict
+08-28 21:55:39.615  2788  3679 I SP      : Scheduling: job start ({m:b, fg}), 1 started, 0 paused, 0 scheduled, 1 pending: manifests:emoji-3 @ * {m:b, fg}
+08-28 21:55:39.617  2788  3679 I SP      : Registering bundled_emoji.3, url: null, constraints: m:*, flags: *, requested: 3, current: -1
+08-28 21:55:39.619  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/modelpack/emoji/20180213165651/superpacks_manifest.zip to emoji-3.zip.fetched (constraints: m:b)
+08-28 21:55:39.621  2788  4078 I Delight5Decoder: loadLanguageModel() : USER_HISTORY, version [n/a]
+08-28 21:55:39.625  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/userhistory/UserHistory.en_US.dict
+08-28 21:55:39.638  2788  3679 I SuperDelight: DownloadSlicing#getSlices() : Locale = [en_US]
+08-28 21:55:39.638  2788  8690 I FetchBundledTask: Successfully copied file from /data/user/0/com.google.android.inputmethod.latin/files/emoji_superpacks_manifest_bundled.zip to /data/user/0/com.google.android.inputmethod.latin/files/superpacks/manifests/bundled_emoji-3.zip.fetched.
+08-28 21:55:39.652  2788  3679 I SuperDelight: DownloadSlicing#getSlices(): result {slices=[delight:main_en_us_20180802_1], last batch=true, sync metadata=false}
+08-28 21:55:39.653  2788  3679 I SP      : Syncing delight (20190203) with slices: [main_en_us_20180802_1], metadata: false
+08-28 21:55:39.713  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:39.754  2788  3679 I SuperDelight: SuperDelightMergingStrategy#merge(): selected[[main_en_us_20180802_1]] synced[[main_en_us_20180802_1]]
+08-28 21:55:39.805  2788  3679 I SP      : Sync for delight succeeded in 169 ms: no changes
+08-28 21:55:39.842  2788  3679 I SP      : Successfully got manifest for bundled_emoji-manifest: manifests:bundled_emoji-3
+08-28 21:55:39.853  2788  3679 I EmojiSlicingStrategy: matchEnabledLocalesWithPackLocales() : User enabled 1 locales; returning 1 slices
+08-28 21:55:39.853  2788  3679 I SP      : Syncing bundled_emoji (3) with slices: [{442dd7424a2b73ebe817b5223ec48db9, m:*}], metadata: false
+08-28 21:55:39.917  2788  8678 I FetchBundledTask: Successfully copied file from /data/user/0/com.google.android.inputmethod.latin/files/emoji_search_en_us.zip to /data/user/0/com.google.android.inputmethod.latin/files/superpacks/bundled_emoji/442dd7424a2b73ebe817b5223ec48db9.zip.fetched.
+08-28 21:55:39.943  2788  3679 I SP      : <==== Finishing job {m:b, fg}, 407 ms. elapsed since start
+08-28 21:55:39.951  2788  3679 I SP      : Download stopped: manifests:emoji-3, succeeded foreground, size: 4070
+08-28 21:55:40.032  2014  2014 I NotificationService: Cannot find enqueued record for key: 0|com.google.android.inputmethod.latin|1|null|10145
+08-28 21:55:40.157  2788  3679 I SP      : Sync for bundled_emoji succeeded in 306 ms: {added: [442dd7424a2b73ebe817b5223ec48db9], metadata: false
+08-28 21:55:40.175  2788  3679 I SP      : Successfully got manifest for emoji-manifest: manifests:emoji-3
+08-28 21:55:40.193  2788  8690 I EmojiSuperpacksManager: processPackSet() : isBundled = true
+08-28 21:55:40.194  2788  8680 I EmojiSuperpacksManager: triggerSync() : isBundled = false
+08-28 21:55:40.195  2788  8680 I EmojiShortcutsLoader: Reading en_US emoji shortcuts
+08-28 21:55:40.206  2788  3679 I EmojiSlicingStrategy: matchEnabledLocalesWithPackLocales() : User enabled 1 locales; returning 1 slices
+08-28 21:55:40.206  2788  3679 I SP      : Syncing emoji (3) with slices: [{442dd7424a2b73ebe817b5223ec48db9, m:*}], metadata: false
+08-28 21:55:40.260  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:40.292  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 1 pending: emoji:442dd7424a2b73ebe817b5223ec48db9 * {m:b, bg}
+08-28 21:55:40.293  2788  3679 I SP      : Registering emoji.3, url: https://www.gstatic.com/android/keyboard/modelpack/emoji/20180213165651/superpacks_manifest.zip, constraints: m:*, flags: fg, requested: 3, current: 3
+08-28 21:55:40.300  2788  3679 I EmojiSlicingStrategy: matchEnabledLocalesWithPackLocales() : User enabled 1 locales; returning 1 slices
+08-28 21:55:40.300  2788  3679 I SP      : Syncing emoji (3) with slices: [{442dd7424a2b73ebe817b5223ec48db9, m:*}], metadata: false
+08-28 21:55:40.342  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:40.342  2788  2788 I SP      : ====> Starting job {m:b, bg}
+08-28 21:55:40.349  2194  8672 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ started execution. cause:7 exec_start_elapsed_seconds: 4830 [CONTEXT service_id=218 ]
+08-28 21:55:40.353  2788  8680 I EmojiShortcutsLoader: Read en_US emoji shortcuts successfully.
+08-28 21:55:40.353  2788  8680 I EmojiShortcutsLoader: 1 emoji shortcut maps loaded.
+08-28 21:55:40.354  2788  8680 I EmojiShortcutsLoader: Finished loading emoji shortcuts
+08-28 21:55:40.367  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 1 pending: emoji:442dd7424a2b73ebe817b5223ec48db9 * {m:b, bg}
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: triggerSync() : Failed to obtain model.
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: java.util.concurrent.CancellationException: Task was cancelled.
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at mcj.a(PG:101)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at mcj.get(PG:80)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at mff.a(PG:1)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at meb.a(PG:29)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at mdx.run(PG:4)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at ihe.run(PG:26)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:40.369  2788  8656 W EmojiSuperpacksManager: 	at igq.run(PG:8)
+08-28 21:55:40.377  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 4532144 , only wrote 4395650
+08-28 21:55:40.397  2788  3679 I SP      : Scheduling: job start ({m:b, bg}), 1 started, 0 paused, 0 scheduled, 1 pending: emoji:442dd7424a2b73ebe817b5223ec48db9 @ * {m:b, bg}
+08-28 21:55:40.397  2788  3679 I AbstractSyncResult: onFailure(): emoji.sync cancelled; expected if new request supersedes pending one.
+08-28 21:55:40.398  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/emoji/20180213165651/en.zip to 442dd7424a2b73ebe817b5223ec48db9.zip.fetched (constraints: m:b)
+08-28 21:55:40.543  2014  3153 D WificondControl: Scan result ready event
+08-28 21:55:40.577  2788  3679 I SP      : <==== Finishing job {m:b, bg}, 235 ms. elapsed since start
+08-28 21:55:40.578  2788  3679 I SP      : Download stopped: emoji:442dd7424a2b73ebe817b5223ec48db9, succeeded, size: 94091
+08-28 21:55:40.612  2194  8673 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ finished executing. cause:7 result: 1 elapsed_millis: 280 uptime_millis: 280 exec_start_elapsed_seconds: 4830 [CONTEXT service_id=218 ]
+08-28 21:55:40.837  2788  3679 I SP      : Sync for emoji succeeded in 542 ms: {added: [442dd7424a2b73ebe817b5223ec48db9], metadata: false
+08-28 21:55:40.854  2788  8678 I EmojiSuperpacksManager: processPackSet() : isBundled = false
+08-28 21:55:40.855  2788  8680 I EmojiShortcutsLoader: Reading en_US emoji shortcuts
+08-28 21:55:40.871  2788  8680 I EmojiShortcutsLoader: Read en_US emoji shortcuts successfully.
+08-28 21:55:40.871  2788  8680 I EmojiShortcutsLoader: 1 emoji shortcut maps loaded.
+08-28 21:55:40.871  2788  8680 I EmojiShortcutsLoader: Finished loading emoji shortcuts
+08-28 21:55:41.653  3850  3984 I WorkerManager: dispose()
+08-28 21:55:41.655  3850  3984 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+08-28 21:55:41.799  2194  2194 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-28 21:55:42.142  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:42.164  2194  5630 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:42.490  2194  4608 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 21:55:42.490  2194  4608 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:42.491  2194  4608 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:42.559  2194  4608 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+08-28 21:55:42.560  2194  4608 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:42.560  2194  4608 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:42.624  2194  4608 E Volley  : [84] BasicNetwork.performRequest: Unexpected response code 429 for https://www.googleapis.com/placesandroid/v1/getAutocompletePredictions?key=AIzaSyBEpEwdBClM8koty10dj7n1QtVd75BaV9U
+08-28 21:55:42.636  2194  4809 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:42.651  2194  5630 E ErrorUtils: Received generic error from server: 429
+08-28 21:55:42.660  2194  5630 E AsyncOperation: serviceID=65, operation=GetAutoPredictions
+08-28 21:55:42.660  2194  5630 E AsyncOperation: OperationException[Status{statusCode=ERROR, resolution=null}]
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at bjzy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at bjzm.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):37)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:42.660  2194  5630 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:42.673  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:42.675  2194  5630 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:42.785  2194  4609 E Volley  : [85] BasicNetwork.performRequest: Unexpected response code 429 for https://www.googleapis.com/placesandroid/v1/getAutocompletePredictions?key=AIzaSyBEpEwdBClM8koty10dj7n1QtVd75BaV9U
+08-28 21:55:42.788  2194  5630 E ErrorUtils: Received generic error from server: 429
+08-28 21:55:42.790  2194  5630 E AsyncOperation: serviceID=65, operation=GetAutoPredictions
+08-28 21:55:42.790  2194  5630 E AsyncOperation: OperationException[Status{statusCode=ERROR, resolution=null}]
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at bjzy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at bjzm.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):37)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):8)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:42.790  2194  5630 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:42.792  2194  4809 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:44.106  7250  7264 W id.gms.unstabl: Reducing the number of considered missed Gc histogram windows from 239 to 100
+08-28 21:55:45.198  7575  7588 W droid.deskcloc: Reducing the number of considered missed Gc histogram windows from 120 to 100
+08-28 21:55:46.559  2014  3217 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.559  2014  3217 I chatty  : uid=1000(system) Binder:2014_10 identical 8 lines
+08-28 21:55:46.559  2014  3217 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.578  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 4395668 , only wrote 4395650
+08-28 21:55:46.593  7575  7575 I AlarmClock: Changing world clocks from [] to [ChIJOwg_06VPwokRYv534QaPC8g]
+08-28 21:55:46.645  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 21:55:46.647  2014  5322 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.650  2014  5322 I chatty  : uid=1000(system) Binder:2014_1D identical 28 lines
+08-28 21:55:46.650  2014  5322 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.658  7575  7575 I AppLifecycleTracker: onActivityStarted: 
+08-28 21:55:46.660  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 21:55:46.692  2014  3203 W UriGrantsManagerService: No permission grants found for com.google.android.deskclock
+08-28 21:55:46.697  7575  7575 I AppLifecycleTracker: onActivityResumed: 
+08-28 21:55:46.782  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:46.807  1765  1815 I chatty  : uid=1000(system) HwBinder:1765_1 identical 1 line
+08-28 21:55:46.822  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:46.883  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:46.911  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.912  2014  2047 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-28 21:55:46.912  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.912  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:46.914  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.915  2014  2047 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-28 21:55:46.915  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:46.941  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:46.952  2788  2788 I PhenotypeExpConfig: refreshConfiguration() : Force = false : UpdateAvailable = true : Age = 79 minutes : MaxAge = 720 minutes
+08-28 21:55:46.973  2788  2788 I AndroidIME: LatinIme.onDeactivate()
+08-28 21:55:46.979  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:46.999  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:46.999  2788  8691 D EGL_emulation: eglMakeCurrent: 0xd7f1b8c0: ver 2 0 (tinfo 0xbc908be0)
+08-28 21:55:47.070  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:47.367  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 21:55:47.371  7575  7575 I AppLifecycleTracker: App foreground state unchanged: inForeground ? true
+08-28 21:55:47.378  7575  7575 I AppLifecycleTracker: onActivityDestroyed: 
+08-28 21:55:49.711  1754  1896 W audio_hw_generic: Not supplying enough data to HAL, expected position 4670319 , only wrote 4533799
+08-28 21:55:51.968  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : com.google.android.inputmethod.latin
+08-28 21:55:52.055  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 21:55:52.059  1754  5599 W audio_hw_generic: Not supplying enough data to HAL, expected position 4533819 , only wrote 4533799
+08-28 21:55:52.116  2788  3459 I UrgentSignal: Received signal: id: 316371177
+08-28 21:55:52.117  2788  3459 I UrgentSignal: Signal target module: 1
+08-28 21:55:52.117  2788  3459 I UrgentSignal: Signal target module: 1
+08-28 21:55:52.128  2788  3459 I Delight5Facilitator: resetDecoder() : Locale = [en_US]
+08-28 21:55:52.155  2788  8680 I MainLoader: Running LM loader for [en_US]
+08-28 21:55:52.155  2788  8680 I SuperDelight: SuperDelightLanguageModelProvider#fetchLanguageModel(): 1 locales
+08-28 21:55:52.155  2788  8693 I SuperDelight: initializeBundledDelightSuperpacks()
+08-28 21:55:52.157  2788  3679 I SP      : Registering bundled_delight.20190203, url: null, constraints: *:*, flags: *, requested: 20190203, current: 20190203
+08-28 21:55:52.162  2788  8683 I SuperDelight: SuperDelightManager#syncBundledLanguageModels(): Syncing for version 20190203
+08-28 21:55:52.166  2788  3679 I SuperDelight: BundledSlicing#getSlices() : Locale = [en_US]
+08-28 21:55:52.166  2788  3679 I SuperDelight: BundledSlicing#getSlices(): result {slices=[bundled_delight:main_en_us_20180802_2], last batch=true, sync metadata=false}
+08-28 21:55:52.167  2788  3679 I SP      : Syncing bundled_delight (20190203) with slices: [main_en_us_20180802_2], metadata: false
+08-28 21:55:52.200  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : ConfigurationsResult = Persisted
+08-28 21:55:52.208  2788  2788 I ShortcutsDataManager: startImportContentTask()
+08-28 21:55:52.213  2788  2788 I EmojiSuperpacksManager: triggerSync() : isBundled = false
+08-28 21:55:52.211  2788  3721 I ShortcutsDataManager: doInBackground()
+08-28 21:55:52.218  2788  3721 I PersonalDictDataHandler: Locales = [en_US]
+08-28 21:55:52.234  2788  8693 I SuperDelight: initializeDelightSuperpacks()
+08-28 21:55:52.235  2788  8693 I SuperDelight: getDelightMetadataUriAndVersion(): Phenotype : 2019100102 : https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json
+08-28 21:55:52.235  2788  8693 I SuperDelight: initializeOverridesSuperpacks()
+08-28 21:55:52.239  2788  3501 I Conv2QueryExtension: updateCandidateProvider(): isC2QAsynchronouslyTriggered: false
+08-28 21:55:52.248  1748  1748 D Zygote  : Forked child process 8724
+08-28 21:55:52.253  8724  8724 W d.process.acor: Unexpected CPU variant for X86 using defaults: x86
+08-28 21:55:52.256  2014  2053 I ActivityManager: Start proc 8724:android.process.acore/u0a55 for content provider {com.android.providers.userdictionary/com.android.providers.userdictionary.UserDictionaryProvider}
+08-28 21:55:52.258  2788  8684 I SuperDelight: SuperDelightManager#registerAndUpgradeSuperpacks(delight): current 20190203, required 2019100102
+08-28 21:55:52.267  2788  8681 I SuperDelight: SuperDelightManager#syncOverridesLanguageModels(): Superpack delight_overrides not found or negative version provided
+08-28 21:55:52.275  2788  3459 I PhenotypeIme: FetchConfigurationTask.fetchConfiguration() : Success after 310 ms
+08-28 21:55:52.274  2788  3679 I SP      : Registering emoji.20, url: https://www.gstatic.com/android/keyboard/modelpack/emoji/20190401132437/superpacks_manifest.zip, constraints: m:*, flags: fg, requested: 20, current: 3
+08-28 21:55:52.280  2014  2124 V InputDispatcher: Asynchronous input event injection succeeded.
+08-28 21:55:52.282  2014  2043 D AutofillManagerService: Close system dialogs
+08-28 21:55:52.282  2014  2044 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras)} from uid 0
+08-28 21:55:52.286  2212  2212 V StatusBar: mStatusBarWindow: com.android.systemui.statusbar.phone.StatusBarWindowView{4abb1d6 V.E...... ........ 0,0-1440,84} canPanelBeCollapsed(): false
+08-28 21:55:52.288  2788  3679 I SP      : Sync for bundled_delight succeeded in 124 ms: no changes
+08-28 21:55:52.288  2014  2044 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:52.289  2014  2044 I chatty  : uid=1000(system) android.ui identical 18 lines
+08-28 21:55:52.289  2014  2044 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:52.308  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.325  7575  7575 I AppLifecycleTracker: onActivityPaused: 
+08-28 21:55:52.335  3850  5602 D EGL_emulation: eglMakeCurrent: 0xd494ab40: ver 2 0 (tinfo 0xbae42840)
+08-28 21:55:52.343  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, fg}, 1 candidates
+08-28 21:55:52.346  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.395  2014  2014 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+08-28 21:55:52.395  2014  2014 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+08-28 21:55:52.407  2014  2044 W Looper  : Slow dispatch took 102ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=31
+08-28 21:55:52.367  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.418  8724  8724 I d.process.acor: The ClassLoaderContext is a special shared library.
+08-28 21:55:52.439  3850  3850 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+08-28 21:55:52.455  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.476  3850  3984 W SessionLifecycleManager: Handover failed. Creating new session controller.
+08-28 21:55:52.495  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.509  8724  8724 I d.process.acor: The ClassLoaderContext is a special shared library.
+08-28 21:55:52.532  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 1 pending: manifests:emoji-20 * {m:b, fg}
+08-28 21:55:52.534  2833  3697 D EGL_emulation: eglMakeCurrent: 0xd7f1a300: ver 2 0 (tinfo 0xd7f0f420)
+08-28 21:55:52.558  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 14749696
+08-28 21:55:52.565  2788  3679 I SP      : Registering emoji-predictor.20190205, url: https://www.gstatic.com/android/keyboard/emoji_predictor/superpacks-manifest-20190205.json, constraints: *:*, flags: *, requested: 20190205, current: -1
+08-28 21:55:52.568  8724  8724 I d.process.acor: The ClassLoaderContext is a special shared library.
+08-28 21:55:52.571  8724  8724 I ContactsPerf: VoicemailContentProvider.onCreate start
+08-28 21:55:52.574  2788  3679 I SP      : Registering delight.2019100102, url: https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json, constraints: m:*, flags: *, requested: 2019100102, current: 20190203
+08-28 21:55:52.589  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:52.590  2014  2047 I chatty  : uid=1000(system) android.anim identical 8 lines
+08-28 21:55:52.590  2014  2047 W InputReader: Device has associated, but no associated display id.
+08-28 21:55:52.591  8724  8724 I ContactsPerf: VoicemailContentProvider.onCreate finish
+08-28 21:55:52.601  2788  3679 I SP      : Registering next-word-predictor.20180920, url: https://www.gstatic.com/android/keyboard/next_word_predictor/prod/superpacks-manifest-20180920.json, constraints: *:*, flags: *, requested: 20180920, current: -1
+08-28 21:55:52.610  1765  1815 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9441280
+08-28 21:55:52.657  2788  2788 I KeyboardViewHelper: Get view with height ratio:1.000000; experiment height ratio:1.000000.
+08-28 21:55:52.660  2014  5322 W ActivityManager: Slow operation: 68ms so far, now at getContentProviderImpl: after updateLruProcess
+08-28 21:55:52.668  2014  5322 W ActivityManager: Slow operation: 68ms so far, now at getContentProviderImpl: before updateOomAdj
+08-28 21:55:52.669  2014  5322 W ActivityManager: Slow operation: 77ms so far, now at getContentProviderImpl: after updateOomAdj
+08-28 21:55:52.669  2014  5322 W ActivityManager: Slow operation: 77ms so far, now at getContentProviderImpl: done!
+08-28 21:55:52.690  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.701  2014  5322 D CountryDetector: The first listener is added
+08-28 21:55:52.702  8724  8724 I ContactsDatabaseHelper: updateUseStrictPhoneNumberComparison: US
+08-28 21:55:52.720  8724  8724 D ActivityThread: Loading provider contacts;com.android.contacts: com.android.providers.contacts.ContactsProvider2
+08-28 21:55:52.722  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.758  3850  8660 E sb.v.u.LiteSuggestSourc: On-device lite suggest model loading error.
+08-28 21:55:52.784  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.810  2212  2533 I chatty  : uid=10108(com.android.systemui) RenderThread identical 1 line
+08-28 21:55:52.836  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.851  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:52.858  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.906  2833  2847 I s.nexuslaunche: NativeAlloc concurrent copying GC freed 7729(436KB) AllocSpace objects, 2(104KB) LOS objects, 49% free, 2909KB/5818KB, paused 16.535ms total 185.080ms
+08-28 21:55:52.906  2833  2847 W s.nexuslaunche: Reducing the number of considered missed Gc histogram windows from 122 to 100
+08-28 21:55:52.909  2833  2849 W System  : A resource failed to call release. 
+08-28 21:55:52.912  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:52.915  2833  2849 W System  : A resource failed to call release. 
+08-28 21:55:52.922  3850  8431 W LocationOracle: No location history returned by ContextManager
+08-28 21:55:52.926  2788  2788 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+08-28 21:55:52.936  2788  2802 I putmethod.lati: Background concurrent copying GC freed 13321(1188KB) AllocSpace objects, 4(872KB) LOS objects, 35% free, 10MB/16MB, paused 1.478ms total 577.742ms
+08-28 21:55:52.991  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, fg}, 1 candidates
+08-28 21:55:53.004  8724  8759 D ContactsDatabaseHelper: WAL enabled for contacts2.db: true
+08-28 21:55:53.016  2788  2788 I SP      : ====> Starting job {m:b, fg}
+08-28 21:55:53.033  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:53.041  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:53.043  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:53.043  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:53.043  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:55:53.070  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:53.098  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:53.113  2212  2249 I ndroid.systemu: NativeAlloc concurrent copying GC freed 43769(1304KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 5527KB/10MB, paused 2.564ms total 297.168ms
+08-28 21:55:53.111  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 2 scheduled, 2 pending: manifests:emoji-20 * {m:b, fg}, manifests:emoji-predictor-20190205 * {m:b, bg}
+08-28 21:55:53.174  2788  3721 I ShortcutsDataManager: importRecords() : Success : Count = 0
+08-28 21:55:53.196  7575  7614 D EGL_emulation: eglMakeCurrent: 0xd494b4a0: ver 2 0 (tinfo 0xe009ffd0)
+08-28 21:55:53.217  2194  5630 W .gms.persisten: Long monitor contention with owner netscheduler-queue-handler (4759) at int aqtk.a(aqte, aauy)(:com.google.android.gms@202414022@20.24.14 (040700-319035315):88) waiters=0 in int aqtk.c(aqqo) for 177ms
+08-28 21:55:53.225  7575  7575 I AppLifecycleTracker: onActivityStopped: 
+08-28 21:55:53.227  7575  7575 I AppLifecycleTracker: App transition to background
+08-28 21:55:53.230  7575  7575 I AppLifecycleTracker: onActivitySaveInstanceState: 
+08-28 21:55:53.245  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:53.248  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:53.271  2788  2802 I putmethod.lati: Background young concurrent copying GC freed 38365(3627KB) AllocSpace objects, 7(1744KB) LOS objects, 18% free, 13MB/16MB, paused 4.853ms total 205.489ms
+08-28 21:55:53.286  8724  8759 I ContactLocale: AddressBook Labels [[en_US]]: […, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω, …, А, Б, В, Г, Д, Ђ, Е, Є, Ж, З, И, І, Й, Ј, К, Л, Љ, М, Н, Њ, О, П, Р, С, Т, Ћ, У, Ф, Х, Ц, Ч, Џ, Ш, Щ, Ю, Я, …, א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת, …, ا, ب, ت, ث, ج, ح, خ, د, ذ, ر, ز, س, ش, ص, ض, ط, ظ, ع, غ, ف, ق, ك, ل, م, ن, ه, و, ي, …, ก, ข, ฃ, ค, ฅ, ฆ, ง, จ, ฉ, ช, ซ, ฌ, ญ, ฎ, ฏ, ฐ, ฑ, ฒ, ณ, ด, ต, ถ, ท, ธ, น, บ, ป, ผ, ฝ, พ, ฟ, ภ, ม, ย, ร, ฤ, ล, ฦ, ว, ศ, ษ, ส, ห, ฬ, อ, ฮ, …, ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅊ, ㅋ, ㅌ, ㅍ, ㅎ, …, あ, か, さ, た, な, は, ま, や, ら, わ, #, …]
+08-28 21:55:53.289  8724  8760 W d.process.acor: Long monitor contention with owner Worker-1 (8759) at void com.android.providers.contacts.ContactLocaleUtils.setLocales(com.android.providers.contacts.LocaleSet)(ContactLocaleUtils.java:-1) waiters=1 in void com.android.providers.contacts.ContactLocaleUtils.setLocales(com.android.providers.contacts.LocaleSet) for 205ms
+08-28 21:55:53.327  2212  2533 D EGL_emulation: eglMakeCurrent: 0xd7f1a8a0: ver 2 0 (tinfo 0xd7f0f990)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: exception when setting module id
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: java.lang.IllegalStateException: Unable to get current module info in ModuleManager created with non-module Context
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at com.google.android.chimera.config.ModuleManager.getCurrentModule(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at aewd.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at aewg.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at aeso.a(Unknown Source:0)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rpm.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rlv.c(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rlt.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rok.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):6)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rok.c(:com.google.android.gms@202414022@20.24.14 (040700-319035315):6)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rok.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rok.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):17)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at rok.g(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at sdr.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at scr.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):10)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at sci.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at scl.handleMessage(:com.google.android.gms@202414022@20.24.14 (040700-319035315):28)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at aekz.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at aekz.dispatchMessage(:com.google.android.gms@202414022@20.24.14 (040700-319035315):14)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at android.os.Looper.loop(Looper.java:214)
+08-28 21:55:53.338  2194  2721 E ModuleIdSetter: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+08-28 21:55:53.343  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 3 pending: manifests:emoji-20 {m:b, fg}, manifests:emoji-predictor-20190205 {m:b, bg}, manifests:delight-2019100102 * {m:b, bg}
+08-28 21:55:53.376  2194  8673 W ctxmgr  : [AclManager] No 3 for (accnt=account#-517948760#, com.google.android.gms(10111):UserVelocityProducer, vrsn=202414022, 0, 3pPkg = null ,  3pMdlId = null ,  pid = 2194). Was: 3 for 1, account#-517948760# [CONTEXT service_id=47 ]
+08-28 21:55:53.377  8724  8760 D ContactsDatabaseHelper: WAL enabled for profile.db: false
+08-28 21:55:53.414  2788  3721 I putmethod.lati: IncrementDisableThreadFlip blocked for 20.554ms
+08-28 21:55:53.419  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:53.446  2788  3721 I ShortcutsDataManager: importContentData() : Ending import process
+08-28 21:55:53.473  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 4 pending: manifests:emoji-20 {m:b, fg}, manifests:emoji-predictor-20190205 {m:b, bg}, manifests:delight-2019100102 * {m:b, bg}, manifests:next-word-predictor-20180920 {m:b, bg}
+08-28 21:55:53.513  2014  2027 I system_server: NativeAlloc concurrent copying GC freed 67261(2888KB) AllocSpace objects, 9(256KB) LOS objects, 34% free, 11MB/17MB, paused 1.590ms total 245.709ms
+08-28 21:55:53.513  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:53.530  2788  3721 I PersonalLanguageModel: run() : Added 0 words and 0 shortcuts
+08-28 21:55:53.541  2788  2802 I putmethod.lati: Background young concurrent copying GC freed 72689(3649KB) AllocSpace objects, 6(1008KB) LOS objects, 22% free, 13MB/16MB, paused 23.537ms total 145.883ms
+08-28 21:55:53.549  2014  2045 I DropBoxManagerService: add tag=system_server_strictmode isTagEnabled=true flags=0x2
+08-28 21:55:53.551  2788  3721 I DynamicLm: perform() : PERSONAL_DICTIONARY : cgq : Completed
+08-28 21:55:53.555  2788  2788 I ShortcutsDataManager: onPostExecute() : Result = [2,0]
+08-28 21:55:53.555  2788  2788 I ShortcutsDataManager: onImportFinished() : Result = 2 : Count = 0
+08-28 21:55:53.569  1748  1748 D Zygote  : Forked child process 8768
+08-28 21:55:53.554  2014  2045 I chatty  : uid=1000(system) android.io identical 1 line
+08-28 21:55:53.573  2014  2045 I DropBoxManagerService: add tag=system_server_strictmode isTagEnabled=true flags=0x2
+08-28 21:55:53.576  2014  2053 I ActivityManager: Start proc 8768:com.google.process.gapps/u0a125 for content provider {com.google.android.syncadapters.contacts/com.google.android.syncadapters.contacts.ProxyGalProvider}
+08-28 21:55:53.604  8768  8768 W e.process.gapp: Unexpected CPU variant for X86 using defaults: x86
+08-28 21:55:53.621  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:53.640  2194  8761 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:53.645  2788  3679 I SP      : Scheduling: job start ({m:b, fg}), 0 started, 0 paused, 1 scheduled, 4 pending: manifests:emoji-20 {m:b, fg}, manifests:emoji-predictor-20190205 {m:b, bg}, manifests:delight-2019100102 * {m:b, bg}, manifests:next-word-predictor-20180920 {m:b, bg}
+08-28 21:55:53.645  2788  3679 I SP      : <==== Finishing job {m:b, fg}, 629 ms. elapsed since start
+08-28 21:55:53.694  2788  8680 I SuperDelight: initializeDelightSuperpacks()
+08-28 21:55:53.695  2788  8680 I SuperDelight: getDelightMetadataUriAndVersion(): Phenotype : 2019100102 : https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json
+08-28 21:55:53.704  2788  4078 I Delight5Decoder: loadLanguageModel() : MAIN, version [20180802]
+08-28 21:55:53.704  2788  8680 I Delight5Facilitator: Running blacklist loader
+08-28 21:55:53.705  2788  8680 I Delight5Facilitator: Running contacts language model loader
+08-28 21:55:53.705  2788  4078 I native  : language-utils-delegator.cc:75 Adding en to delegate.
+08-28 21:55:53.705  2788  4078 I native  : language-utils-delegator.cc:79 language en not found, so added it.
+08-28 21:55:53.705  2788  8680 I Delight5Facilitator: Running personal language model loader
+08-28 21:55:53.705  2788  8680 I Delight5Facilitator: Running user history language model loader
+08-28 21:55:53.707  2788  8680 I EmojiShortcutsLoader: Reading en_US emoji shortcuts
+08-28 21:55:53.708  2788  8681 I SuperDelight: SuperDelightManager#registerAndUpgradeSuperpacks(delight): current 20190203, required 2019100102
+08-28 21:55:53.709  2788  3679 I SP      : Registering delight.2019100102, url: https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json, constraints: m:*, flags: *, requested: 2019100102, current: 20190203
+08-28 21:55:53.714  2788  8693 I AbstractSyncResult: onFailure(): delight.sync cancelled; expected if new request supersedes pending one.
+08-28 21:55:53.732  1748  8769 I zygote  : Background young concurrent copying GC freed 28560(7465KB) AllocSpace objects, 0(0B) LOS objects, 86% free, 938KB/7082KB, paused 565us total 155.801ms
+08-28 21:55:53.733  1748  8769 W zygote  : Reducing the number of considered missed Gc histogram windows from 484 to 100
+08-28 21:55:53.825  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:53.839  2788  2788 I SP      : ====> Starting job {m:b, bg}
+08-28 21:55:53.858  2788  4078 I native  : proto-store.cc:45 File not found: '/data/user/0/com.google.android.inputmethod.latin/files/personal/adapt_state.en.dat'.
+08-28 21:55:53.858  2788  4078 I native  : (This might be OK for example when a language is being loaded for the first time.)
+08-28 21:55:53.860  2788  4078 I Delight5Decoder: Loaded main LM /data/user/0/com.google.android.inputmethod.latin/files/superpacks/delight/main_en_us_20180802_1
+08-28 21:55:53.860  2788  4078 I Delight5Decoder: loadLanguageModel() : BLACKLIST, version [n/a]
+08-28 21:55:53.862  2788  4078 I native  : blacklist-assembly.cc:115 LoadBlacklist en
+08-28 21:55:53.863  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/blacklist.en_us.list
+08-28 21:55:53.863  2788  4078 I Delight5Decoder: loadLanguageModel() : PERSONAL_DICTIONARY, version [n/a]
+08-28 21:55:53.871  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/Personal.en_US.dict
+08-28 21:55:53.873  8768  8768 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 21:55:53.873  8768  8768 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.manager-V1.0-java.jar
+08-28 21:55:53.873  8768  8768 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.hidl.base-V1.0-java.jar
+08-28 21:55:53.877  2788  8680 I EmojiShortcutsLoader: Read en_US emoji shortcuts successfully.
+08-28 21:55:53.878  2788  8680 I EmojiShortcutsLoader: 1 emoji shortcut maps loaded.
+08-28 21:55:53.885  8768  8768 I e.process.gapp: The ClassLoaderContext is a special shared library.
+08-28 21:55:53.892  2788  8680 I EmojiShortcutsLoader: Finished loading emoji shortcuts
+08-28 21:55:53.893  2788  8680 I Delight5Facilitator: Running email language model loader
+08-28 21:55:53.901  8768  8768 I e.process.gapp: The ClassLoaderContext is a special shared library.
+08-28 21:55:53.910  2194  2207 I .gms.persisten: WaitForGcToComplete blocked Background on None for 6.006ms
+08-28 21:55:53.921  2788  4078 I Delight5Decoder: loadLanguageModel() : USER_HISTORY, version [n/a]
+08-28 21:55:53.923  2788  4078 I Delight5Decoder: Loaded dynamic LM /data/user/0/com.google.android.inputmethod.latin/files/personal/userhistory/UserHistory.en_US.dict
+08-28 21:55:53.927  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 4 pending: manifests:emoji-20 {m:b, fg}, manifests:emoji-predictor-20190205 {m:b, bg}, manifests:next-word-predictor-20180920 {m:b, bg}, manifests:delight-2019100102 * {m:b, bg}
+08-28 21:55:53.934  2788  3679 I SuperpacksMgr: delight.registerManifest() cancelled
+08-28 21:55:53.991  2788  3679 I SP      : Scheduling: job start ({m:b, bg}), 1 started, 0 paused, 0 scheduled, 4 pending: manifests:emoji-20 {m:b, fg}, manifests:emoji-predictor-20190205 {m:b, bg}, manifests:next-word-predictor-20180920 {m:b, bg}, manifests:delight-2019100102 @ * {m:b, bg}
+08-28 21:55:53.993  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/dictionarypack/Wheelharp-normal/metadata_for_launch_noac.json to delight-2019100102.fetched (constraints: m:b)
+08-28 21:55:54.009  8768  8768 I GoogleHttpClient: GMS http client unavailable, use old client
+08-28 21:55:54.037  2788  8680 I EmojiPredTFLiteLoader: Using locale en_US for emoji prediction
+08-28 21:55:54.044  2194  2194 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-28 21:55:54.047  2194  2194 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_PENDING_INTENT pendingIntent=PendingIntent[creatorPackage=com.google.android.gms], packageName=com.google.android.gms]
+08-28 21:55:54.079  8724  8759 W d.process.acor: Long monitor contention with owner Worker-1 (8760) at boolean android.os.BinderProxy.transactNative(int, android.os.Parcel, android.os.Parcel, int)(BinderProxy.java:-2) waiters=0 in android.content.IContentProvider android.app.ActivityThread.acquireProvider(android.content.Context, java.lang.String, int, boolean) for 475ms
+08-28 21:55:54.094  2788  8730 I TenorApi: Fetched response from https://g.tenor.com/v1/categories with success = true
+08-28 21:55:54.107  8768  8793 I ProxyGalProvider: QueryGalProvider delegation enabled
+08-28 21:55:54.135  8768  8787 I ProxyGalProvider: QueryGalProvider delegation enabled
+08-28 21:55:54.147  2194  8795 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 0 [CONTEXT service_id=253 ]
+08-28 21:55:54.162  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:54.163  2194  8811 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:54.179  2403  5475 I PeopleChimeraService: onService. callbacks = aabq@3c2b224, request = com.google.android.gms.common.internal.GetServiceRequest@805018d
+08-28 21:55:54.197  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:54.205  2194  2207 I .gms.persisten: Background young concurrent copying GC freed 66802(3399KB) AllocSpace objects, 9(304KB) LOS objects, 14% free, 12MB/14MB, paused 2.432ms total 294.465ms
+08-28 21:55:54.205  2194  8673 I ctxmgr  : [ProducerStatusImpl] updateStateForNewContextData: inactive, contextName=7 [CONTEXT service_id=47 ]
+08-28 21:55:54.206  2403  5475 I PeopleChimeraService: onService. callbacks = aabq@7f89d8e, request = com.google.android.gms.common.internal.GetServiceRequest@eb089af
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: Gal task threw exception.
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: java.lang.UnsupportedOperationException
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at com.google.android.gms.people.service.galprovider.PeopleGalChimeraProvider.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):22)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at com.google.android.gms.people.service.galprovider.PeopleGalChimeraProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):14)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at qlv.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at ctk.superQuery(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at qlv.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):8)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at ctk.superQuery(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at ctk.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:944)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:880)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:836)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at anvv.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at anuy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:54.208  2403  4353 E PeopleGalProvider: 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: QueryGalProvider in GmsCore failed.
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: java.util.concurrent.ExecutionException: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.zza(Tasks.java:61)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.await(Tasks.java:33)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.syncadapters.contacts.ProxyGalProvider.query(ProxyGalProvider.java:84)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:104)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: Caused by: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.gms.common.api.internal.zzdm.zza(TaskUtil.java:3)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.gms.people.zzy.zza(GalProviderClient.java:2)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	at com.google.android.gms.people.internal.zzf.onTransact(IPeopleCallbacks.java:77)
+08-28 21:55:54.213  8768  8793 E ProxyGalProvider: 	... 2 more
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: GalProvider in GmsCore is not ready, using legacy one
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: java.util.concurrent.ExecutionException: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.zza(Tasks.java:61)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.await(Tasks.java:33)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.syncadapters.contacts.ProxyGalProvider.query(ProxyGalProvider.java:84)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:104)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: Caused by: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.gms.common.api.internal.zzdm.zza(TaskUtil.java:3)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.gms.people.zzy.zza(GalProviderClient.java:2)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	at com.google.android.gms.people.internal.zzf.onTransact(IPeopleCallbacks.java:77)
+08-28 21:55:54.213  8768  8793 W ProxyGalProvider: 	... 2 more
+08-28 21:55:54.213  8768  8793 I ProxyGalProvider: QueryGalProvider in Legacy provider.
+08-28 21:55:54.219  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:54.226  2194  8672 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: Gal task threw exception.
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: java.lang.UnsupportedOperationException
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at com.google.android.gms.people.service.galprovider.PeopleGalChimeraProvider.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):22)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at com.google.android.gms.people.service.galprovider.PeopleGalChimeraProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):14)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at qlv.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at ctk.superQuery(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at qlv.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):8)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at ctk.superQuery(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at com.google.android.chimera.ContentProvider.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at ctk.query(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:944)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:880)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at android.content.ContentResolver.query(ContentResolver.java:836)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at anvv.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):4)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at anuy.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):5)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at aabt.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):9)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at bnin.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):2)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-28 21:55:54.228  2403  4353 E PeopleGalProvider: 	at java.lang.Thread.run(Thread.java:919)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: QueryGalProvider in GmsCore failed.
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: java.util.concurrent.ExecutionException: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.zza(Tasks.java:61)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.await(Tasks.java:33)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.syncadapters.contacts.ProxyGalProvider.query(ProxyGalProvider.java:84)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:104)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: Caused by: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.gms.common.api.internal.zzdm.zza(TaskUtil.java:3)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.gms.people.zzy.zza(GalProviderClient.java:2)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	at com.google.android.gms.people.internal.zzf.onTransact(IPeopleCallbacks.java:77)
+08-28 21:55:54.230  8768  8787 E ProxyGalProvider: 	... 2 more
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: GalProvider in GmsCore is not ready, using legacy one
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: java.util.concurrent.ExecutionException: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.zza(Tasks.java:61)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.gms.tasks.Tasks.await(Tasks.java:33)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.syncadapters.contacts.ProxyGalProvider.query(ProxyGalProvider.java:84)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1214)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.content.ContentProvider.query(ContentProvider.java:1307)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:267)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:104)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.os.Binder.execTransactInternal(Binder.java:1021)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at android.os.Binder.execTransact(Binder.java:994)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: Caused by: com.google.android.gms.common.api.ApiException: 102: 
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.gms.common.api.internal.zzdm.zza(TaskUtil.java:3)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.gms.people.zzy.zza(GalProviderClient.java:2)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	at com.google.android.gms.people.internal.zzf.onTransact(IPeopleCallbacks.java:77)
+08-28 21:55:54.230  8768  8787 W ProxyGalProvider: 	... 2 more
+08-28 21:55:54.230  8768  8787 I ProxyGalProvider: QueryGalProvider in Legacy provider.
+08-28 21:55:54.233  2194  5630 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ started execution. cause:7 exec_start_elapsed_seconds: 4844 [CONTEXT service_id=218 ]
+08-28 21:55:54.278  2194  4809 I LogUtils: [Places]: ?: Couldn't find platform key file. [CONTEXT service_id=253 ]
+08-28 21:55:54.289  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:54.307  2788  3679 I SP      : <==== Finishing job {m:b, bg}, 467 ms. elapsed since start
+08-28 21:55:54.307  2788  3679 I SP      : Download stopped: manifests:delight-2019100102, succeeded, size: 268519
+08-28 21:55:54.319  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 2 candidates
+08-28 21:55:54.339  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, fg}, 1 candidates
+08-28 21:55:54.342  8724  8760 I ContactDirectoryManager: deleted 0 stale rows which don't have any relevant directory
+08-28 21:55:54.343  8724  8760 I ContactDirectoryManager: Discovered 0 contact directories in 831ms
+08-28 21:55:54.345  8724  8759 I ContactDirectoryManager: deleted 0 stale rows which don't have any relevant directory
+08-28 21:55:54.347  8724  8759 I ContactDirectoryManager: Discovered 0 contact directories in 767ms
+08-28 21:55:54.350  2194  8673 I .gms.persisten: IncrementDisableThreadFlip blocked for 7.553ms
+08-28 21:55:54.351  2194  5630 I .gms.persisten: IncrementDisableThreadFlip blocked for 8.282ms
+08-28 21:55:54.361  2788  2788 I SP      : ====> Starting job {m:b, fg}
+08-28 21:55:54.367  2194  8795 I LogUtils: [Places]: ?: PlacesBleScanner start() with priority 2 [CONTEXT service_id=253 ]
+08-28 21:55:54.368  2194  8795 I PlacesLogger: [PlaceInferenceEngine]: [anon] Changed inference mode: 1 [CONTEXT service_id=253 ]
+08-28 21:55:54.382  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 3 scheduled, 3 pending: manifests:emoji-20 * {m:b, fg}, manifests:emoji-predictor-20190205 * {m:b, bg}, manifests:next-word-predictor-20180920 * {m:b, bg}
+08-28 21:55:54.400  2194  2194 E BeaconBle: Missing BluetoothAdapter [CONTEXT service_id=111 ]
+08-28 21:55:54.400  2194  2194 I BeaconBle: BLE 'KK+' software access layer enabled [CONTEXT service_id=111 ]
+08-28 21:55:54.401  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 2 candidates
+08-28 21:55:54.424  2194  4051 W GCoreFlp: No location to return for getLastLocation()
+08-28 21:55:54.424  2194  2194 I BeaconBle: Client requested scan, settings=BleSettings [scanMode=ZERO_POWER, callbackType=ALL_MATCHES, reportDelayMillis=0, 1 filters, 0 clients, callingClientName=Places] [CONTEXT service_id=111 ]
+08-28 21:55:54.425  2194  2194 I BeaconBle: Scan : No clients left, canceling alarm. [CONTEXT service_id=111 ]
+08-28 21:55:54.425  2788  3679 I SP      : Scheduling: job start ({m:b, fg}), 1 started, 0 paused, 2 scheduled, 3 pending: manifests:emoji-20 @ * {m:b, fg}, manifests:emoji-predictor-20190205 * {m:b, bg}, manifests:next-word-predictor-20180920 * {m:b, bg}
+08-28 21:55:54.425  2194  2194 E BeaconBle: Scan couldn't start for Places [CONTEXT service_id=111 ]
+08-28 21:55:54.426  2194  2194 W Places  : BLE failure while scanning - code 5
+08-28 21:55:54.441  2194  2207 I .gms.persisten: Background concurrent copying GC freed 94522(4128KB) AllocSpace objects, 31(2108KB) LOS objects, 40% free, 8991KB/14MB, paused 1.334ms total 186.989ms
+08-28 21:55:54.466  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/modelpack/emoji/20190401132437/superpacks_manifest.zip to emoji-20.zip.fetched (constraints: m:b)
+08-28 21:55:54.496  2788  3679 I SP      : Successfully got manifest for delight-manifest: manifests:delight-2019100102
+08-28 21:55:54.634  2788  3679 I SuperDelight: SuperDelightDownloadMetadataParser#parse(delight): Manifest parsed with 666 packs
+08-28 21:55:54.647  2788  3679 I SP      : <==== Finishing job {m:b, fg}, 286 ms. elapsed since start
+08-28 21:55:54.648  2788  8684 I SuperDelight: SuperDelightManager#syncDownloadableLanguageModels(delight): [OnDevice] Syncing for version 2019100102
+08-28 21:55:54.651  2788  3679 I SP      : Download stopped: manifests:emoji-20, succeeded foreground, size: 5258
+08-28 21:55:54.674  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 2 candidates
+08-28 21:55:54.722  2194  5630 W .gms.persisten: Long monitor contention with owner netscheduler-queue-handler (4759) at int aqtk.a(aqte, aauy)(:com.google.android.gms@202414022@20.24.14 (040700-319035315):88) waiters=0 in void aqtk.a(boolean, aeoe) for 259ms
+08-28 21:55:54.725  2014  2014 I NotificationService: Cannot find enqueued record for key: 0|com.google.android.inputmethod.latin|1|null|10145
+08-28 21:55:54.748  2194  5630 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ finished executing. cause:7 result: 1 elapsed_millis: 893 uptime_millis: 898 exec_start_elapsed_seconds: 4844 [CONTEXT service_id=218 ]
+08-28 21:55:54.750  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 2 scheduled, 2 pending: manifests:emoji-predictor-20190205 * {m:b, bg}, manifests:next-word-predictor-20180920 * {m:b, bg}
+08-28 21:55:54.785  2788  3679 I SuperDelight: DownloadSlicing#getSlices() : Locale = [en_US]
+08-28 21:55:54.794  2788  3679 I SuperDelight: DownloadSlicing#getSlices(): result {slices=[delight:main_en_us_20180802_1], last batch=true, sync metadata=false}
+08-28 21:55:54.795  2788  3679 I SP      : Syncing delight (2019100102) with slices: [main_en_us_20180802_1], metadata: false
+08-28 21:55:54.839  2194  4759 I NetworkScheduler: ignoring stale queue check message
+08-28 21:55:54.886  2788  2788 I SP      : ====> Starting job {m:b, bg}
+08-28 21:55:54.900  2788  3679 I SuperDelight: SuperDelightMergingStrategy#merge(): selected[[main_en_us_20180802_1]] synced[[main_en_us_20180802_1]]
+08-28 21:55:54.921  2788  3679 I SP      : Scheduling: job start ({m:b, bg}), 2 started, 0 paused, 0 scheduled, 2 pending: manifests:emoji-predictor-20190205 @ * {m:b, bg}, manifests:next-word-predictor-20180920 @ * {m:b, bg}
+08-28 21:55:54.921  2788  3679 I SP      : Sync for delight succeeded in 139 ms: no changes
+08-28 21:55:54.922  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/emoji_predictor/superpacks-manifest-20190205.json to emoji-predictor-20190205.fetched (constraints: m:b)
+08-28 21:55:54.922  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/next_word_predictor/prod/superpacks-manifest-20180920.json to next-word-predictor-20180920.fetched (constraints: m:b)
+08-28 21:55:54.929  2788  3679 I SP      : Successfully got manifest for emoji-manifest: manifests:emoji-20
+08-28 21:55:54.952  2788  3679 I EmojiSlicingStrategy: matchEnabledLocalesWithPackLocales() : User enabled 1 locales; returning 1 slices
+08-28 21:55:54.953  2788  3679 I SP      : Syncing emoji (20) with slices: [{56f61e93403a5c80d23070b28785cecd, m:*}], metadata: false
+08-28 21:55:54.982  2194  5630 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.icing.proxy.IcingInternalCorporaUpdateService started execution. cause:7 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:55.016  2788  3679 I SP      : Scheduling: download registered, 1 started, 0 paused, 0 scheduled, 3 pending: manifests:emoji-predictor-20190205 @ {m:b, bg}, manifests:next-word-predictor-20180920 @ {m:b, bg}, emoji:56f61e93403a5c80d23070b28785cecd @ * {m:b, bg}
+08-28 21:55:55.016  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/emoji/20190401132437/en.zip to 56f61e93403a5c80d23070b28785cecd.zip.fetched (constraints: m:b)
+08-28 21:55:55.031  2194  5630 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.icing.proxy.IcingInternalCorporaUpdateService finished executing. cause:7 result: 1 elapsed_millis: 232 uptime_millis: 232 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:55.051  2194  5630 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ started execution. cause:7 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:55.051  2788  3679 I SP      : Download stopped: manifests:emoji-predictor-20190205, succeeded, size: 588
+08-28 21:55:55.084  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 0 scheduled, 2 pending: manifests:next-word-predictor-20180920 @ {m:b, bg}, emoji:56f61e93403a5c80d23070b28785cecd @ {m:b, bg}
+08-28 21:55:55.131  2788  3679 I SP      : Download stopped: manifests:next-word-predictor-20180920, succeeded, size: 933
+08-28 21:55:55.154  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 0 scheduled, 1 pending: emoji:56f61e93403a5c80d23070b28785cecd @ {m:b, bg}
+08-28 21:55:55.170  2788  3679 I SP      : Successfully got manifest for emoji-predictor-manifest: manifests:emoji-predictor-20190205
+08-28 21:55:55.209  2788  3679 I SP      : <==== Finishing job {m:b, bg}, 322 ms. elapsed since start
+08-28 21:55:55.209  2788  3679 I SP      : Download stopped: emoji:56f61e93403a5c80d23070b28785cecd, succeeded, size: 61056
+08-28 21:55:55.215  2194  8761 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ finished executing. cause:7 result: 1 elapsed_millis: 345 uptime_millis: 345 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:55.222  1754  1754 W audio_hw_generic: Not supplying enough data to HAL, expected position 4810854 , only wrote 4673270
+08-28 21:55:55.267  2788  3679 I SP      : Syncing emoji-predictor (20190205) with slices: [tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6], metadata: false
+08-28 21:55:55.268  2788  3679 I SP      : Successfully got manifest for next-word-predictor-manifest: manifests:next-word-predictor-20180920
+08-28 21:55:55.318  2788  3679 I SP      : Scheduling job with delay of 0s for {m:b, bg}, 1 candidates
+08-28 21:55:55.339  2788  3679 I SP      : Scheduling: download registered, 0 started, 0 paused, 1 scheduled, 1 pending: emoji-predictor:tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6 * {m:b, bg}
+08-28 21:55:55.380  2194  5630 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ started execution. cause:7 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:55.382  2788  2788 I SP      : ====> Starting job {m:b, bg}
+08-28 21:55:55.386  2788  3679 I SP      : Syncing next-word-predictor (20180920) with slices: [pie-nwp-20180807, tflite-nwp-20180920], metadata: false
+08-28 21:55:55.414  2788  3679 I SP      : Scheduling: job start ({m:b, bg}), 1 started, 0 paused, 0 scheduled, 1 pending: emoji-predictor:tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6 @ * {m:b, bg}
+08-28 21:55:55.488  2788  3679 I SP      : Scheduling: download registered, 1 started, 0 paused, 0 scheduled, 2 pending: emoji-predictor:tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6 @ {m:b, bg}, next-word-predictor:pie-nwp-20180807 @ * {m:b, bg}
+08-28 21:55:55.509  2788  3679 I SP      : Scheduling: download registered, 1 started, 0 paused, 0 scheduled, 3 pending: emoji-predictor:tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6 @ {m:b, bg}, next-word-predictor:pie-nwp-20180807 @ {m:b, bg}, next-word-predictor:tflite-nwp-20180920 @ * {m:b, bg}
+08-28 21:55:55.529  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/emoji_predictor/tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6.zip to tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6.zip.fetched (constraints: m:b)
+08-28 21:55:55.531  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/next_word_predictor/prod/pie-nwp-20180807.zip to pie-nwp-20180807.zip.fetched (constraints: m:b)
+08-28 21:55:55.532  2788  3679 I SP      : Requesting download of URL https://www.gstatic.com/android/keyboard/next_word_predictor/prod/tflite-nwp-20180920.zip to tflite-nwp-20180920.zip.fetched (constraints: m:b)
+08-28 21:55:55.534  2788  3679 I SP      : Sync for emoji succeeded in 583 ms: {added: [56f61e93403a5c80d23070b28785cecd], removed: [442dd7424a2b73ebe817b5223ec48db9], metadata: false
+08-28 21:55:55.556  2014  2052 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-28 21:55:55.556  2014  2052 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-28 21:55:55.580  2788  8656 I EmojiSuperpacksManager: processPackSet() : isBundled = false
+08-28 21:55:55.582  2788  8680 I EmojiShortcutsLoader: Reading en_US emoji shortcuts
+08-28 21:55:55.584  2788  8680 I EmojiShortcutsLoader: Read en_US emoji shortcuts successfully.
+08-28 21:55:55.584  2788  8680 I EmojiShortcutsLoader: 1 emoji shortcut maps loaded.
+08-28 21:55:55.587  2788  8680 I EmojiShortcutsLoader: Finished loading emoji shortcuts
+08-28 21:55:55.850  2788  3679 I SP      : Download stopped: emoji-predictor:tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6, succeeded, size: 1036909
+08-28 21:55:55.894  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 0 scheduled, 2 pending: next-word-predictor:pie-nwp-20180807 @ {m:b, bg}, next-word-predictor:tflite-nwp-20180920 @ {m:b, bg}
+08-28 21:55:56.133  2788  3679 I SP      : Download stopped: next-word-predictor:pie-nwp-20180807, succeeded, size: 1842621
+08-28 21:55:56.158  2788  3679 I SP      : Scheduling: download stopped, 0 started, 0 paused, 0 scheduled, 1 pending: next-word-predictor:tflite-nwp-20180920 @ {m:b, bg}
+08-28 21:55:56.234  2788  3679 I SP      : Sync for emoji-predictor succeeded in 979 ms: {added: [tflite-emoji-pred-a69f4f3dd1a865206f8a5f8cdcd9f6d6], metadata: false
+08-28 21:55:56.363  2788  3679 I SP      : <==== Finishing job {m:b, bg}, 982 ms. elapsed since start
+08-28 21:55:56.363  2788  3679 I SP      : Download stopped: next-word-predictor:tflite-nwp-20180920, succeeded, size: 1847381
+08-28 21:55:56.368  2194  8761 I NetworkScheduler.Stats: Task com.google.android.inputmethod.latin/ finished executing. cause:7 result: 1 elapsed_millis: 1006 uptime_millis: 1006 exec_start_elapsed_seconds: 4845 [CONTEXT service_id=218 ]
+08-28 21:55:56.723  2788  3679 I SP      : Sync for next-word-predictor succeeded in 1342 ms: {added: [pie-nwp-20180807, tflite-nwp-20180920], metadata: false
+08-28 21:55:58.053  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:55:58.055  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:55:58.059  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:55:58.060  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:56:00.001  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:56:00.008  7575  7575 I chatty  : uid=10133(com.google.android.deskclock) identical 2 lines
+08-28 21:56:00.009  7575  7575 I AlarmClock: Periodic: Executing periodic callback for MINUTE because the period ended
+08-28 21:56:00.025  2212  2212 D KeyguardClockSwitch: Updating clock: 956
+08-28 21:56:03.065  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:56:03.066  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:56:03.067  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:56:03.068  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:56:08.075  3850  3984 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-28 21:56:08.077  3850  3984 W ErrorReporter: reportError [type: 211, code: 393244, bug: 0]: errorCode: 393244, engine: 0
+08-28 21:56:08.081  3850  3984 I MicroDetector: Keeping mic open: false
+08-28 21:56:08.081  3850  3984 I MicroDetectionWorker: #onError(false)
+08-28 21:56:08.086  3850  8710 I DeviceStateChecker: DeviceStateChecker cancelled
